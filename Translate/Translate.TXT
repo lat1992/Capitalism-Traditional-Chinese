@@ -1,0 +1,2238 @@
+Auto Save in Process...|
+自動保存過程中...|
+~
+Release|
+(發布)|
+~
+(C) Copyright 2014 Enlight Software Ltd. All rights reserved.|
+(C) 版權所有2014年Enlight軟件有限公司保留所有權利。|
+~
+Set a new advertising budget for all your advertising units:|
+設置新的廣告預算為您的所有廣告單元：|
+~
+Corporate Balance Sheet|
+公司的資產負債表|
+~
+Corporate Income Statement|
+企業的損益表|
+~
+lb|
+磅|
+~
+lbs|
+磅|
+~
+Donations|
+捐款|
+~
+R&D Expenses|
+研發費用|
+~
+Current Brand Strategy:|
+目前的品牌戰略：|
+~
+Current Product|
+目前產品|
+~
+City Average|
+全市平均|
+~
+Customer Traffic|
+客戶流量|
+~
+Customer Traffic Index|
+客戶流量指數|
+~
+Div. :|
+Div. :|
+~
+Dividend Payout Ratio|
+派息比率|
+~
+Bank Loans|
+銀行貸款|
+~
+Unemployment Rate|
+失業率|
+~
+Financial|
+財經|
+~
+Firms|
+公司|
+~
+Purchasing Power|
+購買力|
+~
+Firms for sale|
+公司出售|
+~
+Financials|
+財務數據|
+~
+Demand Bonus|
+需求獎金|
+~
+Inflation|
+通脹|
+~
+Inflation Rate|
+通貨膨脹率|
+~
+Population|
+人口|
+~
+Population Growth|
+人口增長|
+~
+Quality of Life Index|
+生活質量指數|
+~
+Persons|
+人|
+~
+SELECT (F8)|
+選擇（F8）|
+~
+Housing Supply & Demand Index|
+房屋供求信息指數|
+~
+Office Space Supply & Demand Index|
+寫字樓供求信息指數|
+~
+Business Expertise|
+業務專長|
+~
+News Types|
+新聞類型|
+~
+Operations|
+操作|
+~
+(YTD)|
+(YTD)|
+~
+Goal|
+目標|
+~
+Billionaires 100|
+億萬富豪100|
+~
+GOAL|
+目標|
+~
+Currency Revalued!|
+貨幣重估！|
+~
+CURRENCY REVALUED! The government announced that the currency will be revalued at a ratio of 1 to 100.|
+貨幣升值！政府宣布的貨幣將在1到100的比例進行重估|
+~
+Banknotes and coins for the revalued currency will enter into circulation.|
+紙幣和硬幣的貨幣升值將進入流通。|
+~
+undergoes a 1-10 stock merge, which groups every 10 shares into one share.|
+經歷了一個1-10的股票合併，這組每10股一股。|
+~
+REVERSE STOCK SPLIT|
+反向股票分割|
+~
+All publicly-traded stocks are required to maintain a minimum bid price of at least $1.00 per share.|
+所有公開交易的股票都必須保持至少每股1.00美元的最低投標價。|
+~
+Your company's stock currently trades at % and therefore a reverse stock split is required.|
+您的公司的股票目前股價%，因此反向股票分割是必需的。|
+~
+A 1-10 reverse stock split will group every 10 shares into one share.|
+1-10反向股票分割意志集團每10股一股。|
+~
+The resulting stock price will be %.|
+由此產生的股價將是%。|
+~
+This is an open-ended game and there are no goals.|
+這是一個開放式的比賽，沒有目標。|
+~
+Financial Figures|
+財務數據|
+~
+Operating Figures|
+操作圖|
+~
+Performance Indices|
+性能指標|
+~
+OPERATING PROFIT|
+營業利潤|
+~
+OPERATING EXPENSES|
+經營費用|
+~
+OPERATING REVENUE|
+營業收入|
+~
+Finansial|
+Finansial|
+~
+Special|
+特別|
+~
+Preference|
+偏好|
+~
+New advertising budget|
+新的廣告預算|
+~
+Adjust advertising spending based on inflation|
+基於通脹調整廣告支出|
+~
+Increase all advertising spendings monthly based on inflation|
+增加所有的廣告開支每月根據通貨膨脹|
+~
+Regularly adjust prices based on inflation|
+定期調整基於對通脹價格|
+~
+Increase all product prices monthly at the same rate as inflation|
+提高所有產品價格每月以相同的速度隨著通脹|
+~
+Investor relations efforts will help improve your|
+投資者關係的努力將有助於改善你的|
+~
+We are not in need of cash and thus not interested in selling our technology.|
+我們不是需要現金，因此沒有興趣銷售我們的技術。|
+~
+Shareholders|
+股東|
+~
+To win this game, you must achieve the given goals.|
+為了贏得這場比賽，你必須達到特定的目標。|
+~
+Own technology level:|
+自身的技術水平：|
+~
+How much do you offer?|
+多少錢你提供？|
+~
+Not interested, unless you offer % for the technology.|
+不感興趣，除非你提供%，為技術。|
+~
+Forget it|
+算了吧|
+~
+I don't have this much money, forget it.|
+我沒有這麼多錢，算了吧。|
+~
+I will offer this much|
+我會提供這麼多|
+~
+We are not interested in selling this technology to our competitors.|
+我們不是有意出售這項技術給我們的競爭對手。|
+~
+Company to Acquire Tech From|
+公司將收購科技從|
+~
+Pricing policy:|
+定價政策：|
+~
+Maximize Profit Margin|
+最大限度地提高利潤率|
+~
+Balanced|
+平衡|
+~
+Maximize Market Share|
+最大限度地提高市場份額|
+~
+Score|
+比分|
+~
+Products|
+產品|
+~
+Product Details|
+產品詳細資料|
+~
+Never sell products below costs|
+從不出售低於成本的產品|
+~
+Look for better supplies|
+尋找更好的供應|
+~
+From own firms only|
+只從自己的公司|
+~
+From any firms|
+從任何公司|
+~
+Look for better products to sell in retail stores|
+尋找更好的產品在零售商店出售|
+~
+Prefer ordering from own warehouses over own factories|
+從更喜歡自己的倉庫了自己的工廠訂貨|
+~
+Internal Sale|
+國內銷售|
+~
+Always enable it|
+始終啟用|
+~
+Change it as needed|
+改變它需要|
+~
+Never change it|
+永遠不會改變它|
+~
+Sell factory "internal sale" products at cost|
+出售工廠“內部銷售”產品成本|
+~
+Change Training Budget|
+變化培訓預算|
+~
+Change Advertising Budget|
+更改廣告預算|
+~
+CMO decides which products to advertise|
+CMO決定做廣告哪些產品|
+~
+CMO chooses media firms and decides advertising budgets|
+CMO選擇的媒體公司，並決定廣告預算|
+~
+Prefer own media firms|
+寧願自己的媒體公司|
+~
+Only advertise in own media firms|
+在自己的媒體公司只公告|
+~
+Change R&D Projects|
+改變R＆D項目|
+~
+Organize an Intensive Training Program|
+組織一個密集的訓練計劃|
+~
+Training effect will be instant but|
+培訓效果會即時但是|
+~
+it's cost-effectiveness is 30% lower than normal training.|
+它的成本效益比正常的訓練低30％。|
+~
+How much will you allocate for training per employee?|
+閣下將獲得多少分配給每名員工的培訓？|
+~
+Technology|
+技術|
+~
+Tech|
+科技|
+~
+Trade|
+貿易|
+~
+This is your subsidiary company. Who should be in charge of setting the dividend?|
+這是你的子公司。誰應該負責設置分紅？|
+~
+I will set the dividend|
+我將設置分紅|
+~
+Let the CEO set the dividend|
+讓CEO設定的分紅|
+~
+You cannot use a corporation that you control to buy back it's own shares.|
+你不能使用你控制買回它自己的股份公司。|
+~
+Last Year Trade|
+去年貿易|
+~
+Expert Product Class:|
+專家產品類別：|
+~
+Annual Revenue|
+年收入|
+~
+% joins % as the %.|
+% 加入 % 作為 %。|
+~
+the job as the|
+工作為|
+~
+If your corporation is using 'Corporate Brand' strategy,|
+如果你的公司正在使用“企業品牌”戰略，|
+~
+PR Effect on Brand Awareness|
+品牌意識PR效果|
+~
+Brand Awareness|
+品牌意識|
+~
+Adjust Training Levels for all your firms|
+調整培訓等級為所有的企業|
+~
+Monthly Spending|
+每月支出|
+~
+Apply All|
+適用於所有|
+~
+Apply Selected|
+應用選擇|
+~
+CONSIDER TECH OFFER|
+考慮收購建議|
+~
+st|
+日|
+~
+nd|
+日|
+~
+rd|
+日|
+~
+th|
+日|
+~
+N/A|
+N/A|
+~
+None|
+没有|
+~
+Very Low|
+非常低|
+~
+Low|
+低|
+~
+Moderate|
+中度|
+~
+High|
+高|
+~
+Very High|
+非常高|
+~
+Never|
+決不|
+~
+Seldom|
+很少|
+~
+Occasional|
+偶爾|
+~
+Frequent|
+頻繁|
+~
+Game Starting Year|
+遊戲開局之年|
+~
+Retail Store Type|
+零售商舖類型|
+~
+Many|
+很多|
+~
+One|
+一|
+~
+Technology Disruption|
+科技擾亂|
+~
+Off|
+關|
+~
+On|
+開|
+~
+Alternative Stock Sim|
+備選股票模擬|
+~
+Macro Economy Realism|
+宏觀經濟現實主義|
+~
+Inflation Strength|
+通脹實力|
+~
+Inverse|
+逆|
+~
+Reduced|
+減少|
+~
+AI Friendly Merger|
+AI友好合併|
+~
+Reset Goals|
+重設目標|
+~
+Lifetime Shareholder Return|
+一生股東回報|
+~
+to build the firm.|
+建立公司。|
+~
+changes it's corporate strategy from|
+改變企業戰略自|
+~
+to|
+到|
+~
+Technology Improvement|
+技術改進|
+~
+New Product Development|
+新產品開發|
+~
+Tech Gain:|
+技術增益：|
+~
+Shopping Convenience|
+購物方便|
+~
+Green and Sports|
+綠色和體育|
+~
+Rent Attractiveness|
+租吸引力|
+~
+Overall Rating|
+總體評級|
+~
+Owner:|
+業主：|
+~
+Owned Technology|
+擁有技術|
+~
+Top Technology|
+頂級科技|
+~
+Graph|
+圖|
+~
+Business Assets|
+企業資產|
+~
+Total Dividend Paid|
+總股息支付|
+~
+Received Dividends|
+收到的股息|
+~
+Loan Interest Rate|
+貸款利率|
+~
+Loan Interest|
+貸款利息|
+~
+Increase in Asset Value|
+增加資產價值|
+~
+NET PROFIT|
+淨利潤|
+~
+OTHER PROFIT|
+其它營利|
+~
+Intangible Asset: Technology|
+無形資產：科技|
+~
+Land and Natural Resources|
+國土資源部|
+~
+Common Stock|
+普通股|
+~
+Total Earnings|
+總收入|
+~
+Quantity Sold|
+銷售量|
+~
+My Staff Only|
+只有我方人員|
+~
+Independent Investor|
+獨立投資者|
+~
+Role|
+角色|
+~
+Retail Store|
+零售商店|
+~
+Factory|
+廠|
+~
+R&D Center|
+研發中心|
+~
+Farm|
+農場|
+~
+Warehouse|
+倉庫|
+~
+Natural Resources Firm|
+自然資源公司|
+~
+Media Firm|
+媒體公司|
+~
+Apartment|
+公寓|
+~
+Commercial Building|
+商業大廈|
+~
+COMMERCIAL BUILDING|
+商業大廈|
+~
+Office Space Supply|
+辦公空間供應|
+~
+Office Space Demand|
+寫字樓的需求|
+~
+Distance to CBD|
+距離CBD|
+~
+Commuting Convenience|
+通勤便利|
+~
+New rent:|
+新租金：|
+~
+Market Rent:|
+市場租金：|
+~
+Profit|
+利潤|
+~
+Civic Building|
+城市房屋|
+~
+Sports Facilities|
+體育設施|
+~
+Cost|
+費用|
+~
+Price|
+價格|
+~
+Freight|
+貨運|
+~
+Crops|
+作物|
+~
+Go to Client(F7)|
+轉到客戶（F7）|
+~
+MANUFACTURER'S GUIDE|
+製造商指南|
+~
+FARMER'S GUIDE|
+農業指南|
+~
+MANAGER'S GUIDE|
+管理者指南|
+~
+Beverage|
+設備|
+~
+Computer|
+電腦|
+~
+Purchasing Unit|
+採購單位|
+~
+Purchase|
+購買|
+~
+Sales Unit|
+銷售單位|
+~
+Sales|
+銷售|
+~
+Manufacturing Unit|
+製造單位|
+~
+Mft|
+MFT|
+~
+Livestock Raising Unit|
+畜牧業股|
+~
+Livestock|
+畜牧業|
+~
+Livestock Processing Unit|
+家畜處理單元|
+~
+Process|
+流程|
+~
+Oil Extraction Unit|
+採油單位|
+~
+Extract|
+提取|
+~
+Logging Unit|
+登錄儀|
+~
+Logging|
+登錄|
+~
+Advertising Unit|
+廣告部|
+~
+Advertise|
+廣告服務|
+~
+R&D|
+R&D|
+~
+Research & Development Unit|
+研究與發展部|
+~
+Inventory|
+盤點|
+~
+Inventory Unit|
+庫存單位|
+~
+Warehouse Storage Unit|
+倉庫存儲單元|
+~
+Storage|
+存儲|
+~
+Warehouse Input Unit|
+倉庫輸入單元|
+~
+Input|
+輸入|
+~
+Warehouse Output Unit|
+倉庫輸出單元|
+~
+Output|
+輸出|
+~
+Labelling|
+標籤|
+~
+Private Labelling Unit|
+私人標籤組|
+~
+Crop|
+作物|
+~
+Crop Growing Unit|
+作物生長單位|
+~
+Mining|
+採礦|
+~
+Mining Unit|
+礦業股|
+~
+MOD Setting|
+MOD設置|
+~
+MOD in use: %|
+MOD使用： %|
+~
+has been loaded successfully.|
+已經被成功加載。|
+~
+Reset successfully. The game now no longer uses any MOD.|
+復位成功。該遊戲現在不再使用任何MOD。|
+~
+MOD|
+MOD|
+~
+LOAD SCRIPT|
+負載腳本|
+~
+LOAD A GAME|
+加載遊戲|
+~
+LOAD|
+加載|
+~
+Custom|
+自定義|
+~
+PROFILE|
+簡介|
+~
+Owned %|
+擁有 %|
+~
+Owned|
+擁有|
+~
+ASSETS|
+資產|
+~
+LIABILITIES|
+負債|
+~
+SHAREHOLDER EQUITY|
+股東權益|
+~
+Subsidiary|
+子公司|
+~
+Any|
+任何|
+~
+Shareholder|
+股東|
+~
+Earnings Per Share|
+每股收益|
+~
+Equity Per Share|
+股票每股|
+~
+P/B Ratio|
+P/B比率|
+~
+Stock Value|
+股票價值|
+~
+Retailing|
+零售|
+~
+Manufacturing|
+製造|
+~
+Farming|
+農業|
+~
+Raw Material Production|
+原料生產|
+~
+Consumer|
+消費|
+~
+Tech|
+科技|
+~
+Real Estate|
+房地產|
+~
+Media|
+媒體|
+~
+Investment|
+投資|
+~
+12 months|
+12個月|
+~
+Goal Deadline|
+目標截止日期|
+~
+MAIN GOAL|
+主要目標|
+~
+12 Months|
+12月|
+~
+30 Years|
+30年|
+~
+Past 36 Months|
+過去36個月|
+~
+Past 30 Years|
+過去的30年|
+~
+Utilization|
+利用|
+~
+Start|
+開始|
+~
+Stock |
+股票|
+~
+Stock|
+股票|
+~
+The central bank increases the interest rate from % to %.|
+央行增加從%至%的利率。|
+~
+The central bank decreases the interest rate from % to %.|
+央行減少從%至%的利率。|
+~
+The New Central Bank Chairman|
+新央行行長|
+~
+A new chairman with|
+新的董事長與|
+~
+is now at the helm of the central bank.|
+是現在央行的掌舵人。|
+~
+Consumer Price Index|
+消費物價指數|
+~
+Consumer Price Index:|
+消費物價指數：|
+~
+Real Wage Rate|
+實際工資率|
+~
+Economic State|
+經濟狀況|
+~
+Booming|
+蓬勃發展|
+~
+Expansion|
+擴展|
+~
+Static|
+靜態|
+~
+Contraction|
+收縮|
+~
+Recession|
+經濟衰退|
+~
+Crisis|
+危機|
+~
+Depression|
+抑鬱症|
+~
+Central Bank Attitude|
+央行態度|
+~
+Inflation Dove (strong)|
+弱性通脹（強）|
+~
+Inflation Dove (modest)|
+弱性通脹（謙虛）|
+~
+Neutral|
+中立|
+~
+Inflation Hawk (modest)|
+强硬通脹（謙虛）|
+~
+Inflation Hawk (strong)|
+强硬通脹（強）|
+~
+Central Bank Policy|
+央行政策|
+~
+Ultra Loose|
+超寬鬆|
+~
+Very Loose|
+很寬鬆|
+~
+Loose|
+寬鬆|
+~
+Slightly Loose|
+略微寬鬆|
+~
+Normal|
+普通|
+~
+Slightly Tight|
+稍緊|
+~
+Tight|
+緊|
+~
+Very Tight|
+很緊|
+~
+Ultra Tight|
+超緊|
+~
+GDP Growth|
+GDP增長|
+~
+City Graphs|
+市圖|
+~
+City|
+城|
+~
+Financial Actions|
+金融行動|
+~
+Corporation / Subsidiary|
+公司/子公司|
+~
+Pear Year|
+每年|
+~
+Past Year|
+過去一年|
+~
+Name|
+名稱|
+~
+Wealth ($Billion)|
+財富（億元）|
+~
+Controlled Share|
+控制分享|
+~
+Economic Graphs|
+經濟圖|
+~
+Money Demand|
+貨幣需求|
+~
+Money Supply|
+貨幣供應|
+~
+Issue New Shares to the Public|
+發行公共新股|
+~
+Issue New Shares to Parent Company|
+發行新股給母公司|
+~
+Issuing Price (should be LOWER than market price)|
+發行價格（應該比市場價格低）|
+~
+Issuing Price (should be HIGHER than market price)|
+發行價格（應該比市場價格更高）|
+~
+Subsidiaries Only|
+只有子公司|
+~
+Parent Company|
+母公司|
+~
+Parent Company Cash|
+母公司現金|
+~
+Parent Company Share Ownership|
+母公司持股|
+~
+Current Stock Price|
+目前股價|
+~
+Number of New Shares|
+新股份數目|
+~
+Maximum Number of Shares that can be issued|
+的可發行股份數量上限|
+~
+Number of Shares in Existence|
+在存在股份數目|
+~
+Fund to be Raised|
+基金籌集|
+~
+Share Dilution|
+分享稀釋|
+~
+New Shares Issued|
+新股發行|
+~
+Set Dividend|
+設置分紅|
+~
+Actual Dividend Yield|
+實際的股息收益率|
+~
+Discount|
+折扣|
+~
+Premium|
+高級|
+~
+Owned Qty|
+擁有數量|
+~
+Avg Cost|
+平均費用|
+~
+Market Price|
+市場價格|
+~
+Market Value|
+市值|
+~
+Market Cap|
+市值|
+~
+Market Capitalization|
+市值|
+~
+Number of Game Years|
+遊戲年數|
+~
+Ranking Method|
+排名方法|
+~
+Total Revenue|
+總收入|
+~
+Total Profit|
+利潤總額|
+~
+Industry Revenue|
+行業收入|
+~
+Product Revenue|
+產品收益|
+~
+Yes|
+是|
+~
+No|
+否|
+~
+YES|
+是|
+~
+NO|
+否|
+~
+OK|
+ОК|
+~
+CANCEL|
+取消|
+~
+Cancel|
+取消|
+~
+Use|
+使用|
+~
+Reset|
+重置|
+~
+Cities|
+城市|
+~
+CITIES|
+城市|
+~
+Training|
+培訓|
+~
+Search Product (Tab)|
+搜索產品（標籤）|
+~
+NEW GAME|
+新遊戲|
+~
+History|
+歷史|
+~
+Back|
+返回|
+~
+Owned Stocks|
+國有股|
+~
+Year-to-date|
+年初至今|
+~
+Display:|
+顯示：|
+~
+Last Year|
+去年|
+~
+Total|
+總計|
+~
+TOTAL|
+總計|
+~
+Total:|
+總計：|
+~
+Stock Returns|
+股票收益|
+~
+Stock News|
+股市新聞|
+~
+Lifetime Return|
+終身返回|
+~
+Lifetime|
+一生|
+~
+Corporation|
+公司|
+~
+Revenue|
+收入|
+~
+REVENUE|
+收入|
+~
+Past 3 Years|
+過去3年|
+~
+Gain/Loss%|
+收益/損失%|
+~
+Gain/Loss|
+收益/損失|
+~
+Gain|
+獲得|
+~
+Owned for|
+擁有了|
+~
+Total Wealth|
+總財富管理|
+~
+Corporations|
+企業|
+~
+CORPORATIONS|
+企業|
+~
+Corporate Details|
+公司詳情|
+~
+Cash|
+錢|
+~
+CASH|
+錢|
+~
+Stocks|
+股票|
+~
+Properties|
+屬性|
+~
+Housing Supply|
+房屋供應|
+~
+Housing Demand|
+房屋需求|
+~
+Occupancy Rate|
+入住率|
+~
+Community Facilities|
+社區設施|
+~
+APARTMENT|
+公寓|
+~
+years|
+年|
+~
+3 Years|
+3年|
+~
+Blazer|
+西裝外套|
+~
+Leather Jacket|
+皮夾克|
+~
+Jeans|
+牛仔褲|
+~
+Sweater|
+毛衣|
+~
+Car|
+租車|
+~
+Motorcycle|
+摩托車|
+~
+Bottled Milk|
+瓶裝牛奶|
+~
+Cola|
+可樂|
+~
+Grape Juice|
+葡萄汁|
+~
+Wine|
+紅酒|
+~
+Bath Lotion|
+沐浴露|
+~
+Shampoo|
+洗髮水|
+~
+Soap|
+香皂|
+~
+Toothpaste|
+牙膏|
+~
+Camera Phone|
+拍照手機|
+~
+HUD Glasses|
+HUD眼鏡|
+~
+Mobile Phone|
+手機|
+~
+Smart Phone|
+智能手機|
+~
+Desktop Computer|
+台式電腦|
+~
+Notebook Computer|
+筆記本電腦|
+~
+Printer|
+打印機|
+~
+Tablet Computer|
+平板電腦|
+~
+Eye Shadow|
+眼影|
+~
+Hair Color|
+頭髮顏色|
+~
+Lipstick|
+口紅|
+~
+Perfume|
+香水|
+~
+Cold Pills|
+感冒藥|
+~
+Cough Syrup|
+止咳糖漿|
+~
+Headache Pills|
+頭痛藥|
+~
+Camcorder|
+攝像機|
+~
+Hi-fi System|
+高保真音響|
+~
+Portable Media Player|
+便攜式媒體播放器|
+~
+Television|
+電視|
+~
+Bread|
+麵包|
+~
+Cakes|
+蛋糕|
+~
+Canned Corn|
+玉米罐頭|
+~
+Canned Soup|
+罐裝湯|
+~
+Corn Flakes|
+玉米片|
+~
+Sandals|
+涼鞋|
+~
+Shoes|
+鞋|
+~
+Socks|
+襪子|
+~
+Sport Shoes|
+運動鞋|
+~
+Bed|
+床|
+~
+Chair|
+椅|
+~
+Sofa|
+沙發|
+~
+Air Conditioner|
+空調|
+~
+Refrigerator|
+冰箱|
+~
+Washing Machine|
+洗衣機|
+~
+Detergent|
+洗滌劑|
+~
+Tissues|
+紙巾|
+~
+Toilet cleaner|
+廁所清潔劑|
+~
+Washing Powder|
+洗衣粉|
+~
+Silver Necklace|
+銀項鍊|
+~
+Gold Ring|
+金戒指|
+~
+Leather Bag|
+皮包|
+~
+Leather Belt|
+皮帶|
+~
+Leather Briefcase|
+皮革公文包|
+~
+Leather Wallet|
+真皮錢包|
+~
+Eggs|
+雞蛋|
+~
+Frozen Beef|
+速凍牛肉|
+~
+Frozen Chicken|
+速凍雞肉|
+~
+Frozen Pork|
+速凍豬肉|
+~
+Frozen Lamb|
+速凍羊肉|
+~
+Leather|
+皮革|
+~
+Milk|
+牛奶|
+~
+Wool|
+羊毛|
+~
+Cattle|
+牛|
+~
+Chicken|
+雞|
+~
+Pig|
+豬|
+~
+Sheep|
+羊|
+~
+Camera|
+攝像機|
+~
+Compact Camera|
+緊湊型攝像機|
+~
+Digital Camera|
+數碼相機|
+~
+Flax|
+亞麻|
+~
+Rubber Plant|
+橡膠廠|
+~
+Sugar Cane|
+甘蔗|
+~
+Cocoa|
+可可|
+~
+Coconut|
+椰子|
+~
+Corn|
+玉米|
+~
+Cotton|
+棉|
+~
+Flax Fiber|
+亞麻纖維|
+~
+Grapes|
+葡萄|
+~
+Lemon|
+檸檬|
+~
+Rubber|
+橡膠|
+~
+Strawberry|
+草莓|
+~
+Sugar|
+糖|
+~
+Tobacco|
+煙草|
+~
+Wheat|
+小麥|
+~
+Aluminum|
+鋁|
+~
+Chemical Minerals|
+化工礦產|
+~
+Coal|
+煤炭|
+~
+Gold|
+黃金|
+~
+Iron Ore|
+鐵礦石|
+~
+Oil|
+油|
+~
+Silica|
+矽膠|
+~
+Silver|
+銀|
+~
+Timber|
+木材|
+~
+Citric Acid|
+檸檬酸|
+~
+Car Body|
+車身|
+~
+CCD|
+CCD|
+~
+Coconut Oil|
+椰子油|
+~
+Corn Syrup|
+玉米糖漿|
+~
+CPU|
+CPU|
+~
+Dyestuff|
+染料|
+~
+Electronic Components|
+電子元件|
+~
+Engine|
+引擎|
+~
+Flour|
+麵粉|
+~
+Glass|
+玻璃|
+~
+Linen|
+床單|
+~
+Paper|
+紙|
+~
+Plastic|
+塑料|
+~
+Polyester|
+滌綸|
+~
+Silicon|
+矽|
+~
+Steel|
+鋼|
+~
+Textiles|
+紡織品|
+~
+Wheat Germ Oil|
+小麥胚芽油|
+~
+Wheel & Tire|
+車輪和輪胎|
+~
+Cereal Bar|
+穀物酒吧|
+~
+Chocolate Bar|
+巧克力條|
+~
+Cookies|
+餅乾|
+~
+Chewing Gum|
+口香糖|
+~
+Ice Cream|
+冰淇淋|
+~
+Yogurt|
+酸奶|
+~
+Back Pack|
+背上行囊|
+~
+Golf Clubs|
+高爾夫球棒|
+~
+In-line Skates|
+直排輪滑鞋|
+~
+Cigarettes|
+香煙|
+~
+Cigars|
+雪茄|
+~
+Handheld Game Console|
+掌上遊戲機|
+~
+Toy Racing Car|
+玩具賽車|
+~
+Toy Doll|
+玩具娃娃|
+~
+Video Game Console|
+電子遊戲機|
+~
+Elegant Watch|
+典雅手錶|
+~
+Silver Watch|
+白銀手錶|
+~
+Sports Watch|
+運動手錶|
+~
+Buenos Aires|
+布宜諾斯艾利斯|
+~
+Adelaide|
+阿德萊德|
+~
+Brisbane|
+布里斯班|
+~
+Melbourne|
+墨爾本|
+~
+Perth|
+珀斯|
+~
+Sydney|
+悉尼|
+~
+Vienna|
+維也納|
+~
+Brussels|
+布魯塞爾|
+~
+Recife|
+勒西菲|
+~
+Rio De Janeiro|
+里約熱內盧|
+~
+Montreal|
+蒙特利爾|
+~
+Toronto|
+多倫多|
+~
+Vancouver|
+溫哥華|
+~
+Winnipeg|
+溫尼伯|
+~
+Santiago|
+聖地亞哥|
+~
+Beijing|
+北京|
+~
+Chengdu|
+成都|
+~
+Guangzhou|
+廣州|
+~
+Harbin|
+哈爾濱|
+~
+Hong Kong|
+香港|
+~
+Lanzhou|
+蘭州|
+~
+Nanjing|
+南京|
+~
+Shanghai|
+上海|
+~
+Shenyang|
+沉陽|
+~
+Tianjin|
+天津|
+~
+Wuhan|
+武漢|
+~
+Bogota|
+波哥大|
+~
+Prague|
+布拉格|
+~
+Copenhagen|
+哥本哈根|
+~
+Cairo|
+開羅|
+~
+Helsinki|
+赫爾辛基|
+~
+Bordeaux|
+波爾多|
+~
+Lyon|
+里昂|
+~
+Marseilles|
+馬賽|
+~
+Montpellier|
+蒙彼利埃|
+~
+Nice|
+尼斯|
+~
+Paris|
+巴黎|
+~
+Toulouse|
+圖盧茲|
+~
+Berlin|
+柏林|
+~
+Essen|
+埃森|
+~
+Frankfurt|
+法蘭克福|
+~
+Hamburg|
+漢堡|
+~
+Leipzig|
+萊比錫|
+~
+Munich|
+慕尼黑|
+~
+Stuttgart|
+斯圖加特|
+~
+Athens|
+雅典|
+~
+Budapest|
+布達佩斯|
+~
+Bangalore|
+班加羅爾|
+~
+Mumbai|
+孟買|
+~
+Jakarta|
+雅加達|
+~
+Dublin|
+都柏林|
+~
+Tel Aviv|
+特拉維夫|
+~
+Milan|
+米蘭|
+~
+Naples|
+那不勒斯|
+~
+Palermo|
+巴勒莫|
+~
+Rome|
+羅馬|
+~
+Osaka|
+大阪|
+~
+Sapporo|
+札幌|
+~
+Tokyo|
+東京|
+~
+Yokohama|
+橫濱|
+~
+Luxembourg|
+盧森堡|
+~
+Kuala Lumpur|
+吉隆坡|
+~
+Mexico City|
+墨西哥城|
+~
+Amsterdam|
+阿姆斯特丹|
+~
+Rotterdam|
+鹿特丹|
+~
+Auckland|
+奧克蘭|
+~
+Lagos|
+拉各斯|
+~
+Oslo|
+奧斯陸|
+~
+Panama City|
+巴拿馬城|
+~
+Manila|
+馬尼拉|
+~
+Warsaw|
+華沙|
+~
+Lisboa|
+里斯本|
+~
+Bucharest|
+布加勒斯特|
+~
+Moscow|
+莫斯科|
+~
+St. Petersburg|
+聖彼得堡|
+~
+Belgrade|
+貝爾格萊德|
+~
+Singapore|
+新加坡|
+~
+Bratislava|
+布拉迪斯拉發|
+~
+Cape Town|
+開普敦|
+~
+Durban|
+德班|
+~
+Johannesburg|
+約翰內斯堡|
+~
+Busan|
+釜山|
+~
+Seoul|
+首爾|
+~
+Barcelona|
+巴塞羅那|
+~
+Madrid|
+馬德里|
+~
+Stockholm|
+斯德哥爾摩|
+~
+Geneve|
+日內瓦|
+~
+Zurich|
+蘇黎世|
+~
+Taipei|
+台北|
+~
+Bangkok|
+曼谷|
+~
+Istanbul|
+伊斯坦布爾|
+~
+Birmingham|
+伯明翰|
+~
+Glasgow|
+格拉斯哥|
+~
+London|
+倫敦|
+~
+Manchester|
+曼徹斯特|
+~
+Newcastle|
+紐卡斯爾|
+~
+Dubai|
+迪拜|
+~
+Albany|
+奧爾巴尼|
+~
+Atlanta|
+亞特蘭大|
+~
+Baltimore|
+巴爾的摩|
+~
+Boston|
+波士頓|
+~
+Chicago|
+芝加哥|
+~
+Cincinnati|
+辛辛那提|
+~
+Cleveland|
+克利夫蘭|
+~
+Dallas|
+達拉斯|
+~
+Denver|
+丹佛|
+~
+Detroit|
+底特律|
+~
+Houston|
+休斯頓|
+~
+Kansas City|
+堪薩斯城|
+~
+Kingston|
+金士頓|
+~
+Las Vegas|
+拉斯維加斯|
+~
+Los Angeles|
+洛杉磯|
+~
+Miami|
+邁阿密|
+~
+Minneapolis|
+明尼阿波利斯|
+~
+New Orleans|
+新奧爾良|
+~
+New York City|
+紐約市|
+~
+Philadelphia|
+費城|
+~
+Phoenix|
+鳳凰城|
+~
+Pittsburgh|
+匹茲堡|
+~
+Portland|
+波特蘭|
+~
+Raleigh|
+羅利|
+~
+San Diego|
+聖地亞哥|
+~
+San Francisco|
+舊金山|
+~
+Seattle|
+西雅圖|
+~
+St Louis|
+聖路易斯|
+~
+Washington DC|
+華盛頓|
+~
+Caracas|
+加拉加斯|
+~
+Ho Chi Minh City|
+胡志明市|
+~
+Argentina|
+阿根廷|
+~
+Australia|
+澳大利亞|
+~
+Austria|
+奧地利|
+~
+Belgium|
+比利時|
+~
+Brazil|
+巴西|
+~
+Canada|
+加拿大|
+~
+Chile|
+智利|
+~
+China|
+中國|
+~
+Colombia|
+哥倫比亞|
+~
+Czech Republic|
+捷克|
+~
+Denmark|
+丹麥|
+~
+Egypt|
+埃及|
+~
+Finland|
+芬蘭|
+~
+France|
+法國|
+~
+Germany|
+德國|
+~
+Greece|
+希臘|
+~
+Hungary|
+匈牙利|
+~
+India|
+印度|
+~
+Indonesia|
+印度尼西亞|
+~
+Ireland|
+愛爾蘭|
+~
+Israel|
+以色列|
+~
+Italy|
+意大利|
+~
+Japan|
+日本|
+~
+Luxembourg|
+盧森堡|
+~
+Malaysia|
+馬來西亞|
+~
+Mexico|
+墨西哥|
+~
+Netherlands|
+荷蘭|
+~
+New Zealand|
+新西蘭|
+~
+Nigeria|
+尼日利亞|
+~
+Norway|
+挪威|
+~
+Panama|
+巴拿馬|
+~
+Philippines|
+菲律賓|
+~
+Poland|
+波蘭|
+~
+Portugal|
+葡萄牙|
+~
+Romania|
+羅馬尼亞|
+~
+Russia|
+俄羅斯|
+~
+Serbia|
+塞爾維亞|
+~
+Singapore|
+新加坡|
+~
+Slovak Republic|
+斯洛伐克|
+~
+South Africa|
+南非|
+~
+Spain|
+西班牙|
+~
+Sweden|
+瑞典|
+~
+Switzerland|
+瑞士|
+~
+Taiwan|
+台灣|
+~
+Thailand|
+泰國|
+~
+Turkey|
+土耳其|
+~
+UK|
+英國|
+~
+United Arab Emirates|
+阿拉伯聯合酋長國|
+~
+USA|
+美國|
+~
+Venezuela|
+委內瑞拉|
+~
+Vietnam|
+越南|
+~
+Lunar Vitality|
+月活力|
+~
+Ideas Hotbed|
+創意溫床|
+~
+Memory Today|
+記住今天|
+~
+Two Wheels|
+兩個輪子|
+~
+Mankind|
+全人類|
+~
+Grid Works|
+電網工程|
+~
+Rising Sun Intl|
+旭日國際|
+~
+Mutual Group|
+互助集團|
+~
+Touch Point|
+接觸點|
+~
+Smashing Guard|
+粉碎衛隊|
+~
+Circle Cross|
+圓形十字|
+~
+Southern Lines|
+南線|
+~
+Ion Industries|
+離子產業|
+~
+Round Petal|
+圓形花瓣|
+~
+Parallel Inc.|
+同時公司|
+~
+Duopower Darts|
+堕力量飛鏢|
+~
+You have been trying to raise capital for your fashion startup for years. Unfortunately the fund raising process is difficult and slow. When you eventually succeed in launching your own fashion company (expected to happen in year 2000), there will be established competitors in the market. Do you have what it takes to curve out a niche with your new fashion brand and thrive in the market?|
+你一直為你的創業公司在努力籌集資金。不幸的是，基金募集過程是艱難而緩慢。當您在推出自己的創業公司（預計將發生在2000年），最終獲得成功，將有建立在市場上的競爭對手。你將怎麼去面對新的時尚品牌和茁壯成長的市場？|
+~
