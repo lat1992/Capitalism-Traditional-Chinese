@@ -2236,3 +2236,162 @@ Duopower Darts|
 You have been trying to raise capital for your fashion startup for years. Unfortunately the fund raising process is difficult and slow. When you eventually succeed in launching your own fashion company (expected to happen in year 2000), there will be established competitors in the market. Do you have what it takes to curve out a niche with your new fashion brand and thrive in the market?|
 你一直為你的創業公司在努力籌集資金。不幸的是，基金募集過程是艱難而緩慢。當您在推出自己的創業公司（預計將發生在2000年），最終獲得成功，將有建立在市場上的競爭對手。你將怎麼去面對新的時尚品牌和茁壯成長的市場？|
 ~
+The last tutorial you have finished is tutorial %|
+你已經完成了最後的教程 %。|
+~
+You are advised to follow the tutorials in a sequential order.|
+建議您遵循按順序教程。|
+~
+Are you sure that you want to start tutorial % now? This will skip the tutorial in between and you will be missing important information.|
+你確定你想現在就開始教程%？這將跳過之前的教程，你會錯過重要的教程信息。|
+~
+If this is your first time playing Capitalism Lab, you are advised to start tutorial %.|
+如果這是你第一次玩金融帝國實驗室，建議您開始教程%。|
+~
+Are you sure that you want to start tutorial % now? This will skip the tutorials prior to it and you will be missing important information.|
+你確定你想現在就開始教程%？這將跳過之前的教程，你會錯過重要的教程信息。|
+~
+Tutorials you have finished|
+你完成了教程|
+~
+Proceed Anyway|
+繼續反正|
+~
+Tutorial Goal|
+教程目標|
+~
+Tutorial Goal (Main Goal)|
+教程目標（主要目標）|
+~
+Breakthrough in Training|
+突破培訓|
+~
+Aggressive Growth Plan|
+積極的增長計劃|
+~
+Aggressive Growth Plan (Main Goal)|
+積極的增長計劃（主要目標）|
+~
+With the breakthrough in training, you now have the tool to improve the operating efficiency of your corporation to new heights and deliver truly outstanding financial returns to your shareholders.|
+在訓練的突破，你現在必須提高貴公司的工作效率達到新的高度，並提供真正優秀的財務回報你的股東的工具。|
+~
+Operating Performance Target|
+經營業績目標|
+~
+Operating Performance Target (Subgoal)|
+經營業績目標（子目標）|
+~
+Leverage the new training methodology to improve your corporation's operating profit margin.|
+利用新的訓練方法，以提高貴公司的運營利潤率。|
+~
+Congratulations! You have significantly improved your corporation's operating profit margin.|
+恭喜！你有顯著提高貴公司的運營利潤率。|
+~
+Growing the Talent Base.|
+越來越多的人才基地。|
+~
+Growing the Talent Base. (Subgoal)|
+越來越多的人才基地。 （子目標）|
+~
+Be more aggressive in hiring and look for new talents to join your corporation.|
+在招聘更積極和尋找新的人才加入你的公司。|
+~
+Congratulations! Your corporation has reached the milestone of having a staff size surpassing 1000 people.|
+恭喜！貴公司已達到其員工規模超過1000人的里程碑。|
+~
+BREAKTHROUGH IN TRAINING|
+突破培訓|
+~
+Food and Beverage Dominance|
+食品和飲料優勢|
+~
+Food and Beverage Dominance (Subgoal)|
+食品和飲料優勢（子目標）|
+~
+Lead your corporation to achieve market dominance in the food and beverage and deliver outstanding financial returns to your investors. (You are limited to production of beverage, food and snacks until you have achieved this goal.)|
+帶領你的企業取得市場的主導地位，在食品和飲料，並提供卓越的財務回報你的投資者。 （您僅限於生產飲料，食品和小吃，直到你已經實現了這一目標。）|
+~
+Congratulations! You have achieved market dominance in the food and beverage industry and your corporation's market cap has increased substantially. Your board of directors are extremely pleased with your performance and support your plan for entering new markets to drive further revenue growth.|
+恭喜！您在食品和飲料行業取得了市場的主導地位，你的公司的市值已大幅增加。你的董事會非常高興與你的表現，並支持你的計劃進入新的市場，以進一步推動收入的增長。|
+~
+Multinational Conglomerate|
+跨國集團|
+~
+Multinational Conglomerate (Main Goal)|
+跨國集團（主要目標）|
+~
+With your success in the food and beverage industry, your current goal is to diversify your business and further grow your corporation into a multinational conglomerate with a market capitalization of $1 billion and an annual revenue of at least $800 million.|
+隨著食品和飲料行業你的成功，你目前的目標是多元化的業務，並進一步貴公司成長為一家跨國集團有1美元十億市值和年收入至少8億美元。|
+~
+FOOD AND BEVERAGE|
+餐飲|
+~
+LEGENDARY INVESTOR|
+傳奇投資|
+~
+Legendary Investor|
+傳說中的投資者|
+~
+Legendary Investor (Main Goal)|
+傳說中的投資者（主要目標）|
+~
+You will earn the title of the Legendary Investor when you have snowballed your personal wealth to $1 billion and gained control of 5 public companies either directly or via your holding company!|
+您將獲得傳奇投資者的冠軍時，你已經滾雪球般的個人財富$ 1十億，並獲得5上市公司直接或通過您的控股公司的控制權！|
+~
+Launching a New Brand|
+推出一個新品牌|
+~
+Launching a New Brand (Subgoal)|
+推出一個新的品牌（子目標）|
+~
+Facing tough competition from established fashion companies, your near term goal is to stay afloat and curve out a niche with your new fashion brand.|
+面對既定時裝公司激烈的競爭，你的近期目標是要維持下去，並曲線與您的新時尚品牌的利基。|
+~
+Congratulations! Your company's performance has impressed investors and led to a new round of investment of $100 million into your company!|
+恭喜！您的公司的業績讓投資者印象深刻，並引發了新一輪1億美元到貴公司的投資！|
+~
+Growing Your Business|
+發展公司業務|
+~
+Growing Your Business (Subgoal)|
+發展公司業務（子目標）|
+~
+Having secured a foothold in the market with your brand and strengthened your war chest with the new investment, you can now afford to expand your business aggressively and seize market shares from your competitors.|
+經固定在市場上站穩腳跟與你的品牌和加強你的戰爭的胸部與新的投資，你現在有能力積極拓展業務，並從你的競爭者搶占市場份額。|
+~
+Excellent! You have developed your company into a force to be reckoned with!|
+好極了！您開發公司建設成為一支不可忽視！|
+~
+Market Leadership|
+市場領導者|
+~
+Market Leadership (Subgoal)|
+市場領導者（子目標）|
+~
+Thanks to your recent rounds of successful expansions, you are now in a position to take another leap and eventually become the market leader in the apparel industry.|
+感謝您最近幾輪成功的擴展了，你現在是在一個位置，採取另一種飛躍，並最終成為市場的領導者在服裝行業。|
+~
+Congratulations! You have come a long way since your humble beginning!|
+恭喜！你來了，因為你的卑微開始很長的路要走！|
+~
+Fashion Dominance|
+時尚的優勢|
+~
+Fashion Dominance (Main Goal)|
+時尚的優勢（主要目標）|
+~
+The leather product market is highly lucrative, you should leverage your success in the fashion market to broaden your product lines to cover leather products. You win this game when you achieve market dominance in both apparel and leather products.|
+皮革製品市場上是非常豐厚的，你應該充分利用你的成功，在時裝市場，拓寬產品線涵蓋皮革產品。你贏了這場比賽，當你取得市場主導地位的服裝和皮革產品。|
+~
+In this tutorial, you will be introduced to the basics of the game's interface. You will then learn how to build your first retail store, stock it with products from suppliers, and sell them to consumers to generate incomes.|
+在本教程中，你將被引入到遊戲界面的基本知識。然後，您將學習如何建立你的第一個零售商店，與供應商的產品庫存它，並把它們賣給消費者產生收入。|
+~
+Achieve an annual revenue of $20 million to complete this tutorial.|
+全年實現營業收入2000萬美元，完成本教程。|
+~
+In this tutorial, you will learn advanced management skills for running a retail store and growing your retail chain by expanding into other cities.|
+在本教程中，您將學習先進的管理技能，運行一個零售商店，並擴大到其他城市越來越多的零售連鎖企業。|
+~
+Achieve an annual revenue of $50 million and an annual profit of $5 million to complete this tutorial.|
+全年實現營業收入5000萬美元，年利潤500萬美元，以完成本教程。|
+~
