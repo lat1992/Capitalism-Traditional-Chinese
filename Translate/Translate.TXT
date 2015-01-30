@@ -1,8 +1,8 @@
-Auto Save in Process...|
+﻿Auto Save in Process...|
 自動保存過程中...|
 ~
 Release|
-(發布)|
+發布版|
 ~
 (C) Copyright 2014 Enlight Software Ltd. All rights reserved.|
 (C) 版權所有2014年Enlight軟件有限公司保留所有權利。|
@@ -392,7 +392,7 @@ N/A|
 N/A|
 ~
 None|
-没有|
+沒有|
 ~
 Very Low|
 非常低|
@@ -431,7 +431,7 @@ Many|
 很多|
 ~
 One|
-一|
+一個|
 ~
 Technology Disruption|
 科技擾亂|
