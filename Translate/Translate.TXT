@@ -698,7 +698,7 @@ Research & Development Unit|
 研究與發展部|
 ~
 Inventory|
-盤點|
+倉庫|
 ~
 Inventory Unit|
 庫存單位|
