@@ -506,7 +506,7 @@ Top Technology|
 頂級科技|
 ~
 Graph|
-圖|
+曲線圖|
 ~
 Business Assets|
 企業資產|
@@ -559,8 +559,14 @@ Role|
 Retail Store|
 零售商店|
 ~
+Department Store|
+百貨商店|
+~
 Factory|
-廠|
+工廠|
+~
+Factory - |
+工廠 - |
 ~
 R&D Center|
 研發中心|
@@ -574,8 +580,23 @@ Warehouse|
 Natural Resources Firm|
 自然資源公司|
 ~
+Logging Camp|
+伐木場|
+~
+Mine|
+礦場|
+~
+Oil Well|
+油井|
+~
 Media Firm|
 媒體公司|
+~
+Headquarters|
+總部|
+~
+Mansion|
+大廈|
 ~
 Apartment|
 公寓|
@@ -610,8 +631,50 @@ Profit|
 Civic Building|
 城市房屋|
 ~
+City Hall|
+市政廳|
+~
+Police Station|
+警察局|
+~
+Fire Station|
+消防站|
+~
+Elementary School|
+小學|
+~
+High School|
+高中|
+~
+Middle School|
+中學|
+~
+University|
+大學|
+~
+Library|
+圖書館|
+~
+Museum|
+博物館|
+~
+Hospital|
+醫院|
+~
 Sports Facilities|
 體育設施|
+~
+Tennis Court|
+網球場|
+~
+Soccer Field|
+足球場|
+~
+Golf Course|
+高爾夫|
+~
+Stadium|
+體育館|
 ~
 Cost|
 費用|
@@ -638,10 +701,85 @@ MANAGER'S GUIDE|
 管理者指南|
 ~
 Beverage|
-設備|
+飲料|
+~
+Apparel|
+服裝|
+~
+Automobile|
+機動車|
+~
+Body Care Products|
+護膚品|
+~
+Communication Devices|
+通訊設|
+~
+Cosmetics|
+化妝品|
+~
+Drugs|
+藥物|
+~
+Electronic Products|
+電子品|
+~
+Food|
+食物|
+~
+Footwear|
+鞋類|
+~
+Furniture|
+家具|
+~
+Home Appliances|
+家電|
+~
+Household Products|
+日用品|
+~
+Watch|
+手錶|
+~
+Toy|
+玩具|
+~
+Tobacco Products|
+煙草品|
+~
+Sport Equipment|
+運動材|
+~
+Semi Products|
+半產品|
+~
+Jewelry|
+珠寶|
+~
+Leather Goods|
+皮具|
+~
+Photography Products|
+攝影材|
+~
+Snacks|
+零食|
 ~
 Computer|
 電腦|
+~
+Product Class|
+產品分類|
+~
+Product Type|
+產品型號|
+~
+CROPS|
+農作物|
+~
+LIVESTOCK|
+牲畜|
 ~
 Purchasing Unit|
 採購單位|
@@ -965,10 +1103,10 @@ GDP Growth|
 GDP增長|
 ~
 City Graphs|
-市圖|
+城市曲線圖|
 ~
 City|
-城|
+城市|
 ~
 Financial Actions|
 金融行動|
@@ -1160,7 +1298,7 @@ TOTAL|
 總計|
 ~
 Total:|
-總計：|
+總計:|
 ~
 Stock Returns|
 股票收益|
@@ -2321,7 +2459,7 @@ Multinational Conglomerate (Main Goal)|
 跨國集團（主要目標）|
 ~
 With your success in the food and beverage industry, your current goal is to diversify your business and further grow your corporation into a multinational conglomerate with a market capitalization of $1 billion and an annual revenue of at least $800 million.|
-隨著食品和飲料行業你的成功，你目前的目標是多元化的業務，並進一步貴公司成長為一家跨國集團有1美元十億市值和年收入至少8億美元。|
+隨著食品和飲料行業你的成功，你目前的目標是多元化的業務，並進一步貴公司成長為一家跨國集團有1美元十億市值和年收入至少8百萬美元。|
 ~
 FOOD AND BEVERAGE|
 餐飲|
@@ -2394,4 +2532,16 @@ In this tutorial, you will learn advanced management skills for running a retail
 ~
 Achieve an annual revenue of $50 million and an annual profit of $5 million to complete this tutorial.|
 全年實現營業收入5000萬美元，年利潤500萬美元，以完成本教程。|
+~
+Annual Profit|
+年利潤總額|
+~
+Apply|
+應用|
+~
+BATH LOTION|
+沐浴露|
+~
+CORPORATIONS|
+企業|
 ~
