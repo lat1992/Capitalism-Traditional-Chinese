@@ -1,20 +1,521 @@
 ﻿Auto Save in Process...|
 自動保存過程中...|
 ~
+Challenge Game Auto Save...|
+|
+~
 Release|
 發布版|
+~
+(C) Copyright 2015 Enlight Software Ltd. All rights reserved.|
+|
 ~
 (C) Copyright 2014 Enlight Software Ltd. All rights reserved.|
 (C) 版權所有2014年Enlight軟件有限公司保留所有權利。|
 ~
+Sorry, you cannot execute this share buyback transaction, as a public company's total number of shares outstanding must not be lower than 1,000,000 shares.|
+|
+~
+Lost Ownership|
+|
+~
+Sorry, the AI is having an advance start and you cannot build any buildings until year %.|
+|
+~
+Sorry, the AI is having an advance start and you cannot buy stock until year %.|
+|
+~
+Sorry, the AI is having an advance start and you cannot buy any firms until year %.|
+|
+~
+Sorry, the AI is having an advance start and you cannot buy land until year %.|
+|
+~
+The advanced start period for AI has ended. Now you may join the competition.|
+|
+~
 Set a new advertising budget for all your advertising units:|
 設置新的廣告預算為您的所有廣告單元：|
+~
+Department Store|
+百貨商店|
+~
+Supermarket|
+|
+~
+Convenience Store|
+|
+~
+Discount Megastore|
+|
+~
+Drug Store|
+|
+~
+Apparel Store|
+|
+~
+Automobile Outlet|
+|
+~
+Electronics Store|
+|
+~
+Footwear Store|
+|
+~
+Jewelry and Watch Shop|
+|
+~
+Leather Store|
+|
+~
+Computer Store|
+|
+~
+Cosmetic Store|
+|
+~
+Furniture Store|
+|
+~
+Sports Store|
+|
+~
+Toy Store|
+|
+~
+Pear Year % - %|
+|
+~
+Past Year % - %|
+|
+~
+million|
+|
+~
+billion|
+|
+~
+inflation adjustment|
+|
 ~
 Corporate Balance Sheet|
 公司的資產負債表|
 ~
 Corporate Income Statement|
 企業的損益表|
+~
+AI:|
+|
+~
+This location is not suitable for farming.|
+|
+~
+Game version|
+|
+~
+LOAD A GAME|
+加載遊戲|
+~
+LOAD|
+加載|
+~
+SCREEN MODE|
+|
+~
+Full Screen Mode|
+|
+~
+Windowed Mode|
+|
+~
+Hold the [SHIFT] key concurrently to build more|
+|
+~
+APPLY|
+|
+~
+Sort by:|
+|
+~
+Title|
+|
+~
+Date|
+|
+~
+Record: % / %|
+|
+~
+Rankings|
+|
+~
+Load|
+|
+~
+All|
+|
+~
+Delete|
+|
+~
+Save New|
+|
+~
+Save|
+|
+~
+About|
+|
+~
+You cannot use a corporation that you control to buy back its own shares.|
+|
+~
+Display Filter:|
+|
+~
+Tech > 30|
+|
+~
+In Production|
+|
+~
+With R&D|
+|
+~
+Go|
+|
+~
+Products that you are currently producing are shown with orange bars.|
+|
+~
+Double-click on a product record to open the Product Detail Report.|
+|
+~
+Double-click on an advertising record to go to the relevant firm.|
+|
+~
+Sorry, you cannot change the game speed of the current game as it is fixed by a game script.|
+|
+~
+Which type of game do you want to save?|
+|
+~
+Normal Savegame|
+|
+~
+Public Challenge Games|
+|
+~
+Private Challenge Games|
+|
+~
+This Challenge Game will be deleted. Proceed ?|
+|
+~
+Game Ending Year|
+|
+~
+Stock Market|
+|
+~
+Disabled|
+|
+~
+Enabled|
+|
+~
+Enabled (Alternative)|
+|
+~
+Contest Started On|
+|
+~
+Contest Deadline|
+|
+~
+File Name|
+|
+~
+File date|
+|
+~
+File name|
+|
+~
+Game Duration|
+|
+~
+Difficulty Rating|
+|
+~
+Difficulty Level|
+|
+~
+Considerably Easier|
+|
+~
+Less Difficult|
+|
+~
+Original Difficulty|
+|
+~
+Harder|
+|
+~
+Tremendously Harder|
+|
+~
+Player Skill Level|
+|
+~
+Advanced|
+|
+~
+page %|
+|
+~
+Auto-Save Game|
+|
+~
+Challenge Game Auto-Save|
+|
+~
+Auto-Save (AI Advanced Sta|
+|
+~
+Total play time|
+|
+~
+hour|
+|
+~
+hours|
+|
+~
+min|
+|
+~
+mins|
+|
+~
+opens a %|
+|
+~
+Relocate / Demolish Firm|
+|
+~
+Are you sure that you want to demolish this firm?|
+|
+~
+Relocate Firm|
+|
+~
+Demolish Firm|
+|
+~
+Relocate This Firm|
+|
+~
+Demolish This Firm Only|
+|
+~
+Demolish This Firm and Sell the Land|
+|
+~
+LAND PLOT|
+|
+~
+Use your personal money to build your mansion.|
+|
+~
+You do not have enough PERSONAL money|
+|
+~
+for building your mansion.|
+|
+~
+ buys a Mansion in |
+|
+~
+ from  |
+|
+~
+ for |
+|
+~
+Your expertise products are shown in yellow.|
+|
+~
+Products already in research are shown in red.|
+|
+~
+For Sale|
+|
+~
+Not For Sale|
+|
+~
+Land Cost|
+|
+~
+Natural Resource|
+|
+~
+Reserve|
+|
+~
+Quality|
+|
+~
+Price Premium|
+|
+~
+Nil|
+|
+~
+Land Value|
+|
+~
+Description of the save game:|
+|
+~
+MANAGER OF THIS FIRM|
+|
+~
+I currently manage this firm myself|
+|
+~
+I will manage this firm myself (F1)|
+|
+~
+I will manage all of my firms (F1)|
+|
+~
+Let him manage:|
+|
+~
+Let her manage:|
+|
+~
+All of my firms (F2)|
+|
+~
+This firm (F2)|
+|
+~
+All my Retail Stores (F3)|
+|
+~
+All my Factorys (F3)|
+|
+~
+All my Farms (F3)|
+|
+~
+All my Mines (F3)|
+|
+~
+All my Warehouses (F3)|
+|
+~
+All my Newspaper Publishers (F3)|
+|
+~
+All my Radio Stations (F3)|
+|
+~
+All my TV Stations (F3)|
+|
+~
+All my R&D Centers (F3)|
+|
+~
+asked|
+|
+~
+ for a raise in salary from % to % .|
+|
+~
+to|
+到|
+~
+This Seaport supplies consumer goods.|
+|
+~
+This Seaport supplies industrial goods.|
+|
+~
+Do you agree?|
+|
+~
+Left click to relocate|
+|
+~
+to relocate this firm.|
+|
+~
+Batch Switching Supplier|
+|
+~
+Batch (F9)|
+|
+~
+Suppliers at your Purchasing Units have been changed as per your request.|
+|
+~
+Firms updated|
+|
+~
+Purchasing Units updated|
+|
+~
+pair|
+|
+~
+can|
+|
+~
+loaf|
+|
+~
+loaves|
+|
+~
+dozen|
+|
+~
+quart|
+|
+~
+quarts|
+|
+~
+barrel|
+|
+~
+barrels|
+|
+~
+ton|
+|
+~
+oz|
+|
+~
+pack|
+|
+~
+packs|
+|
+~
+box|
+|
+~
+boxes|
+|
 ~
 lb|
 磅|
@@ -27,6 +528,39 @@ Donations|
 ~
 R&D Expenses|
 研發費用|
+~
+Demolish Apartment|
+|
+~
+Demolish Commercial Building|
+|
+~
+Are you sure that you want to demolish this building?|
+|
+~
+Only Demolish This Building|
+|
+~
+Demolish This Building and Sell the Land|
+|
+~
+Which product should it produce?|
+|
+~
+SELECT (F8)|
+選擇（F8）|
+~
+All Cities (F5)|
+|
+~
+Current City (F5)|
+|
+~
+Warehouse Only (F6)|
+|
+~
+Go to Supplier (F7)|
+|
 ~
 Current Brand Strategy:|
 目前的品牌戰略：|
@@ -70,6 +604,9 @@ Firms for sale|
 Financials|
 財務數據|
 ~
+Specialty Store|
+|
+~
 Demand Bonus|
 需求獎金|
 ~
@@ -90,9 +627,6 @@ Quality of Life Index|
 ~
 Persons|
 人|
-~
-SELECT (F8)|
-選擇（F8）|
 ~
 Housing Supply & Demand Index|
 房屋供求信息指數|
@@ -115,6 +649,24 @@ Operations|
 Goal|
 目標|
 ~
+Challenge Game|
+|
+~
+CHALLENGE GAME|
+|
+~
+Challenge Game Mode|
+|
+~
+Instructions: How to set up a private challenge game|
+|
+~
+Challenge Game Title|
+|
+~
+You have been given a new goal!|
+|
+~
 Billionaires 100|
 億萬富豪100|
 ~
@@ -124,14 +676,14 @@ GOAL|
 Currency Revalued!|
 貨幣重估！|
 ~
-CURRENCY REVALUED! The government announced that the currency will be revalued at a ratio of 1 to 100.|
-貨幣升值！政府宣布的貨幣將在1到100的比例進行重估|
-~
-Banknotes and coins for the revalued currency will enter into circulation.|
-紙幣和硬幣的貨幣升值將進入流通。|
+% undergoes a 1-10 stock merge, which groups every 10 shares into one share.|
+|
 ~
 undergoes a 1-10 stock merge, which groups every 10 shares into one share.|
 經歷了一個1-10的股票合併，這組每10股一股。|
+~
+ undergoes a 1-10 stock merge, which groups every 10 shares into one share.|
+|
 ~
 REVERSE STOCK SPLIT|
 反向股票分割|
@@ -150,6 +702,9 @@ The resulting stock price will be %.|
 ~
 This is an open-ended game and there are no goals.|
 這是一個開放式的比賽，沒有目標。|
+~
+There are no goals available currently.|
+|
 ~
 Financial Figures|
 財務數據|
@@ -240,6 +795,90 @@ Balanced|
 ~
 Maximize Market Share|
 最大限度地提高市場份額|
+~
+Market Dominance|
+|
+~
+Market Dominance Goal|
+|
+~
+Market Dominance Goal (Main Goal)|
+|
+~
+(Subgoal)|
+|
+~
+Set up a factory to produce Cola and launch it onto the market|
+|
+~
+Random Select|
+|
+~
+Select|
+|
+~
+Product Class|
+產品分類|
+~
+Product Type|
+產品型號|
+~
+Highest Difficulty Rating of Game Ever Won|
+|
+~
+Product Class Mission|
+|
+~
+Mega Product Class Mission|
+|
+~
+Product Mega Class|
+|
+~
+Fashion|
+|
+~
+Food and Beverage|
+|
+~
+Healthcare and Beauty|
+|
+~
+Electronics and Appliances|
+|
+~
+Luxury Goods|
+|
+~
+Total Market Dominance Mission|
+|
+~
+Total Market Dominance|
+|
+~
+(Press the 'G' shortcut key anytime to view the Goal screen)|
+|
+~
+You posses expertise in the % industry (level: %)|
+|
+~
+You posses expertise in the Beverage industry (level: %)|
+|
+~
+(level: %)|
+|
+~
+You posses expertise in the Beverage industry|
+|
+~
+Market Dominance of the % Industry|
+|
+~
+Market Dominance of the Beverage Industry|
+|
+~
+View The Goals Now|
+|
 ~
 Score|
 比分|
@@ -349,8 +988,11 @@ Annual Revenue|
 % joins % as the %.|
 % 加入 % 作為 %。|
 ~
-the job as the|
-工作為|
+the job as the % of %.|
+|
+~
+asked for a raise in salary from % to % .|
+|
 ~
 If your corporation is using 'Corporate Brand' strategy,|
 如果你的公司正在使用“企業品牌”戰略，|
@@ -366,6 +1008,9 @@ Adjust Training Levels for all your firms|
 ~
 Monthly Spending|
 每月支出|
+~
+Apply|
+應用|
 ~
 Apply All|
 適用於所有|
@@ -388,8 +1033,20 @@ rd|
 th|
 日|
 ~
-N/A|
-N/A|
+Government|
+|
+~
+Operation since|
+|
+~
+This Newspaper Publisher started operation since %.|
+|
+~
+This Radio Station started operation since %.|
+|
+~
+This TV Station started operation since %.|
+|
 ~
 None|
 沒有|
@@ -424,9 +1081,6 @@ Frequent|
 Game Starting Year|
 遊戲開局之年|
 ~
-Retail Store Type|
-零售商舖類型|
-~
 Many|
 很多|
 ~
@@ -435,6 +1089,33 @@ One|
 ~
 Technology Disruption|
 科技擾亂|
+~
+DIFFICULTY|
+|
+~
+A Fun Gaming Experience for New Players.|
+|
+~
+Normal Difficulty. Enjoyable for Most Players.|
+|
+~
+For Experienced Players looking for More Challenge.|
+|
+~
+Hard. Only choose this if you have won in easier games.|
+|
+~
+For Expert Players Only. Not recommended for normal players.|
+|
+~
+Extremely Difficult! Not recommended for most players.|
+|
+~
+Insanely Difficult! Not enjoyable unless you have achieved mastery with this game.|
+|
+~
+A Humanly Impossible Challenge! Do not choose this if you want a winnable game.|
+|
 ~
 Off|
 關|
@@ -469,11 +1150,8 @@ Lifetime Shareholder Return|
 to build the firm.|
 建立公司。|
 ~
-changes it's corporate strategy from|
-改變企業戰略自|
-~
-to|
-到|
+% changes its corporate strategy from % to %.|
+|
 ~
 Technology Improvement|
 技術改進|
@@ -499,8 +1177,17 @@ Overall Rating|
 Owner:|
 業主：|
 ~
+Owned by Government|
+|
+~
+Owned Tech.|
+|
+~
 Owned Technology|
 擁有技術|
+~
+Top Tech.|
+|
 ~
 Top Technology|
 頂級科技|
@@ -556,17 +1243,23 @@ Independent Investor|
 Role|
 角色|
 ~
+Building Types|
+|
+~
 Retail Store|
 零售商店|
-~
-Department Store|
-百貨商店|
 ~
 Factory|
 工廠|
 ~
-Factory - |
-工廠 - |
+Factory - Small|
+|
+~
+Factory - Medium|
+|
+~
+Factory - Large|
+|
 ~
 R&D Center|
 研發中心|
@@ -574,8 +1267,20 @@ R&D Center|
 Farm|
 農場|
 ~
+Farm - Medium|
+|
+~
+Farm - Large|
+|
+~
 Warehouse|
 倉庫|
+~
+Warehouse - Medium|
+|
+~
+Warehouse - Large|
+|
 ~
 Natural Resources Firm|
 自然資源公司|
@@ -592,17 +1297,65 @@ Oil Well|
 Media Firm|
 媒體公司|
 ~
+TV Station|
+|
+~
+Newspaper Publisher|
+|
+~
+Radio Station|
+|
+~
+Apartment|
+公寓|
+~
 Headquarters|
 總部|
 ~
 Mansion|
 大廈|
 ~
-Apartment|
-公寓|
+Пoмecтьe - Medium|
+|
+~
+Пoмecтьe - Small|
+|
 ~
 Commercial Building|
 商業大廈|
+~
+Investment Bank|
+|
+~
+Bank|
+|
+~
+Stock Exchange|
+|
+~
+Information Center|
+|
+~
+Seaport|
+|
+~
+Airport|
+|
+~
+All Media Firms|
+|
+~
+% donates to build a %|
+|
+~
+Built with funds donated by:|
+|
+~
+Ongoing donation|
+|
+~
+Monthly operating funds:|
+|
 ~
 COMMERCIAL BUILDING|
 商業大廈|
@@ -625,6 +1378,21 @@ New rent:|
 Market Rent:|
 市場租金：|
 ~
+SUPPLIER: Mine|
+|
+~
+SUPPLIER: Factory|
+|
+~
+SUPPLIER: Seaport|
+|
+~
+SUPPLIER: Warehouse|
+|
+~
+SUPPLIER: Farm|
+|
+~
 Profit|
 利潤|
 ~
@@ -643,11 +1411,11 @@ Fire Station|
 Elementary School|
 小學|
 ~
-High School|
-高中|
-~
 Middle School|
 中學|
+~
+High School|
+高中|
 ~
 University|
 大學|
@@ -676,6 +1444,9 @@ Golf Course|
 Stadium|
 體育館|
 ~
+Not enough personal cash|
+|
+~
 Cost|
 費用|
 ~
@@ -688,8 +1459,23 @@ Freight|
 Crops|
 作物|
 ~
-Go to Client(F7)|
-轉到客戶（F7）|
+Livestock Supply|
+|
+~
+Process Capacity|
+|
+~
+Sowing in %|
+|
+~
+from|
+|
+~
+Harvest in %|
+|
+~
+Go to Client (F7)|
+|
 ~
 MANUFACTURER'S GUIDE|
 製造商指南|
@@ -700,20 +1486,23 @@ FARMER'S GUIDE|
 MANAGER'S GUIDE|
 管理者指南|
 ~
-Beverage|
-飲料|
-~
 Apparel|
 服裝|
 ~
 Automobile|
 機動車|
 ~
+Beverage|
+飲料|
+~
 Body Care Products|
 護膚品|
 ~
 Communication Devices|
 通訊設|
+~
+Computer|
+電腦|
 ~
 Cosmetics|
 化妝品|
@@ -739,23 +1528,20 @@ Home Appliances|
 Household Products|
 日用品|
 ~
-Watch|
-手錶|
-~
-Toy|
-玩具|
-~
-Tobacco Products|
-煙草品|
-~
-Sport Equipment|
-運動材|
-~
-Semi Products|
-半產品|
-~
 Jewelry|
 珠寶|
+~
+Livestock Products|
+|
+~
+Plant Products|
+|
+~
+Raw Material|
+|
+~
+Livestock Semi-products|
+|
 ~
 Leather Goods|
 皮具|
@@ -763,26 +1549,29 @@ Leather Goods|
 Photography Products|
 攝影材|
 ~
+Semi Products|
+半產品|
+~
 Snacks|
 零食|
 ~
-Computer|
-電腦|
+Sport Equipment|
+運動材|
 ~
-Product Class|
-產品分類|
+Tobacco Products|
+煙草品|
 ~
-Product Type|
-產品型號|
+Toy|
+玩具|
 ~
-CROPS|
-農作物|
-~
-LIVESTOCK|
-牲畜|
+Watch|
+手錶|
 ~
 Purchasing Unit|
 採購單位|
+~
+Purchasing|
+|
 ~
 Purchase|
 購買|
@@ -802,8 +1591,14 @@ MFT|
 Livestock Raising Unit|
 畜牧業股|
 ~
+Livestock Raising|
+|
+~
 Livestock|
 畜牧業|
+~
+Livestock Processing|
+|
 ~
 Livestock Processing Unit|
 家畜處理單元|
@@ -813,6 +1608,9 @@ Process|
 ~
 Oil Extraction Unit|
 採油單位|
+~
+Oil Extraction|
+|
 ~
 Extract|
 提取|
@@ -826,6 +1624,9 @@ Logging|
 Advertising Unit|
 廣告部|
 ~
+Advertising|
+|
+~
 Advertise|
 廣告服務|
 ~
@@ -835,11 +1636,17 @@ R&D|
 Research & Development Unit|
 研究與發展部|
 ~
+Research & Development|
+|
+~
 Inventory|
 倉庫|
 ~
 Inventory Unit|
 庫存單位|
+~
+Warehouse Storage|
+|
 ~
 Warehouse Storage Unit|
 倉庫存儲單元|
@@ -847,11 +1654,23 @@ Warehouse Storage Unit|
 Storage|
 存儲|
 ~
+Input Material|
+|
+~
+To locate an specific input, type the first letter of its name.|
+|
+~
+Warehouse Input|
+|
+~
 Warehouse Input Unit|
 倉庫輸入單元|
 ~
 Input|
 輸入|
+~
+Warehouse Output|
+|
 ~
 Warehouse Output Unit|
 倉庫輸出單元|
@@ -862,11 +1681,23 @@ Output|
 Labelling|
 標籤|
 ~
+Private Labelling|
+|
+~
 Private Labelling Unit|
 私人標籤組|
 ~
 Crop|
 作物|
+~
+CROPS|
+農作物|
+~
+LIVESTOCK|
+牲畜|
+~
+Crop Growing|
+|
 ~
 Crop Growing Unit|
 作物生長單位|
@@ -891,6 +1722,12 @@ Reset successfully. The game now no longer uses any MOD.|
 ~
 MOD|
 MOD|
+~
+Pre-defined Scripts|
+|
+~
+User-created Scripts|
+|
 ~
 LOAD SCRIPT|
 負載腳本|
@@ -976,8 +1813,62 @@ Investment|
 Goal Deadline|
 目標截止日期|
 ~
+New Product Launch 1|
+|
+~
+New Product Launch 2|
+|
+~
+New Product Launch 3|
+|
+~
+New Product Launch 4|
+|
+~
+New Product Launch 5|
+|
+~
+New Product Launch %|
+|
+~
+Main Goal|
+|
+~
+(Main Goal)|
+|
+~
 MAIN GOAL|
 主要目標|
+~
+SUBGOAL|
+|
+~
+Subgoal|
+|
+~
+REWARD|
+|
+~
+REWARDS|
+|
+~
+Get the Reward Now|
+|
+~
+Get the Rewards Now|
+|
+~
+Score Bonus (plus early completion bonus)|
+|
+~
+Unlock all other products|
+|
+~
+Corporate Cash Bonus|
+|
+~
+Personal Cash Bonus|
+|
 ~
 12 Months|
 12月|
@@ -991,6 +1882,9 @@ Past 36 Months|
 Past 30 Years|
 過去的30年|
 ~
+Past 30 years|
+|
+~
 Utilization|
 利用|
 ~
@@ -1003,6 +1897,12 @@ Stock |
 Stock|
 股票|
 ~
+SELL STOCK|
+|
+~
+BUY STOCK|
+|
+~
 The central bank increases the interest rate from % to %.|
 央行增加從%至%的利率。|
 ~
@@ -1012,11 +1912,20 @@ The central bank decreases the interest rate from % to %.|
 The New Central Bank Chairman|
 新央行行長|
 ~
-A new chairman with|
-新的董事長與|
+A new chairman with Inflation Dove (strong) attitude is now at the helm of the central bank.|
+|
 ~
-is now at the helm of the central bank.|
-是現在央行的掌舵人。|
+A new chairman with Inflation Dove (modest) attitude is now at the helm of the central bank.|
+|
+~
+A new chairman with Neutral attitude is now at the helm of the central bank.|
+|
+~
+A new chairman with Inflation Hawk (modest) attitude is now at the helm of the central bank.|
+|
+~
+A new chairman with Inflation Dove (strong) attitude is now at the helm of the central bank.|
+|
 ~
 Consumer Price Index|
 消費物價指數|
@@ -1114,9 +2023,6 @@ Financial Actions|
 Corporation / Subsidiary|
 公司/子公司|
 ~
-Pear Year|
-每年|
-~
 Past Year|
 過去一年|
 ~
@@ -1204,6 +2110,51 @@ Avg Cost|
 Market Price|
 市場價格|
 ~
+Purchase Cost|
+|
+~
+(CLICK TO SELL)|
+|
+~
+Do you want to sell this land plot for %?|
+|
+~
+sets up a|
+|
+~
+WARNING: This Plan has no saleable items.|
+|
+~
+Find Next|
+|
+~
+The plan will replace the existing layout of the current firm. Proceed?|
+|
+~
+Pre-defined|
+|
+~
+User-defined|
+|
+~
+Wildcard Factory Plans|
+|
+~
+Wildcard Input 1|
+|
+~
+Wildcard Input 2|
+|
+~
+Wildcard Input 3|
+|
+~
+Layout Plan|
+|
+~
+Plan: %|
+|
+~
 Market Value|
 市值|
 ~
@@ -1215,6 +2166,9 @@ Market Capitalization|
 ~
 Number of Game Years|
 遊戲年數|
+~
+year|
+|
 ~
 Ranking Method|
 排名方法|
@@ -1384,200 +2338,398 @@ years|
 Blazer|
 西裝外套|
 ~
+BLAZER|
+|
+~
 Leather Jacket|
 皮夾克|
+~
+LEATHER JACKET|
+|
 ~
 Jeans|
 牛仔褲|
 ~
+JEANS|
+|
+~
 Sweater|
 毛衣|
+~
+SWEATER|
+|
 ~
 Car|
 租車|
 ~
+CAR|
+|
+~
 Motorcycle|
 摩托車|
+~
+MOTORCYCLE|
+|
 ~
 Bottled Milk|
 瓶裝牛奶|
 ~
+BOTTLED MILK|
+|
+~
 Cola|
 可樂|
+~
+COLA|
+|
 ~
 Grape Juice|
 葡萄汁|
 ~
+GRAPE JUICE|
+|
+~
 Wine|
 紅酒|
 ~
+WINE|
+|
+~
 Bath Lotion|
+沐浴露|
+~
+BATH LOTION|
 沐浴露|
 ~
 Shampoo|
 洗髮水|
 ~
+SHAMPOO|
+|
+~
 Soap|
 香皂|
+~
+SOAP|
+|
 ~
 Toothpaste|
 牙膏|
 ~
+TOOTHPASTE|
+|
+~
 Camera Phone|
 拍照手機|
+~
+PHONE|
+|
 ~
 HUD Glasses|
 HUD眼鏡|
 ~
+HUD GLASSES|
+|
+~
 Mobile Phone|
 手機|
+~
+MOBILE PHONE|
+|
 ~
 Smart Phone|
 智能手機|
 ~
+SMART PHONE|
+|
+~
 Desktop Computer|
 台式電腦|
+~
+DESKTOP COMPUTER|
+|
 ~
 Notebook Computer|
 筆記本電腦|
 ~
+NOTEBOOK COMPUTER|
+|
+~
 Printer|
 打印機|
+~
+PRINTER|
+|
 ~
 Tablet Computer|
 平板電腦|
 ~
+TABLET COMPUTER|
+|
+~
 Eye Shadow|
 眼影|
+~
+EYE SHADOW|
+|
 ~
 Hair Color|
 頭髮顏色|
 ~
+HAIR COLOR|
+|
+~
 Lipstick|
 口紅|
+~
+LIPSTICK|
+|
 ~
 Perfume|
 香水|
 ~
+PERFUME|
+|
+~
 Cold Pills|
 感冒藥|
+~
+COLD PILLS|
+|
 ~
 Cough Syrup|
 止咳糖漿|
 ~
+COUGH SYRUP|
+|
+~
 Headache Pills|
 頭痛藥|
+~
+HEADACHE PILLS|
+|
 ~
 Camcorder|
 攝像機|
 ~
+CAMCORDER|
+|
+~
 Hi-fi System|
 高保真音響|
+~
+HI-FI SYSTEM|
+|
 ~
 Portable Media Player|
 便攜式媒體播放器|
 ~
+PORTABLE MEDIA PLAYER|
+|
+~
 Television|
 電視|
+~
+TELEVISION|
+|
 ~
 Bread|
 麵包|
 ~
+BREAD|
+|
+~
 Cakes|
 蛋糕|
+~
+CAKES|
+|
 ~
 Canned Corn|
 玉米罐頭|
 ~
+CANNED CORN|
+|
+~
 Canned Soup|
 罐裝湯|
+~
+CANNED SOUP|
+|
 ~
 Corn Flakes|
 玉米片|
 ~
+CORN FLAKES|
+|
+~
 Sandals|
 涼鞋|
+~
+SANDALS|
+|
 ~
 Shoes|
 鞋|
 ~
+SHOES|
+|
+~
 Socks|
 襪子|
+~
+SOCKS|
+|
 ~
 Sport Shoes|
 運動鞋|
 ~
+SPORT SHOES|
+|
+~
 Bed|
 床|
+~
+BED|
+|
 ~
 Chair|
 椅|
 ~
+CHAIR|
+|
+~
 Sofa|
 沙發|
+~
+SOFA|
+|
 ~
 Air Conditioner|
 空調|
 ~
+AIR CONDITIONER|
+|
+~
 Refrigerator|
 冰箱|
+~
+REFRIGERATOR|
+|
 ~
 Washing Machine|
 洗衣機|
 ~
+WASHING MACHINE|
+|
+~
 Detergent|
 洗滌劑|
+~
+DETERGENT|
+|
 ~
 Tissues|
 紙巾|
 ~
+TISSUES|
+|
+~
 Toilet cleaner|
 廁所清潔劑|
+~
+TOILET CLEANER|
+|
 ~
 Washing Powder|
 洗衣粉|
 ~
+WASHING POWDER|
+|
+~
 Silver Necklace|
 銀項鍊|
+~
+SILVER NECKLACE|
+|
 ~
 Gold Ring|
 金戒指|
 ~
+GOLD RING|
+|
+~
 Leather Bag|
 皮包|
+~
+LEATHER BAG|
+|
 ~
 Leather Belt|
 皮帶|
 ~
+LEATHER BELT|
+|
+~
 Leather Briefcase|
 皮革公文包|
+~
+LEATHER BRIEFCASE|
+|
 ~
 Leather Wallet|
 真皮錢包|
 ~
+LEATHER WALLET|
+|
+~
 Eggs|
 雞蛋|
+~
+EGGS|
+|
 ~
 Frozen Beef|
 速凍牛肉|
 ~
+FROZEN BEEF|
+|
+~
 Frozen Chicken|
 速凍雞肉|
+~
+FROZEN CHICKEN|
+|
 ~
 Frozen Pork|
 速凍豬肉|
 ~
+FROZEN PORK|
+|
+~
 Frozen Lamb|
 速凍羊肉|
+~
+FROZEN LAMB|
+|
 ~
 Leather|
 皮革|
 ~
+LEATHER|
+|
+~
 Milk|
 牛奶|
 ~
+MILK|
+|
+~
 Wool|
 羊毛|
+~
+WOOL|
+|
 ~
 Cattle|
 牛|
@@ -1594,89 +2746,176 @@ Sheep|
 Camera|
 攝像機|
 ~
+CAMERA|
+|
+~
 Compact Camera|
 緊湊型攝像機|
+~
+COMPACT CAMERA|
+|
 ~
 Digital Camera|
 數碼相機|
 ~
+DIGITAL CAMERA|
+|
+~
 Flax|
 亞麻|
+~
+FLAX|
+|
 ~
 Rubber Plant|
 橡膠廠|
 ~
+RUBBER PLANT|
+|
+~
 Sugar Cane|
 甘蔗|
+~
+SUGAR CANE|
+|
 ~
 Cocoa|
 可可|
 ~
+COCOA|
+|
+~
 Coconut|
 椰子|
+~
+COCONUT|
+|
 ~
 Corn|
 玉米|
 ~
+CORN|
+|
+~
 Cotton|
 棉|
+~
+COTTON|
+|
 ~
 Flax Fiber|
 亞麻纖維|
 ~
+FLAX FIBER|
+|
+~
 Grapes|
 葡萄|
+~
+GRAPES|
+|
 ~
 Lemon|
 檸檬|
 ~
+LEMON|
+|
+~
 Rubber|
 橡膠|
+~
+RUBBER|
+|
 ~
 Strawberry|
 草莓|
 ~
+STRAWBERRY|
+|
+~
 Sugar|
 糖|
+~
+SUGAR|
+|
 ~
 Tobacco|
 煙草|
 ~
+TOBACCO|
+|
+~
 Wheat|
 小麥|
+~
+WHEAT|
+|
 ~
 Aluminum|
 鋁|
 ~
+ALUMINUM|
+|
+~
 Chemical Minerals|
 化工礦產|
+~
+CHEMICAL MINERALS|
+|
 ~
 Coal|
 煤炭|
 ~
+COAL|
+|
+~
 Gold|
 黃金|
+~
+GOLD|
+|
 ~
 Iron Ore|
 鐵礦石|
 ~
+IRON ORE|
+|
+~
 Oil|
 油|
+~
+OIL|
+|
 ~
 Silica|
 矽膠|
 ~
+SILICA|
+|
+~
 Silver|
 銀|
+~
+SILVER|
+|
 ~
 Timber|
 木材|
 ~
+TIMBER|
+|
+~
 Citric Acid|
 檸檬酸|
 ~
+CITRIC ACID|
+|
+~
 Car Body|
 車身|
+~
+CAR BODY|
+|
 ~
 CCD|
 CCD|
@@ -1684,8 +2923,14 @@ CCD|
 Coconut Oil|
 椰子油|
 ~
+COCONUT OIL|
+|
+~
 Corn Syrup|
 玉米糖漿|
+~
+CORN SYRUP|
+|
 ~
 CPU|
 CPU|
@@ -1693,98 +2938,194 @@ CPU|
 Dyestuff|
 染料|
 ~
+DYESTUFF|
+|
+~
 Electronic Components|
 電子元件|
+~
+ELECTRONIC COMPONENTS|
+|
 ~
 Engine|
 引擎|
 ~
+ENGINE|
+|
+~
 Flour|
 麵粉|
+~
+FLOUR|
+|
 ~
 Glass|
 玻璃|
 ~
+GLASS|
+|
+~
 Linen|
 床單|
+~
+LINEN|
+|
 ~
 Paper|
 紙|
 ~
+PAPER|
+|
+~
 Plastic|
 塑料|
+~
+PLASTIC|
+|
 ~
 Polyester|
 滌綸|
 ~
+POLYESTER|
+|
+~
 Silicon|
 矽|
+~
+SILICON|
+|
 ~
 Steel|
 鋼|
 ~
+STEEL|
+|
+~
 Textiles|
 紡織品|
+~
+TEXTILES|
+|
 ~
 Wheat Germ Oil|
 小麥胚芽油|
 ~
+WHEAT GERM OIL|
+|
+~
 Wheel & Tire|
 車輪和輪胎|
+~
+WHEEL & TIRE|
+|
 ~
 Cereal Bar|
 穀物酒吧|
 ~
+CEREAL BAR|
+|
+~
 Chocolate Bar|
 巧克力條|
+~
+CHOCOLATE BAR|
+|
 ~
 Cookies|
 餅乾|
 ~
+COOKIES|
+|
+~
 Chewing Gum|
 口香糖|
+~
+CHEWING GUM|
+|
 ~
 Ice Cream|
 冰淇淋|
 ~
+ICE CREAM|
+|
+~
 Yogurt|
 酸奶|
+~
+YOGURT|
+|
 ~
 Back Pack|
 背上行囊|
 ~
+BACK PACK|
+|
+~
 Golf Clubs|
 高爾夫球棒|
+~
+GOLF CLUBS|
+|
 ~
 In-line Skates|
 直排輪滑鞋|
 ~
+IN-LINE SKATES|
+|
+~
 Cigarettes|
 香煙|
+~
+CIGARETTES|
+|
 ~
 Cigars|
 雪茄|
 ~
+CIGARS|
+|
+~
 Handheld Game Console|
 掌上遊戲機|
+~
+HANDHELD GAME CONSOLE|
+|
 ~
 Toy Racing Car|
 玩具賽車|
 ~
+TOY RACING CAR|
+|
+~
 Toy Doll|
 玩具娃娃|
+~
+TOY DOLL|
+|
 ~
 Video Game Console|
 電子遊戲機|
 ~
+VIDEO GAME CONSOLE|
+|
+~
 Elegant Watch|
 典雅手錶|
+~
+ELEGANT WATCH|
+|
 ~
 Silver Watch|
 白銀手錶|
 ~
+SILVER WATCH|
+|
+~
 Sports Watch|
 運動手錶|
+~
+SPORTS WATCH|
+|
 ~
 Buenos Aires|
 布宜諾斯艾利斯|
@@ -2371,9 +3712,6 @@ Parallel Inc.|
 Duopower Darts|
 堕力量飛鏢|
 ~
-You have been trying to raise capital for your fashion startup for years. Unfortunately the fund raising process is difficult and slow. When you eventually succeed in launching your own fashion company (expected to happen in year 2000), there will be established competitors in the market. Do you have what it takes to curve out a niche with your new fashion brand and thrive in the market?|
-你一直為你的創業公司在努力籌集資金。不幸的是，基金募集過程是艱難而緩慢。當您在推出自己的創業公司（預計將發生在2000年），最終獲得成功，將有建立在市場上的競爭對手。你將怎麼去面對新的時尚品牌和茁壯成長的市場？|
-~
 The last tutorial you have finished is tutorial %|
 你已經完成了最後的教程 %。|
 ~
@@ -2532,16 +3870,4 @@ In this tutorial, you will learn advanced management skills for running a retail
 ~
 Achieve an annual revenue of $50 million and an annual profit of $5 million to complete this tutorial.|
 全年實現營業收入5000萬美元，年利潤500萬美元，以完成本教程。|
-~
-Annual Profit|
-年利潤總額|
-~
-Apply|
-應用|
-~
-BATH LOTION|
-沐浴露|
-~
-CORPORATIONS|
-企業|
 ~
