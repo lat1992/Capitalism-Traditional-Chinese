@@ -2365,6 +2365,9 @@ Car|
 CAR|
 汽車|
 ~
+Car X %|
+汽車 X %|
+~
 Motorcycle|
 摩托車|
 ~
@@ -2539,6 +2542,9 @@ Bread|
 BREAD|
 麵包|
 ~
+Bread X %|
+麵包 X %|
+~
 Cakes|
 蛋糕|
 ~
@@ -2652,6 +2658,9 @@ Silver Necklace|
 ~
 SILVER NECKLACE|
 銀項鍊|
+~
+Silver Necklace X %|
+銀項鍊 X %|
 ~
 Gold Ring|
 金戒指|
@@ -2851,6 +2860,9 @@ Wheat|
 WHEAT|
 小麥|
 ~
+Wheat X %|
+小麥 X %|
+~
 Aluminum|
 鋁|
 ~
@@ -2899,6 +2911,9 @@ Silver|
 SILVER|
 銀|
 ~
+Silver X %|
+銀 X %|
+~
 Timber|
 木材|
 ~
@@ -2916,6 +2931,9 @@ Car Body|
 ~
 CAR BODY|
 車身|
+~
+Car Body X %|
+車身 X %|
 ~
 CCD|
 CCD|
@@ -2958,6 +2976,9 @@ Flour|
 ~
 FLOUR|
 麵粉|
+~
+Flour X %|
+麵粉 X %|
 ~
 Glass|
 玻璃|
@@ -3018,6 +3039,9 @@ Wheel & Tire|
 ~
 WHEEL & TIRE|
 車輪和輪胎|
+~
+Wheel & Tire X %|
+車輪和輪胎 X %|
 ~
 Cereal Bar|
 米花糖|
