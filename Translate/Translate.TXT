@@ -473,10 +473,10 @@ Purchasing Units updated|
 採購單位更新|
 ~
 pair|
-一對|
+對|
 ~
 can|
-可以|
+罐|
 ~
 loaf|
 塊|
@@ -1532,7 +1532,7 @@ Jewelry|
 珠寶|
 ~
 Livestock Products|
-畜产品|
+畜產品|
 ~
 Plant Products|
 農產品|
@@ -2303,10 +2303,10 @@ Corporate Details|
 公司詳情|
 ~
 Cash|
-錢|
+現金|
 ~
 CASH|
-錢|
+現金|
 ~
 Stocks|
 股票|
@@ -2339,28 +2339,28 @@ Blazer|
 西裝外套|
 ~
 BLAZER|
-|
+西裝外套|
 ~
 Leather Jacket|
 皮夾克|
 ~
 LEATHER JACKET|
-|
+皮夾克|
 ~
 Jeans|
 牛仔褲|
 ~
 JEANS|
-|
+牛仔褲|
 ~
 Sweater|
 毛衣|
 ~
 SWEATER|
-|
+毛衣|
 ~
 Car|
-租車|
+汽車|
 ~
 CAR|
 汽車|
@@ -2555,181 +2555,181 @@ Canned Soup|
 罐裝湯|
 ~
 CANNED SOUP|
-|
+罐裝湯|
 ~
 Corn Flakes|
 玉米片|
 ~
 CORN FLAKES|
-|
+玉米片|
 ~
 Sandals|
 涼鞋|
 ~
 SANDALS|
-|
+涼鞋|
 ~
 Shoes|
 鞋|
 ~
 SHOES|
-|
+鞋|
 ~
 Socks|
 襪子|
 ~
 SOCKS|
-|
+襪子|
 ~
 Sport Shoes|
 運動鞋|
 ~
 SPORT SHOES|
-|
+運動鞋|
 ~
 Bed|
 床|
 ~
 BED|
-|
+床|
 ~
 Chair|
 椅|
 ~
 CHAIR|
-|
+椅|
 ~
 Sofa|
 沙發|
 ~
 SOFA|
-|
+沙發|
 ~
 Air Conditioner|
 空調|
 ~
 AIR CONDITIONER|
-|
+空調|
 ~
 Refrigerator|
 冰箱|
 ~
 REFRIGERATOR|
-|
+冰箱|
 ~
 Washing Machine|
 洗衣機|
 ~
 WASHING MACHINE|
-|
+洗衣機|
 ~
 Detergent|
 洗滌劑|
 ~
 DETERGENT|
-|
+洗滌劑|
 ~
 Tissues|
 紙巾|
 ~
 TISSUES|
-|
+紙巾|
 ~
 Toilet cleaner|
 廁所清潔劑|
 ~
 TOILET CLEANER|
-|
+廁所清潔劑|
 ~
 Washing Powder|
 洗衣粉|
 ~
 WASHING POWDER|
-|
+洗衣粉|
 ~
 Silver Necklace|
 銀項鍊|
 ~
 SILVER NECKLACE|
-|
+銀項鍊|
 ~
 Gold Ring|
 金戒指|
 ~
 GOLD RING|
-|
+金戒指|
 ~
 Leather Bag|
 皮包|
 ~
 LEATHER BAG|
-|
+皮包|
 ~
 Leather Belt|
 皮帶|
 ~
 LEATHER BELT|
-|
+皮帶|
 ~
 Leather Briefcase|
 皮革公文包|
 ~
 LEATHER BRIEFCASE|
-|
+皮革公文包|
 ~
 Leather Wallet|
 真皮錢包|
 ~
 LEATHER WALLET|
-|
+真皮錢包|
 ~
 Eggs|
 雞蛋|
 ~
 EGGS|
-|
+雞蛋|
 ~
 Frozen Beef|
 速凍牛肉|
 ~
 FROZEN BEEF|
-|
+速凍牛肉|
 ~
 Frozen Chicken|
 速凍雞肉|
 ~
 FROZEN CHICKEN|
-|
+速凍雞肉|
 ~
 Frozen Pork|
 速凍豬肉|
 ~
 FROZEN PORK|
-|
+速凍豬肉|
 ~
 Frozen Lamb|
 速凍羊肉|
 ~
 FROZEN LAMB|
-|
+速凍羊肉|
 ~
 Leather|
 皮革|
 ~
 LEATHER|
-|
+皮革|
 ~
 Milk|
 牛奶|
 ~
 MILK|
-|
+牛奶|
 ~
 Wool|
 羊毛|
 ~
 WOOL|
-|
+羊毛|
 ~
 Cattle|
 牛|
@@ -2747,175 +2747,175 @@ Camera|
 攝像機|
 ~
 CAMERA|
-|
+攝像機|
 ~
 Compact Camera|
 緊湊型攝像機|
 ~
 COMPACT CAMERA|
-|
+緊湊型攝像機|
 ~
 Digital Camera|
 數碼相機|
 ~
 DIGITAL CAMERA|
-|
+數碼相機|
 ~
 Flax|
 亞麻|
 ~
 FLAX|
-|
+亞麻|
 ~
 Rubber Plant|
 橡膠廠|
 ~
 RUBBER PLANT|
-|
+橡膠廠|
 ~
 Sugar Cane|
 甘蔗|
 ~
 SUGAR CANE|
-|
+甘蔗|
 ~
 Cocoa|
 可可|
 ~
 COCOA|
-|
+可可|
 ~
 Coconut|
 椰子|
 ~
 COCONUT|
-|
+椰子|
 ~
 Corn|
 玉米|
 ~
 CORN|
-|
+玉米|
 ~
 Cotton|
 棉|
 ~
 COTTON|
-|
+棉|
 ~
 Flax Fiber|
 亞麻纖維|
 ~
 FLAX FIBER|
-|
+亞麻纖維|
 ~
 Grapes|
 葡萄|
 ~
 GRAPES|
-|
+葡萄|
 ~
 Lemon|
 檸檬|
 ~
 LEMON|
-|
+檸檬|
 ~
 Rubber|
 橡膠|
 ~
 RUBBER|
-|
+橡膠|
 ~
 Strawberry|
 草莓|
 ~
 STRAWBERRY|
-|
+草莓|
 ~
 Sugar|
 糖|
 ~
 SUGAR|
-|
+糖|
 ~
 Tobacco|
 煙草|
 ~
 TOBACCO|
-|
+煙草|
 ~
 Wheat|
 小麥|
 ~
 WHEAT|
-|
+小麥|
 ~
 Aluminum|
 鋁|
 ~
 ALUMINUM|
-|
+鋁|
 ~
 Chemical Minerals|
 化工礦產|
 ~
 CHEMICAL MINERALS|
-|
+化工礦產|
 ~
 Coal|
 煤炭|
 ~
 COAL|
-|
+煤炭|
 ~
 Gold|
 黃金|
 ~
 GOLD|
-|
+黃金|
 ~
 Iron Ore|
 鐵礦石|
 ~
 IRON ORE|
-|
+鐵礦石|
 ~
 Oil|
 油|
 ~
 OIL|
-|
+油|
 ~
 Silica|
 矽膠|
 ~
 SILICA|
-|
+矽膠|
 ~
 Silver|
 銀|
 ~
 SILVER|
-|
+銀|
 ~
 Timber|
 木材|
 ~
 TIMBER|
-|
+木材|
 ~
 Citric Acid|
 檸檬酸|
 ~
 CITRIC ACID|
-|
+檸檬酸|
 ~
 Car Body|
 車身|
 ~
 CAR BODY|
-|
+車身|
 ~
 CCD|
 CCD|
@@ -2924,13 +2924,13 @@ Coconut Oil|
 椰子油|
 ~
 COCONUT OIL|
-|
+椰子油|
 ~
 Corn Syrup|
 玉米糖漿|
 ~
 CORN SYRUP|
-|
+玉米糖漿|
 ~
 CPU|
 CPU|
@@ -2939,193 +2939,193 @@ Dyestuff|
 染料|
 ~
 DYESTUFF|
-|
+染料|
 ~
 Electronic Components|
 電子元件|
 ~
 ELECTRONIC COMPONENTS|
-|
+電子元件|
 ~
 Engine|
 引擎|
 ~
 ENGINE|
-|
+引擎|
 ~
 Flour|
 麵粉|
 ~
 FLOUR|
-|
+麵粉|
 ~
 Glass|
 玻璃|
 ~
 GLASS|
-|
+玻璃|
 ~
 Linen|
 床單|
 ~
 LINEN|
-|
+床單|
 ~
 Paper|
 紙|
 ~
 PAPER|
-|
+紙|
 ~
 Plastic|
 塑料|
 ~
 PLASTIC|
-|
+塑料|
 ~
 Polyester|
 滌綸|
 ~
 POLYESTER|
-|
+滌綸|
 ~
 Silicon|
 矽|
 ~
 SILICON|
-|
+矽|
 ~
 Steel|
 鋼|
 ~
 STEEL|
-|
+鋼|
 ~
 Textiles|
 紡織品|
 ~
 TEXTILES|
-|
+紡織品|
 ~
 Wheat Germ Oil|
 小麥胚芽油|
 ~
 WHEAT GERM OIL|
-|
+小麥胚芽油|
 ~
 Wheel & Tire|
 車輪和輪胎|
 ~
 WHEEL & TIRE|
-|
+車輪和輪胎|
 ~
 Cereal Bar|
-穀物酒吧|
+米花糖|
 ~
 CEREAL BAR|
-|
+米花糖|
 ~
 Chocolate Bar|
 巧克力條|
 ~
 CHOCOLATE BAR|
-|
+巧克力條|
 ~
 Cookies|
 餅乾|
 ~
 COOKIES|
-|
+餅乾|
 ~
 Chewing Gum|
 口香糖|
 ~
 CHEWING GUM|
-|
+口香糖|
 ~
 Ice Cream|
 冰淇淋|
 ~
 ICE CREAM|
-|
+冰淇淋|
 ~
 Yogurt|
 酸奶|
 ~
 YOGURT|
-|
+酸奶|
 ~
 Back Pack|
 背上行囊|
 ~
 BACK PACK|
-|
+背上行囊|
 ~
 Golf Clubs|
 高爾夫球棒|
 ~
 GOLF CLUBS|
-|
+高爾夫球棒|
 ~
 In-line Skates|
 直排輪滑鞋|
 ~
 IN-LINE SKATES|
-|
+直排輪滑鞋|
 ~
 Cigarettes|
 香煙|
 ~
 CIGARETTES|
-|
+香煙|
 ~
 Cigars|
 雪茄|
 ~
 CIGARS|
-|
+雪茄|
 ~
 Handheld Game Console|
 掌上遊戲機|
 ~
 HANDHELD GAME CONSOLE|
-|
+掌上遊戲機|
 ~
 Toy Racing Car|
 玩具賽車|
 ~
 TOY RACING CAR|
-|
+玩具賽車|
 ~
 Toy Doll|
 玩具娃娃|
 ~
 TOY DOLL|
-|
+玩具娃娃|
 ~
 Video Game Console|
 電子遊戲機|
 ~
 VIDEO GAME CONSOLE|
-|
+電子遊戲機|
 ~
 Elegant Watch|
 典雅手錶|
 ~
 ELEGANT WATCH|
-|
+典雅手錶|
 ~
 Silver Watch|
 白銀手錶|
 ~
 SILVER WATCH|
-|
+白銀手錶|
 ~
 Sports Watch|
 運動手錶|
 ~
 SPORTS WATCH|
-|
+運動手錶|
 ~
 Buenos Aires|
 布宜諾斯艾利斯|
