@@ -3427,6 +3427,12 @@ Atlanta|
 Baltimore|
 巴爾的摩|
 ~
+baltimore|
+巴爾的摩|
+~
+BALTIMORE|
+巴爾的摩|
+~
 Boston|
 波士頓|
 ~
