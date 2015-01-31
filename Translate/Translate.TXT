@@ -2,37 +2,37 @@
 自動保存過程中...|
 ~
 Challenge Game Auto Save...|
-|
+挑戰賽自動保存...|
 ~
 Release|
 發布版|
 ~
 (C) Copyright 2015 Enlight Software Ltd. All rights reserved.|
-|
+(C) 版權所有2015年Enlight軟件有限公司保留所有權利。|
 ~
 (C) Copyright 2014 Enlight Software Ltd. All rights reserved.|
 (C) 版權所有2014年Enlight軟件有限公司保留所有權利。|
 ~
 Sorry, you cannot execute this share buyback transaction, as a public company's total number of shares outstanding must not be lower than 1,000,000 shares.|
-|
+對不起，您無法執行該股票回購交易，上市公司的總股數不得低於1,000,000股。|
 ~
 Lost Ownership|
-|
+失去了所有權|
 ~
 Sorry, the AI is having an advance start and you cannot build any buildings until year %.|
-|
+抱歉，AI是有提前行動，你不能建立任何建築物直到 %.|
 ~
 Sorry, the AI is having an advance start and you cannot buy stock until year %.|
-|
+抱歉，AI是有提前啟動，你不能購買股票直到 %.|
 ~
 Sorry, the AI is having an advance start and you cannot buy any firms until year %.|
-|
+抱歉，AI是有提前行動，你不能收購公司直到 %.|
 ~
 Sorry, the AI is having an advance start and you cannot buy land until year %.|
-|
+抱歉，AI是有提前行動，你不能購買土地直到 %.|
 ~
 The advanced start period for AI has ended. Now you may join the competition.|
-|
+AI的操作已經結束,現在你可以參與競爭了.|
 ~
 Set a new advertising budget for all your advertising units:|
 設置新的廣告預算為您的所有廣告單元：|
@@ -41,64 +41,64 @@ Department Store|
 百貨商店|
 ~
 Supermarket|
-|
+超市|
 ~
 Convenience Store|
-|
+便利店|
 ~
 Discount Megastore|
-|
+賣場|
 ~
 Drug Store|
-|
+藥店|
 ~
 Apparel Store|
-|
+服裝店|
 ~
 Automobile Outlet|
-|
+機動車輛店|
 ~
 Electronics Store|
-|
+家電城|
 ~
 Footwear Store|
-|
+鞋類商店|
 ~
 Jewelry and Watch Shop|
-|
+珠寶手錶店|
 ~
 Leather Store|
-|
+皮具店|
 ~
 Computer Store|
-|
+電腦店|
 ~
 Cosmetic Store|
-|
+化妝品店|
 ~
 Furniture Store|
-|
+家具店|
 ~
 Sports Store|
-|
+體育用品店|
 ~
 Toy Store|
-|
+玩具店|
 ~
 Pear Year % - %|
-|
+梨 年份 % - %|
 ~
 Past Year % - %|
-|
+經過 年份 % - %|
 ~
 million|
-|
+百萬|
 ~
 billion|
-|
+十億|
 ~
 inflation adjustment|
-|
+通貨膨脹調整|
 ~
 Corporate Balance Sheet|
 公司的資產負債表|
@@ -107,13 +107,13 @@ Corporate Income Statement|
 企業的損益表|
 ~
 AI:|
-|
+AI:|
 ~
 This location is not suitable for farming.|
-|
+此區域不適合耕作.|
 ~
 Game version|
-|
+遊戲版本|
 ~
 LOAD A GAME|
 加載遊戲|
@@ -122,400 +122,400 @@ LOAD|
 加載|
 ~
 SCREEN MODE|
-|
+顯示模式|
 ~
 Full Screen Mode|
-|
+全屏模式|
 ~
 Windowed Mode|
-|
+窗口模式|
 ~
 Hold the [SHIFT] key concurrently to build more|
-|
+按住[SHIFT]鍵可以同時創建更多|
 ~
 APPLY|
-|
+應用|
 ~
 Sort by:|
-|
+排序方式:|
 ~
 Title|
-|
+標題|
 ~
 Date|
-|
+日期|
 ~
 Record: % / %|
-|
+記錄: % / %|
 ~
 Rankings|
-|
+排名|
 ~
 Load|
-|
+加載|
 ~
 All|
-|
+全部|
 ~
 Delete|
-|
+刪除|
 ~
 Save New|
-|
+新存檔|
 ~
 Save|
-|
+存儲|
 ~
 About|
-|
+關於|
 ~
 You cannot use a corporation that you control to buy back its own shares.|
-|
+你不能使用你控制的公司回購自己的股票.|
 ~
 Display Filter:|
-|
+顯示篩選器|
 ~
 Tech > 30|
-|
+科技 > 30|
 ~
 In Production|
-|
+生產中|
 ~
 With R&D|
-|
+With R&D|
 ~
 Go|
-|
+Go|
 ~
 Products that you are currently producing are shown with orange bars.|
-|
+您目前正在生產的產品都顯示為橙色條.|
 ~
 Double-click on a product record to open the Product Detail Report.|
-|
+雙擊產品記錄打開產品詳細報告.|
 ~
 Double-click on an advertising record to go to the relevant firm.|
-|
+雙擊廣告記錄轉到相關公司.|
 ~
 Sorry, you cannot change the game speed of the current game as it is fixed by a game script.|
-|
+抱歉,由於遊戲腳本固定了速度所以你無法更改.|
 ~
 Which type of game do you want to save?|
-|
+你想保存那種遊戲類型?|
 ~
 Normal Savegame|
-|
+正常保存|
 ~
 Public Challenge Games|
-|
+公開的挑戰比賽|
 ~
 Private Challenge Games|
-|
+私人的挑戰比賽|
 ~
 This Challenge Game will be deleted. Proceed ?|
-|
+此挑戰比賽將被刪除,繼續?|
 ~
 Game Ending Year|
-|
+遊戲結束時間|
 ~
 Stock Market|
-|
+股票市場|
 ~
 Disabled|
-|
+關閉|
 ~
 Enabled|
-|
+打開|
 ~
 Enabled (Alternative)|
-|
+打開 (二選一)|
 ~
 Contest Started On|
-|
+比賽開始|
 ~
 Contest Deadline|
-|
+比賽的最後期限|
 ~
 File Name|
-|
+文件名|
 ~
 File date|
-|
+文件日期|
 ~
 File name|
-|
+文件名|
 ~
 Game Duration|
-|
+遊戲持續時間|
 ~
 Difficulty Rating|
-|
+難度|
 ~
 Difficulty Level|
-|
+難易度|
 ~
 Considerably Easier|
-|
+非常容易|
 ~
 Less Difficult|
-|
+稍難|
 ~
 Original Difficulty|
-|
+普通|
 ~
 Harder|
-|
+困難|
 ~
 Tremendously Harder|
-|
+極度困難|
 ~
 Player Skill Level|
-|
+玩家技能水平|
 ~
 Advanced|
-|
+高級|
 ~
 page %|
-|
+頁 %|
 ~
 Auto-Save Game|
-|
+自動存儲遊戲|
 ~
 Challenge Game Auto-Save|
-|
+挑戰賽自動存儲|
 ~
 Auto-Save (AI Advanced Sta|
-|
+自動存儲(高級AI|
 ~
 Total play time|
-|
+總共遊戲時間|
 ~
 hour|
-|
+小時|
 ~
 hours|
-|
+小時|
 ~
 min|
-|
+分鐘|
 ~
 mins|
-|
+分鐘|
 ~
 opens a %|
-|
+開放一個 %|
 ~
 Relocate / Demolish Firm|
-|
+遷移/拆除 公司|
 ~
 Are you sure that you want to demolish this firm?|
-|
+你確定要拆除此公司?|
 ~
 Relocate Firm|
-|
+遷移公司|
 ~
 Demolish Firm|
-|
+拆除公司|
 ~
 Relocate This Firm|
-|
+遷移這個公司|
 ~
 Demolish This Firm Only|
-|
+僅僅拆除此公司|
 ~
 Demolish This Firm and Sell the Land|
-|
+拆除公司并賣掉土地|
 ~
 LAND PLOT|
-|
+地塊|
 ~
 Use your personal money to build your mansion.|
-|
+使用你的私人現金購買大廈.|
 ~
 You do not have enough PERSONAL money|
-|
+你沒有足夠的私人現金|
 ~
 for building your mansion.|
-|
+用於建築大廈|
 ~
  buys a Mansion in |
-|
+買一所大廈在|
 ~
  from  |
-|
+從|
 ~
  for |
-|
+為|
 ~
 Your expertise products are shown in yellow.|
-|
+你的專長產品顯示為黃色.|
 ~
 Products already in research are shown in red.|
-|
+產品已經在研究顯示為紅色.|
 ~
 For Sale|
-|
+代售|
 ~
 Not For Sale|
-|
+非賣品|
 ~
 Land Cost|
-|
+地價|
 ~
 Natural Resource|
-|
+自然資源|
 ~
 Reserve|
-|
+儲備|
 ~
 Quality|
-|
+質量|
 ~
 Price Premium|
-|
+價格溢價|
 ~
 Nil|
-|
+零|
 ~
 Land Value|
-|
+土地價值|
 ~
 Description of the save game:|
-|
+存檔描述|
 ~
 MANAGER OF THIS FIRM|
-|
+這家公司經理|
 ~
 I currently manage this firm myself|
-|
+目前我自己管理這家公司|
 ~
 I will manage this firm myself (F1)|
-|
+我將自己管理這家公司 (F1)|
 ~
 I will manage all of my firms (F1)|
-|
+我將管理我的所有公司 (F1)|
 ~
 Let him manage:|
-|
+讓他管理|
 ~
 Let her manage:|
-|
+讓她管理|
 ~
 All of my firms (F2)|
-|
+我的所有公司 (F2)|
 ~
 This firm (F2)|
-|
+這家公司 (F2)|
 ~
 All my Retail Stores (F3)|
-|
+我的所有零售店 (F3)|
 ~
 All my Factorys (F3)|
-|
+我的所有工廠 (F3)|
 ~
 All my Farms (F3)|
-|
+我的所有農場 (F3)|
 ~
 All my Mines (F3)|
-|
+我的所有礦場 (F3)|
 ~
 All my Warehouses (F3)|
-|
+我的所有倉庫 (F3)|
 ~
 All my Newspaper Publishers (F3)|
-|
+我的所有報社 (F3)|
 ~
 All my Radio Stations (F3)|
-|
+我的所有電台 (F3)|
 ~
 All my TV Stations (F3)|
-|
+我的所有電視台 (F3)|
 ~
 All my R&D Centers (F3)|
-|
+我的所有的研發中心 (F3)|
 ~
 asked|
-|
+賣方要價|
 ~
  for a raise in salary from % to % .|
-|
+加薪從 % 到 % .|
 ~
 to|
 到|
 ~
 This Seaport supplies consumer goods.|
-|
+這個港口供應消費品.|
 ~
 This Seaport supplies industrial goods.|
-|
+這個港口供應工業用品.|
 ~
 Do you agree?|
-|
+你同意嗎?|
 ~
 Left click to relocate|
-|
+左鍵轉到|
 ~
 to relocate this firm.|
-|
+轉到這個公司|
 ~
 Batch Switching Supplier|
-|
+批量切換供應商|
 ~
 Batch (F9)|
-|
+一批 (F9)|
 ~
 Suppliers at your Purchasing Units have been changed as per your request.|
-|
+採購部的供應商已經按照你的要求更換.|
 ~
 Firms updated|
-|
+公司更新|
 ~
 Purchasing Units updated|
-|
+採購單位更新|
 ~
 pair|
-|
+一對|
 ~
 can|
-|
+可以|
 ~
 loaf|
-|
+塊|
 ~
 loaves|
-|
+大塊|
 ~
 dozen|
-|
+一打|
 ~
 quart|
-|
+夸脫|
 ~
 quarts|
-|
+夸脫|
 ~
 barrel|
-|
+桶|
 ~
 barrels|
-|
+桶|
 ~
 ton|
-|
+頓|
 ~
 oz|
-|
+盎司|
 ~
 pack|
-|
+捆|
 ~
 packs|
-|
+捆|
 ~
 box|
-|
+箱|
 ~
 boxes|
-|
+箱|
 ~
 lb|
 磅|
@@ -530,37 +530,37 @@ R&D Expenses|
 研發費用|
 ~
 Demolish Apartment|
-|
+拆除公寓|
 ~
 Demolish Commercial Building|
-|
+拆除商業建築|
 ~
 Are you sure that you want to demolish this building?|
-|
+你確定要拆除這個建築嗎?|
 ~
 Only Demolish This Building|
-|
+僅僅拆除這個建築|
 ~
 Demolish This Building and Sell the Land|
-|
+拆除建築并賣掉土地|
 ~
 Which product should it produce?|
-|
+應該生產哪些產品?|
 ~
 SELECT (F8)|
 選擇（F8）|
 ~
 All Cities (F5)|
-|
+所有城市 (F5)|
 ~
 Current City (F5)|
-|
+當前城市 (F5)|
 ~
 Warehouse Only (F6)|
-|
+僅僅倉庫 (F6)|
 ~
 Go to Supplier (F7)|
-|
+轉到供應商 (F7)|
 ~
 Current Brand Strategy:|
 目前的品牌戰略：|
@@ -605,7 +605,7 @@ Financials|
 財務數據|
 ~
 Specialty Store|
-|
+專賣店|
 ~
 Demand Bonus|
 需求獎金|
@@ -650,22 +650,22 @@ Goal|
 目標|
 ~
 Challenge Game|
-|
+挑戰賽|
 ~
 CHALLENGE GAME|
-|
+挑戰賽|
 ~
 Challenge Game Mode|
-|
+挑戰模式|
 ~
 Instructions: How to set up a private challenge game|
-|
+說明:如何建立一場挑戰賽|
 ~
 Challenge Game Title|
-|
+挑戰賽標題|
 ~
 You have been given a new goal!|
-|
+你已經收到一個新目標!|
 ~
 Billionaires 100|
 億萬富豪100|
@@ -677,13 +677,13 @@ Currency Revalued!|
 貨幣重估！|
 ~
 % undergoes a 1-10 stock merge, which groups every 10 shares into one share.|
-|
+% 經歷了一個1-10 的股票合併,每10股合併成1股.|
 ~
 undergoes a 1-10 stock merge, which groups every 10 shares into one share.|
 經歷了一個1-10的股票合併，這組每10股一股。|
 ~
  undergoes a 1-10 stock merge, which groups every 10 shares into one share.|
-|
+ 經歷了一個1-10 的股票合併,每10股合併成1股.|
 ~
 REVERSE STOCK SPLIT|
 反向股票分割|
@@ -704,7 +704,7 @@ This is an open-ended game and there are no goals.|
 這是一個開放式的比賽，沒有目標。|
 ~
 There are no goals available currently.|
-|
+目前沒有有效的目標.|
 ~
 Financial Figures|
 財務數據|
@@ -725,7 +725,7 @@ OPERATING REVENUE|
 營業收入|
 ~
 Finansial|
-Finansial|
+金融|
 ~
 Special|
 特別|
@@ -797,25 +797,25 @@ Maximize Market Share|
 最大限度地提高市場份額|
 ~
 Market Dominance|
-|
+市場主導|
 ~
 Market Dominance Goal|
-|
+市場主導目標|
 ~
 Market Dominance Goal (Main Goal)|
-|
+市場主導目標 (主要)|
 ~
 (Subgoal)|
-|
+(子目標)|
 ~
 Set up a factory to produce Cola and launch it onto the market|
-|
+創建一個工廠生產可樂并出售|
 ~
 Random Select|
-|
+隨機選擇|
 ~
 Select|
-|
+選擇|
 ~
 Product Class|
 產品分類|
@@ -824,40 +824,40 @@ Product Type|
 產品型號|
 ~
 Highest Difficulty Rating of Game Ever Won|
-|
+贏得遊戲最高難度等級|
 ~
 Product Class Mission|
-|
+產品任務|
 ~
 Mega Product Class Mission|
-|
+大產品類任務|
 ~
 Product Mega Class|
-|
+產品大類|
 ~
 Fashion|
-|
+時尚|
 ~
 Food and Beverage|
-|
+食品和飲料|
 ~
 Healthcare and Beauty|
-|
+保健美容|
 ~
 Electronics and Appliances|
-|
+電子家電|
 ~
 Luxury Goods|
-|
+奢侈品|
 ~
 Total Market Dominance Mission|
-|
+全部市場主導地位任務|
 ~
 Total Market Dominance|
-|
+全部市場主導地位|
 ~
 (Press the 'G' shortcut key anytime to view the Goal screen)|
-|
+(按下'G'查看任務目標)|
 ~
 You posses expertise in the % industry (level: %)|
 |
