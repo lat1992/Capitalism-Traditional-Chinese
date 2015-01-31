@@ -860,25 +860,25 @@ Total Market Dominance|
 (按下'G'查看任務目標)|
 ~
 You posses expertise in the % industry (level: %)|
-|
+你擁有專業知識在 % 行業 (level: %)|
 ~
 You posses expertise in the Beverage industry (level: %)|
-|
+你擁有專業知識在飲料行業 (level: %)|
 ~
 (level: %)|
-|
+(等級: %)|
 ~
 You posses expertise in the Beverage industry|
-|
+你擁有專業知識在飲料行業|
 ~
 Market Dominance of the % Industry|
-|
+% 市場主導|
 ~
 Market Dominance of the Beverage Industry|
-|
+飲料行業的市場主導|
 ~
 View The Goals Now|
-|
+查看目標|
 ~
 Score|
 比分|
@@ -989,10 +989,10 @@ Annual Revenue|
 % 加入 % 作為 %。|
 ~
 the job as the % of %.|
-|
+這個工作作為 % 的 %.|
 ~
 asked for a raise in salary from % to % .|
-|
+要求加薪從 % 到 % .|
 ~
 If your corporation is using 'Corporate Brand' strategy,|
 如果你的公司正在使用“企業品牌”戰略，|
@@ -1034,19 +1034,19 @@ th|
 日|
 ~
 Government|
-|
+政府|
 ~
 Operation since|
-|
+操作自|
 ~
 This Newspaper Publisher started operation since %.|
-|
+此報社開始運營與 %.|
 ~
 This Radio Station started operation since %.|
-|
+此電台開始運營與 %.|
 ~
 This TV Station started operation since %.|
-|
+此電視台開始運營與 %.|
 ~
 None|
 沒有|
@@ -1091,31 +1091,31 @@ Technology Disruption|
 科技擾亂|
 ~
 DIFFICULTY|
-|
+困難|
 ~
 A Fun Gaming Experience for New Players.|
-|
+對新玩家來說一個有趣的遊戲體驗.|
 ~
 Normal Difficulty. Enjoyable for Most Players.|
-|
+正常難度,適合大部分玩家.|
 ~
 For Experienced Players looking for More Challenge.|
-|
+對於有經驗的玩家更具挑戰.|
 ~
 Hard. Only choose this if you have won in easier games.|
-|
+困難.如果你贏過簡單遊戲可以試試這個.|
 ~
 For Expert Players Only. Not recommended for normal players.|
-|
+僅供職業玩家.對於普通玩家不推薦.|
 ~
 Extremely Difficult! Not recommended for most players.|
-|
+極其困難!對大部分玩家不推薦.|
 ~
 Insanely Difficult! Not enjoyable unless you have achieved mastery with this game.|
-|
+瘋狂難度!完全沒法玩除非你是開發人員.|
 ~
 A Humanly Impossible Challenge! Do not choose this if you want a winnable game.|
-|
+非人挑戰!如果你想玩遊戲就別選擇這個吧.|
 ~
 Off|
 關|
@@ -1151,7 +1151,7 @@ to build the firm.|
 建立公司。|
 ~
 % changes its corporate strategy from % to %.|
-|
+% 改變公司戰略從 % 到 %.|
 ~
 Technology Improvement|
 技術改進|
@@ -1178,16 +1178,16 @@ Owner:|
 業主：|
 ~
 Owned by Government|
-|
+屬於政府|
 ~
 Owned Tech.|
-|
+擁有科技.|
 ~
 Owned Technology|
 擁有技術|
 ~
 Top Tech.|
-|
+尖端科技.|
 ~
 Top Technology|
 頂級科技|
@@ -1244,7 +1244,7 @@ Role|
 角色|
 ~
 Building Types|
-|
+建築類型|
 ~
 Retail Store|
 零售商店|
@@ -1253,13 +1253,13 @@ Factory|
 工廠|
 ~
 Factory - Small|
-|
+工廠 - 小|
 ~
 Factory - Medium|
-|
+工廠 - 中|
 ~
 Factory - Large|
-|
+工廠 - 大|
 ~
 R&D Center|
 研發中心|
@@ -1268,19 +1268,19 @@ Farm|
 農場|
 ~
 Farm - Medium|
-|
+農場 - 中|
 ~
 Farm - Large|
-|
+農場 - 大|
 ~
 Warehouse|
 倉庫|
 ~
 Warehouse - Medium|
-|
+倉庫 - 中|
 ~
 Warehouse - Large|
-|
+倉庫 - 大|
 ~
 Natural Resources Firm|
 自然資源公司|
@@ -1298,13 +1298,13 @@ Media Firm|
 媒體公司|
 ~
 TV Station|
-|
+電視台|
 ~
 Newspaper Publisher|
-|
+報社|
 ~
 Radio Station|
-|
+電台|
 ~
 Apartment|
 公寓|
@@ -1325,37 +1325,37 @@ Commercial Building|
 商業大廈|
 ~
 Investment Bank|
-|
+投資銀行|
 ~
 Bank|
-|
+銀行|
 ~
 Stock Exchange|
-|
+證券交易所|
 ~
 Information Center|
-|
+咨詢中心|
 ~
 Seaport|
-|
+港口|
 ~
 Airport|
-|
+機場|
 ~
 All Media Firms|
-|
+所有的媒體公司|
 ~
 % donates to build a %|
-|
+% 捐贈創建一個 %|
 ~
 Built with funds donated by:|
-|
+使用捐贈資金:|
 ~
 Ongoing donation|
-|
+正在捐贈|
 ~
 Monthly operating funds:|
-|
+每月維護費用:|
 ~
 COMMERCIAL BUILDING|
 商業大廈|
@@ -1379,19 +1379,19 @@ Market Rent:|
 市場租金：|
 ~
 SUPPLIER: Mine|
-|
+供應商:礦山|
 ~
 SUPPLIER: Factory|
-|
+供應商:工廠|
 ~
 SUPPLIER: Seaport|
-|
+供應商:港口|
 ~
 SUPPLIER: Warehouse|
-|
+供應商:倉庫|
 ~
 SUPPLIER: Farm|
-|
+供應商:農場|
 ~
 Profit|
 利潤|
@@ -1445,7 +1445,7 @@ Stadium|
 體育館|
 ~
 Not enough personal cash|
-|
+沒有足夠的私人資金|
 ~
 Cost|
 費用|
@@ -1460,22 +1460,22 @@ Crops|
 作物|
 ~
 Livestock Supply|
-|
+牲畜供應品|
 ~
 Process Capacity|
-|
+加工能力|
 ~
 Sowing in %|
-|
+播種在 %|
 ~
 from|
-|
+從|
 ~
 Harvest in %|
-|
+收穫在 %|
 ~
 Go to Client (F7)|
-|
+轉到客戶 (F7)|
 ~
 MANUFACTURER'S GUIDE|
 製造商指南|
@@ -1532,16 +1532,16 @@ Jewelry|
 珠寶|
 ~
 Livestock Products|
-|
+畜产品|
 ~
 Plant Products|
-|
+農產品|
 ~
 Raw Material|
-|
+原材料|
 ~
 Livestock Semi-products|
-|
+牲畜半成品|
 ~
 Leather Goods|
 皮具|
@@ -1571,7 +1571,7 @@ Purchasing Unit|
 採購單位|
 ~
 Purchasing|
-|
+採購|
 ~
 Purchase|
 購買|
@@ -1592,13 +1592,13 @@ Livestock Raising Unit|
 畜牧業股|
 ~
 Livestock Raising|
-|
+牲畜飼養|
 ~
 Livestock|
 畜牧業|
 ~
 Livestock Processing|
-|
+牲畜加工|
 ~
 Livestock Processing Unit|
 家畜處理單元|
@@ -1610,7 +1610,7 @@ Oil Extraction Unit|
 採油單位|
 ~
 Oil Extraction|
-|
+原油萃取|
 ~
 Extract|
 提取|
@@ -1625,7 +1625,7 @@ Advertising Unit|
 廣告部|
 ~
 Advertising|
-|
+廣告|
 ~
 Advertise|
 廣告服務|
@@ -1637,7 +1637,7 @@ Research & Development Unit|
 研究與發展部|
 ~
 Research & Development|
-|
+研發|
 ~
 Inventory|
 倉庫|
@@ -1646,7 +1646,7 @@ Inventory Unit|
 庫存單位|
 ~
 Warehouse Storage|
-|
+倉庫存儲|
 ~
 Warehouse Storage Unit|
 倉庫存儲單元|
@@ -1655,13 +1655,13 @@ Storage|
 存儲|
 ~
 Input Material|
-|
+原料|
 ~
 To locate an specific input, type the first letter of its name.|
-|
+定位一個指定的輸入,輸入它的首字母.|
 ~
 Warehouse Input|
-|
+倉庫輸入|
 ~
 Warehouse Input Unit|
 倉庫輸入單元|
@@ -1670,7 +1670,7 @@ Input|
 輸入|
 ~
 Warehouse Output|
-|
+倉庫輸出|
 ~
 Warehouse Output Unit|
 倉庫輸出單元|
@@ -1682,7 +1682,7 @@ Labelling|
 標籤|
 ~
 Private Labelling|
-|
+自有品牌|
 ~
 Private Labelling Unit|
 私人標籤組|
@@ -1697,7 +1697,7 @@ LIVESTOCK|
 牲畜|
 ~
 Crop Growing|
-|
+作物栽培|
 ~
 Crop Growing Unit|
 作物生長單位|
@@ -1724,10 +1724,10 @@ MOD|
 MOD|
 ~
 Pre-defined Scripts|
-|
+預定義腳本|
 ~
 User-created Scripts|
-|
+用戶腳本|
 ~
 LOAD SCRIPT|
 負載腳本|
@@ -1814,61 +1814,61 @@ Goal Deadline|
 目標截止日期|
 ~
 New Product Launch 1|
-|
+新產品上市 1|
 ~
 New Product Launch 2|
-|
+新產品上市 2|
 ~
 New Product Launch 3|
-|
+新產品上市 3|
 ~
 New Product Launch 4|
-|
+新產品上市 4|
 ~
 New Product Launch 5|
-|
+新產品上市 5|
 ~
 New Product Launch %|
-|
+新產品上市 %|
 ~
 Main Goal|
-|
+主要目標|
 ~
 (Main Goal)|
-|
+(主要目標)|
 ~
 MAIN GOAL|
 主要目標|
 ~
 SUBGOAL|
-|
+次要目標|
 ~
 Subgoal|
-|
+次要目標|
 ~
 REWARD|
-|
+報酬|
 ~
 REWARDS|
-|
+報酬|
 ~
 Get the Reward Now|
-|
+現在獲得獎勵|
 ~
 Get the Rewards Now|
-|
+現在獲得獎勵|
 ~
 Score Bonus (plus early completion bonus)|
-|
+得分獎勵(加上早期完成的獎勵)|
 ~
 Unlock all other products|
-|
+解鎖所有產品|
 ~
 Corporate Cash Bonus|
-|
+企業現金紅利|
 ~
 Personal Cash Bonus|
-|
+私人現金紅利|
 ~
 12 Months|
 12月|
@@ -1883,7 +1883,7 @@ Past 30 Years|
 過去的30年|
 ~
 Past 30 years|
-|
+過去30年|
 ~
 Utilization|
 利用|
@@ -1898,10 +1898,10 @@ Stock|
 股票|
 ~
 SELL STOCK|
-|
+銷售股票|
 ~
 BUY STOCK|
-|
+買股票|
 ~
 The central bank increases the interest rate from % to %.|
 央行增加從%至%的利率。|
@@ -1913,19 +1913,19 @@ The New Central Bank Chairman|
 新央行行長|
 ~
 A new chairman with Inflation Dove (strong) attitude is now at the helm of the central bank.|
-|
+一個新的通貨膨脹鴿派董事長(斯特朗)掌舵央行.|
 ~
 A new chairman with Inflation Dove (modest) attitude is now at the helm of the central bank.|
-|
+一個新的通貨膨脹鴿派董事長(摩黛絲特)掌舵央行.|
 ~
 A new chairman with Neutral attitude is now at the helm of the central bank.|
-|
+一個新的中立派董事長(小強)掌舵央行.|
 ~
 A new chairman with Inflation Hawk (modest) attitude is now at the helm of the central bank.|
-|
+一個新的通貨膨脹鷹派董事長(莫德斯特)掌舵央行.|
 ~
 A new chairman with Inflation Dove (strong) attitude is now at the helm of the central bank.|
-|
+一個新的通貨膨脹鴿派董事長(摩黛絲特)掌舵央行.|
 ~
 Consumer Price Index|
 消費物價指數|
@@ -2111,49 +2111,49 @@ Market Price|
 市場價格|
 ~
 Purchase Cost|
-|
+進貨成本|
 ~
 (CLICK TO SELL)|
-|
+(點擊出售)|
 ~
 Do you want to sell this land plot for %?|
-|
+你想出售這個地塊 %|
 ~
 sets up a|
-|
+創建一個|
 ~
 WARNING: This Plan has no saleable items.|
-|
+警告:此計劃沒有可出售單位.|
 ~
 Find Next|
-|
+找到下一個|
 ~
 The plan will replace the existing layout of the current firm. Proceed?|
-|
+這個計劃將替代當前佈局,確定?|
 ~
 Pre-defined|
-|
+預定義|
 ~
 User-defined|
-|
+用戶定義|
 ~
 Wildcard Factory Plans|
-|
+通用工廠計劃|
 ~
 Wildcard Input 1|
-|
+通用輸入 1|
 ~
 Wildcard Input 2|
-|
+通用輸入 2|
 ~
 Wildcard Input 3|
-|
+通用輸入 3|
 ~
 Layout Plan|
-|
+佈局設計|
 ~
 Plan: %|
-|
+設計: %|
 ~
 Market Value|
 市值|
@@ -2168,7 +2168,7 @@ Number of Game Years|
 遊戲年數|
 ~
 year|
-|
+年|
 ~
 Ranking Method|
 排名方法|
@@ -2198,7 +2198,7 @@ NO|
 否|
 ~
 OK|
-ОК|
+OK|
 ~
 CANCEL|
 取消|
@@ -2363,37 +2363,37 @@ Car|
 租車|
 ~
 CAR|
-|
+汽車|
 ~
 Motorcycle|
 摩托車|
 ~
 MOTORCYCLE|
-|
+摩托車|
 ~
 Bottled Milk|
 瓶裝牛奶|
 ~
 BOTTLED MILK|
-|
+瓶裝牛奶|
 ~
 Cola|
 可樂|
 ~
 COLA|
-|
+可樂|
 ~
 Grape Juice|
 葡萄汁|
 ~
 GRAPE JUICE|
-|
+葡萄汁|
 ~
 Wine|
 紅酒|
 ~
 WINE|
-|
+紅酒|
 ~
 Bath Lotion|
 沐浴露|
@@ -2405,151 +2405,151 @@ Shampoo|
 洗髮水|
 ~
 SHAMPOO|
-|
+洗髮水|
 ~
 Soap|
 香皂|
 ~
 SOAP|
-|
+香皂|
 ~
 Toothpaste|
 牙膏|
 ~
 TOOTHPASTE|
-|
+牙膏|
 ~
 Camera Phone|
 拍照手機|
 ~
 PHONE|
-|
+電話|
 ~
 HUD Glasses|
 HUD眼鏡|
 ~
 HUD GLASSES|
-|
+HUD眼鏡|
 ~
 Mobile Phone|
 手機|
 ~
 MOBILE PHONE|
-|
+手機|
 ~
 Smart Phone|
 智能手機|
 ~
 SMART PHONE|
-|
+智能手機|
 ~
 Desktop Computer|
 台式電腦|
 ~
 DESKTOP COMPUTER|
-|
+台式電腦|
 ~
 Notebook Computer|
 筆記本電腦|
 ~
 NOTEBOOK COMPUTER|
-|
+筆記本電腦|
 ~
 Printer|
 打印機|
 ~
 PRINTER|
-|
+打印機|
 ~
 Tablet Computer|
 平板電腦|
 ~
 TABLET COMPUTER|
-|
+平板電腦|
 ~
 Eye Shadow|
 眼影|
 ~
 EYE SHADOW|
-|
+眼影|
 ~
 Hair Color|
 頭髮顏色|
 ~
 HAIR COLOR|
-|
+頭髮顏色|
 ~
 Lipstick|
 口紅|
 ~
 LIPSTICK|
-|
+口紅|
 ~
 Perfume|
 香水|
 ~
 PERFUME|
-|
+香水|
 ~
 Cold Pills|
 感冒藥|
 ~
 COLD PILLS|
-|
+感冒藥|
 ~
 Cough Syrup|
 止咳糖漿|
 ~
 COUGH SYRUP|
-|
+止咳糖漿|
 ~
 Headache Pills|
 頭痛藥|
 ~
 HEADACHE PILLS|
-|
+頭痛藥|
 ~
 Camcorder|
 攝像機|
 ~
 CAMCORDER|
-|
+攝像機|
 ~
 Hi-fi System|
 高保真音響|
 ~
 HI-FI SYSTEM|
-|
+高保真音響|
 ~
 Portable Media Player|
 便攜式媒體播放器|
 ~
 PORTABLE MEDIA PLAYER|
-|
+便攜式媒體播放器|
 ~
 Television|
 電視|
 ~
 TELEVISION|
-|
+電視|
 ~
 Bread|
 麵包|
 ~
 BREAD|
-|
+麵包|
 ~
 Cakes|
 蛋糕|
 ~
 CAKES|
-|
+蛋糕|
 ~
 Canned Corn|
 玉米罐頭|
 ~
 CANNED CORN|
-|
+玉米罐頭|
 ~
 Canned Soup|
 罐裝湯|
