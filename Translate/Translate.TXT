@@ -329,16 +329,16 @@ LAND PLOT|
 地塊|
 ~
 Use your personal money to build your mansion.|
-使用你的私人現金購買大廈.|
+使用你的私人現金購買別墅.|
 ~
 You do not have enough PERSONAL money|
 你沒有足夠的私人現金|
 ~
 for building your mansion.|
-用於建築大廈|
+用於建築別墅|
 ~
  buys a Mansion in |
-買一所大廈在|
+買一所別墅在|
 ~
  from  |
 從|
@@ -1313,7 +1313,7 @@ Headquarters|
 總部|
 ~
 Mansion|
-大廈|
+別墅|
 ~
 Пoмecтьe - Medium|
 |
