@@ -302,7 +302,7 @@ mins|
 分鐘|
 ~
 opens a %|
-開放一個 %|
+開張一個 %|
 ~
 Relocate / Demolish Firm|
 遷移/拆除 公司|
@@ -1315,12 +1315,6 @@ Headquarters|
 Mansion|
 別墅|
 ~
-Пoмecтьe - Medium|
-|
-~
-Пoмecтьe - Small|
-|
-~
 Commercial Building|
 商業大廈|
 ~
@@ -1455,6 +1449,12 @@ Price|
 ~
 Freight|
 貨運|
+~
+Freight Cost|
+運費|
+~
+Shipment from Supplier to Buyer: %|
+貨物從供應商到買家: %|
 ~
 Crops|
 作物|
@@ -1904,10 +1904,10 @@ BUY STOCK|
 買股票|
 ~
 The central bank increases the interest rate from % to %.|
-央行增加從%至%的利率。|
+央行上調利息從%至%。|
 ~
 The central bank decreases the interest rate from % to %.|
-央行減少從%至%的利率。|
+央行下調利息從%至%。|
 ~
 The New Central Bank Chairman|
 新央行行長|
@@ -2299,6 +2299,9 @@ Corporations|
 CORPORATIONS|
 企業|
 ~
+CORPORATIONS (Total: %)|
+企業 (總共: %)|
+~
 Corporate Details|
 公司詳情|
 ~
@@ -2307,6 +2310,9 @@ Cash|
 ~
 CASH|
 現金|
+~
+Cash %|
+現金 %|
 ~
 Stocks|
 股票|
@@ -2697,6 +2703,9 @@ Eggs|
 ~
 EGGS|
 雞蛋|
+~
+EGGS % dozen|
+雞蛋 % 打|
 ~
 Frozen Beef|
 速凍牛肉|
