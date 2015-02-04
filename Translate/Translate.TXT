@@ -1445,7 +1445,7 @@ Stadium|
 體育館|
 ~
 Not enough personal cash|
-沒有足夠的私人資金|
+沒錢|
 ~
 Cost|
 費用|
