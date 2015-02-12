@@ -56,7 +56,7 @@ Apparel Store|
 服裝店|
 ~
 Automobile Outlet|
-機動車輛店|
+車輛店|
 ~
 Electronics Store|
 家電城|
@@ -65,7 +65,7 @@ Footwear Store|
 鞋類商店|
 ~
 Jewelry and Watch Shop|
-珠寶手錶店|
+珠寶店|
 ~
 Leather Store|
 皮具店|
@@ -80,7 +80,7 @@ Furniture Store|
 家具店|
 ~
 Sports Store|
-體育用品店|
+體育店|
 ~
 Toy Store|
 玩具店|
@@ -626,7 +626,7 @@ Quality of Life Index|
 生活質量指數|
 ~
 Persons|
-人|
+人物|
 ~
 Housing Supply & Demand Index|
 房屋供求信息指數|
@@ -668,7 +668,7 @@ You have been given a new goal!|
 你已經收到一個新目標!|
 ~
 Billionaires 100|
-億萬富豪100|
+億萬富豪排行榜|
 ~
 GOAL|
 目標|
@@ -1283,7 +1283,7 @@ Warehouse - Large|
 倉庫 - 大|
 ~
 Natural Resources Firm|
-自然資源公司|
+資源開採|
 ~
 Logging Camp|
 伐木場|
@@ -1391,7 +1391,7 @@ Profit|
 利潤|
 ~
 Civic Building|
-城市房屋|
+公共設施|
 ~
 City Hall|
 市政廳|
@@ -1499,7 +1499,7 @@ Body Care Products|
 護膚品|
 ~
 Communication Devices|
-通訊設|
+通訊設備|
 ~
 Computer|
 電腦|
@@ -1511,7 +1511,7 @@ Drugs|
 藥物|
 ~
 Electronic Products|
-電子品|
+電子產品|
 ~
 Food|
 食物|
@@ -1556,10 +1556,10 @@ Snacks|
 零食|
 ~
 Sport Equipment|
-運動材|
+體育用品|
 ~
 Tobacco Products|
-煙草品|
+煙草|
 ~
 Toy|
 玩具|
@@ -1586,7 +1586,7 @@ Manufacturing Unit|
 製造單位|
 ~
 Mft|
-MFT|
+制造|
 ~
 Livestock Raising Unit|
 畜牧業股|
@@ -1595,7 +1595,7 @@ Livestock Raising|
 牲畜飼養|
 ~
 Livestock|
-畜牧業|
+畜牧|
 ~
 Livestock Processing|
 牲畜加工|
@@ -1604,7 +1604,7 @@ Livestock Processing Unit|
 家畜處理單元|
 ~
 Process|
-流程|
+加工|
 ~
 Oil Extraction Unit|
 採油單位|
@@ -1688,7 +1688,7 @@ Private Labelling Unit|
 私人標籤組|
 ~
 Crop|
-作物|
+種植|
 ~
 CROPS|
 農作物|
@@ -1892,10 +1892,10 @@ Start|
 開始|
 ~
 Stock |
-股票|
+庫存|
 ~
 Stock|
-股票|
+庫存|
 ~
 SELL STOCK|
 銷售股票|
@@ -2018,7 +2018,7 @@ City|
 城市|
 ~
 Financial Actions|
-金融行動|
+財務運作|
 ~
 Corporation / Subsidiary|
 公司/子公司|
@@ -2303,7 +2303,7 @@ CORPORATIONS (Total: %)|
 企業 (總共: %)|
 ~
 Corporate Details|
-公司詳情|
+企業詳情|
 ~
 Cash|
 現金|
@@ -2432,7 +2432,7 @@ Camera Phone|
 拍照手機|
 ~
 PHONE|
-電話|
+手機|
 ~
 HUD Glasses|
 HUD眼鏡|
@@ -2459,10 +2459,10 @@ DESKTOP COMPUTER|
 台式電腦|
 ~
 Notebook Computer|
-筆記本電腦|
+筆記本|
 ~
 NOTEBOOK COMPUTER|
-筆記本電腦|
+筆記本|
 ~
 Printer|
 打印機|
@@ -2483,10 +2483,10 @@ EYE SHADOW|
 眼影|
 ~
 Hair Color|
-頭髮顏色|
+染髮液|
 ~
 HAIR COLOR|
-頭髮顏色|
+染髮液|
 ~
 Lipstick|
 口紅|
@@ -2519,10 +2519,10 @@ HEADACHE PILLS|
 頭痛藥|
 ~
 Camcorder|
-攝像機|
+照相機|
 ~
 CAMCORDER|
-攝像機|
+照相機|
 ~
 Hi-fi System|
 高保真音響|
@@ -2582,10 +2582,10 @@ SANDALS|
 涼鞋|
 ~
 Shoes|
-鞋|
+皮鞋|
 ~
 SHOES|
-鞋|
+皮鞋|
 ~
 Socks|
 襪子|
@@ -2768,10 +2768,10 @@ CAMERA|
 攝像機|
 ~
 Compact Camera|
-緊湊型攝像機|
+微型攝像機|
 ~
 COMPACT CAMERA|
-緊湊型攝像機|
+微型攝像機|
 ~
 Digital Camera|
 數碼相機|
@@ -2786,10 +2786,10 @@ FLAX|
 亞麻|
 ~
 Rubber Plant|
-橡膠廠|
+橡膠|
 ~
 RUBBER PLANT|
-橡膠廠|
+橡膠|
 ~
 Sugar Cane|
 甘蔗|
@@ -2816,10 +2816,10 @@ CORN|
 玉米|
 ~
 Cotton|
-棉|
+棉花|
 ~
 COTTON|
-棉|
+棉花|
 ~
 Flax Fiber|
 亞麻纖維|
@@ -2996,10 +2996,10 @@ GLASS|
 玻璃|
 ~
 Linen|
-床單|
+亞麻布|
 ~
 LINEN|
-床單|
+亞麻布|
 ~
 Paper|
 紙|
@@ -3014,10 +3014,10 @@ PLASTIC|
 塑料|
 ~
 Polyester|
-滌綸|
+聚酯|
 ~
 POLYESTER|
-滌綸|
+聚酯|
 ~
 Silicon|
 矽|
@@ -3038,31 +3038,31 @@ TEXTILES|
 紡織品|
 ~
 Wheat Germ Oil|
-小麥胚芽油|
+麥芽油|
 ~
 WHEAT GERM OIL|
-小麥胚芽油|
+麥芽油|
 ~
 Wheel & Tire|
-車輪和輪胎|
+輪胎|
 ~
 WHEEL & TIRE|
-車輪和輪胎|
+輪胎|
 ~
 Wheel & Tire X %|
-車輪和輪胎 X %|
+輪胎 X %|
 ~
 Cereal Bar|
-米花糖|
+糖果|
 ~
 CEREAL BAR|
-米花糖|
+糖果|
 ~
 Chocolate Bar|
-巧克力條|
+巧克力|
 ~
 CHOCOLATE BAR|
-巧克力條|
+巧克力|
 ~
 Cookies|
 餅乾|
@@ -3089,22 +3089,22 @@ YOGURT|
 酸奶|
 ~
 Back Pack|
-背上行囊|
+背包|
 ~
 BACK PACK|
-背上行囊|
+背包|
 ~
 Golf Clubs|
-高爾夫球棒|
+高爾夫球桿|
 ~
 GOLF CLUBS|
-高爾夫球棒|
+高爾夫球桿|
 ~
 In-line Skates|
-直排輪滑鞋|
+溜冰鞋|
 ~
 IN-LINE SKATES|
-直排輪滑鞋|
+溜冰鞋|
 ~
 Cigarettes|
 香煙|
@@ -3125,10 +3125,10 @@ HANDHELD GAME CONSOLE|
 掌上遊戲機|
 ~
 Toy Racing Car|
-玩具賽車|
+玩具車|
 ~
 TOY RACING CAR|
-玩具賽車|
+玩具車|
 ~
 Toy Doll|
 玩具娃娃|
