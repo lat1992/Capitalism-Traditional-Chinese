@@ -12,5 +12,5 @@
 [MONA]十月
 [MONB]十一月
 [MONC]十二月
-[BOX1]OK
+[BOX1]確定
 [BOX2]取消

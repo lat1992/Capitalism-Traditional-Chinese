@@ -1,0 +1,91 @@
+[HEADER]
+Title=地產大亨 
+Description=你是最近從投資者處籌集數億資金的公司的首席執行官。 ^^你被股東賦予發展你的企業成為世界上最大的房地產開發商的任務。^^你有足夠的能力來實現這個艱巨的任務嗎？
+Difficulty Rating=90
+
+[ENVIRONMENT]
+Number of Cities=5
+Your Start-up Capital=Very High 
+Random Events=Occasional 
+Game Starting Year=1990
+Retail Store Type=Many
+Technology Disruption=On
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Macro Economy Realism=High
+Inflation=Inverse
+Inflation Strength=Normal
+
+[COMPETITORS]
+Number of Competitors=20
+Competitor Start-up Capital=Moderate  
+Competitor Aggressiveness=Moderate  
+Competitor Expertise Level=Moderate
+Show Competitor Trade Secrets=Yes
+AI Friendly Merger=No
+Competence of Local Competitors=Moderate 
+
+[IMPORTS]
+Consumer Goods Seaports=2
+Industrial Goods Seaports=2
+Constant Import Supply=No
+Import Quality=Moderate 
+
+//-------------------------------------------------------------------//
+
+[MAIN GOAL]
+Goal Title=地產大亨 
+Goal Description=你是最近從投資者處籌集數億資金的公司的首席執行官。 你被股東賦予發展你的企業成為世界上最大的房地產開發商的任務。^^你有足夠的能力來實現這個艱巨的任務嗎？
+
+Number of Game Years=100
+
+[MAIN GOAL VALUES]
+Player Company Annual Revenue=1000
+Player Company Annual Profit=100
+
+[MAIN GOAL INDUSTRIES]
+Real Estate 
+
+[MAIN GOAL REWARDS] 
+Score change=200
+
+//-------------------------------------------------------------------//
+
+[SUBGOAL]
+Goal Title=股本回報率子目標
+Goal Description=證明你能夠有效地運行您的公司，能讓公司獲得良好的股本回報率的能力。
+
+Goal Achieved Text=恭喜！你已經證明了自己做為一名CEO能夠關注股本回報軌。
+
+[SUBGOAL VALUES]
+Player Company Annual Revenue=800
+Player Company Annual Profit=80
+Return on Equity=8
+
+[SUBGOAL REWARDS] 
+Score change=100
+Personal Cash Change=10
+
+//-------------------------------------------------------------------//
+
+[SUBGOAL]
+Goal Title=二十億市值
+Goal Description=增進公司的財務表現，並讓你的公司達到二十億市值的目標。
+
+Goal Achieved Text=好樣的！公司的市值已經達到二十億！ 
+
+[SUBGOAL VALUES]
+Player Company Market Cap=2000
+
+[SUBGOAL REWARDS] 
+Score change=100
+Personal Cash Change=10
+
+//-------------------------------------------------------------------//
+
+[CHALLENGE GAME]
+Number of Game Years=30
+Ranking Method=Score
+
+
+

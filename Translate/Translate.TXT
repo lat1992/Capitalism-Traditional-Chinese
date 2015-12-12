@@ -1,125 +1,33 @@
-Auto Save in Process...|
-自動保存過程中...|
+
+All|
+全部|
 ~
-Challenge Game Auto Save...|
-挑戰賽自動保存...|
+OK|
+確定|
 ~
-Release|
-發布版|
+CANCEL|
+取消|
 ~
-(C) Copyright 2015 Enlight Software Ltd. All rights reserved.|
-(C) 版權所有2015年Enlight軟件有限公司保留所有權利。|
+Cancel|
+取消|
 ~
-(C) Copyright 2014 Enlight Software Ltd. All rights reserved.|
-(C) 版權所有2014年Enlight軟件有限公司保留所有權利。|
+YES|
+是|
 ~
-Sorry, you cannot execute this share buyback transaction, as a public company's total number of shares outstanding must not be lower than 1,000,000 shares.|
-對不起，您無法執行該股票回購交易，上市公司的總股數不得低於1,000,000股。|
+Yes|
+是|
 ~
-Lost Ownership|
-失去了所有權|
+NO|
+否|
 ~
-Sorry, the AI is having an advance start and you cannot build any buildings until year %.|
-抱歉，AI是有提前行動，你不能建立任何建築物直到 %.|
+No|
+否|
 ~
-Sorry, the AI is having an advance start and you cannot buy stock until year %.|
-抱歉，AI是有提前啟動，你不能購買股票直到 %.|
+Apply|
+應用|
 ~
-Sorry, the AI is having an advance start and you cannot buy any firms until year %.|
-抱歉，AI是有提前行動，你不能收購公司直到 %.|
-~
-Sorry, the AI is having an advance start and you cannot buy land until year %.|
-抱歉，AI是有提前行動，你不能購買土地直到 %.|
-~
-The advanced start period for AI has ended. Now you may join the competition.|
-AI的操作已經結束,現在你可以參與競爭了.|
-~
-Set a new advertising budget for all your advertising units:|
-設置新的廣告預算為您的所有廣告單元：|
-~
-Department Store|
-百貨商店|
-~
-Supermarket|
-超市|
-~
-Convenience Store|
-便利店|
-~
-Discount Megastore|
-賣場|
-~
-Drug Store|
-藥店|
-~
-Apparel Store|
-服裝店|
-~
-Automobile Outlet|
-車輛店|
-~
-Electronics Store|
-家電城|
-~
-Footwear Store|
-鞋類商店|
-~
-Jewelry and Watch Shop|
-珠寶店|
-~
-Leather Store|
-皮具店|
-~
-Computer Store|
-電腦店|
-~
-Cosmetic Store|
-化妝品店|
-~
-Furniture Store|
-家具店|
-~
-Sports Store|
-體育店|
-~
-Toy Store|
-玩具店|
-~
-Pear Year % - %|
-梨 年份 % - %|
-~
-Past Year % - %|
-經過 年份 % - %|
-~
-million|
-百萬|
-~
-billion|
-十億|
-~
-inflation adjustment|
-通貨膨脹調整|
-~
-Corporate Balance Sheet|
-公司的資產負債表|
-~
-Corporate Income Statement|
-企業的損益表|
-~
-AI:|
-AI:|
-~
-This location is not suitable for farming.|
-此區域不適合耕作.|
-~
-Game version|
-遊戲版本|
-~
-LOAD A GAME|
-加載遊戲|
-~
-LOAD|
-加載|
+APPLY|
+應用|
 ~
 SCREEN MODE|
 顯示模式|
@@ -130,50 +38,119 @@ Full Screen Mode|
 Windowed Mode|
 窗口模式|
 ~
-Hold the [SHIFT] key concurrently to build more|
-按住[SHIFT]鍵可以同時創建更多|
+Corporations|
+總公司綜合報表|
 ~
-APPLY|
-應用|
+CORPORATIONS|
+總公司綜合報表|
 ~
-Sort by:|
-排序方式:|
+Market Cap|
+市值|
 ~
-Title|
-標題|
+Market Capitalization|
+市值|
 ~
-Date|
-日期|
+Last Year Trade|
+去年貿易額|
 ~
-Record: % / %|
-記錄: % / %|
+Trade|
+貿易額|
 ~
-Rankings|
-排名|
+Corporate Details|
+總公司明細報表|
 ~
-Load|
-加載|
+R&D Expenses|
+研發費用|
 ~
-All|
-全部|
+Donations|
+捐贈|
 ~
-Delete|
-刪除|
+Expert Product Class:|
+精通產品類型：|
 ~
-Save New|
-新存檔|
+ASSETS|
+資產|
 ~
-Save|
-存儲|
+Cash|
+現金|
 ~
-About|
-關於|
+Business Assets|
+商業資產|
 ~
-You cannot use a corporation that you control to buy back its own shares.|
-你不能使用你控制的公司回購自己的股票.|
+Land and Natural Resources|
+土地和自然資源|
+~
+Intangible Asset: Technology|
+無形資產：科技|
+~
+Stocks|
+股票|
+~
+Total|
+總計|
+~
+TOTAL|
+總計|
+~
+LIABILITIES|
+負債|
+~
+Bank Loans|
+銀行貸款|
+~
+Total Loans|
+貸款總額|
+~
+SHAREHOLDER EQUITY|
+股東權益|
+~
+Common Stock|
+普通股票|
+~
+Total Earnings|
+總收入|
+~
+Total Dividend Paid|
+總股息|
+~
+Year-to-date|
+本年迄今|
+~
+Last Year|
+去年|
+~
+Display:|
+顯示：|
+~
+OPERATING REVENUE|
+經營收入|
+~
+OPERATING EXPENSES|
+經營開銷|
+~
+OPERATING PROFIT|
+經營利潤|
+~
+Received Dividends|
+收到的股息|
+~
+Increase in Asset Value|
+資產增值|
+~
+Loan Interest|
+貸款利息|
+~
+OTHER PROFIT|
+其他收入|
+~
+NET PROFIT|
+淨利潤|
+~
+Products that you are currently producing are shown with orange bars.|
+你目前正在生產的產品顯示為橙色。|
 ~
 Display Filter:|
-顯示篩選器|
+顯示過濾器：|
 ~
 Tech > 30|
 科技 > 30|
@@ -182,1756 +159,340 @@ In Production|
 生產中|
 ~
 With R&D|
-With R&D|
+研發中|
 ~
 Go|
-Go|
-~
-Products that you are currently producing are shown with orange bars.|
-您目前正在生產的產品都顯示為橙色條.|
-~
-Double-click on a product record to open the Product Detail Report.|
-雙擊產品記錄打開產品詳細報告.|
+轉到|
 ~
 Double-click on an advertising record to go to the relevant firm.|
-雙擊廣告記錄轉到相關公司.|
+在一個廣告記錄上雙擊以轉到相關企業。|
 ~
-Sorry, you cannot change the game speed of the current game as it is fixed by a game script.|
-抱歉,由於遊戲腳本固定了速度所以你無法更改.|
+Shareholders|
+股東|
 ~
-Which type of game do you want to save?|
-你想保存那種遊戲類型?|
+Shareholder|
+股東|
 ~
-Normal Savegame|
-正常保存|
+Owned Stocks|
+持有股票|
 ~
-Public Challenge Games|
-公開的挑戰比賽|
-~
-Private Challenge Games|
-私人的挑戰比賽|
-~
-This Challenge Game will be deleted. Proceed ?|
-此挑戰比賽將被刪除,繼續?|
-~
-Game Ending Year|
-遊戲結束時間|
-~
-Stock Market|
-股票市場|
-~
-Disabled|
-關閉|
-~
-Enabled|
-打開|
-~
-Enabled (Alternative)|
-打開 (二選一)|
-~
-Contest Started On|
-比賽開始|
-~
-Contest Deadline|
-比賽的最後期限|
-~
-File Name|
-文件名|
-~
-File date|
-文件日期|
-~
-File name|
-文件名|
-~
-Game Duration|
-遊戲持續時間|
-~
-Difficulty Rating|
-難度|
-~
-Difficulty Level|
-難易度|
-~
-Considerably Easier|
-非常容易|
-~
-Less Difficult|
-稍難|
-~
-Original Difficulty|
-普通|
-~
-Harder|
-困難|
-~
-Tremendously Harder|
-極度困難|
-~
-Player Skill Level|
-玩家技能水平|
-~
-Advanced|
-高級|
-~
-page %|
-頁 %|
-~
-Auto-Save Game|
-自動存儲遊戲|
-~
-Challenge Game Auto-Save|
-挑戰賽自動存儲|
-~
-Auto-Save (AI Advanced Sta|
-自動存儲(高級AI|
-~
-Total play time|
-總共遊戲時間|
-~
-hour|
-小時|
-~
-hours|
-小時|
-~
-min|
-分鐘|
-~
-mins|
-分鐘|
-~
-opens a %|
-開張一個 %|
-~
-Relocate / Demolish Firm|
-遷移/拆除 公司|
-~
-Are you sure that you want to demolish this firm?|
-你確定要拆除此公司?|
-~
-Relocate Firm|
-遷移公司|
-~
-Demolish Firm|
-拆除公司|
-~
-Relocate This Firm|
-遷移這個公司|
-~
-Demolish This Firm Only|
-僅僅拆除此公司|
-~
-Demolish This Firm and Sell the Land|
-拆除公司并賣掉土地|
-~
-LAND PLOT|
-地塊|
-~
-Use your personal money to build your mansion.|
-使用你的私人現金購買別墅.|
-~
-You do not have enough PERSONAL money|
-你沒有足夠的私人現金|
-~
-for building your mansion.|
-用於建築別墅|
-~
- buys a Mansion in |
-買一所別墅在|
-~
- from  |
-從|
-~
- for |
-為|
-~
-Your expertise products are shown in yellow.|
-你的專長產品顯示為黃色.|
-~
-Products already in research are shown in red.|
-產品已經在研究顯示為紅色.|
-~
-For Sale|
-代售|
-~
-Not For Sale|
-非賣品|
-~
-Land Cost|
-地價|
-~
-Natural Resource|
-自然資源|
-~
-Reserve|
-儲備|
-~
-Quality|
-質量|
-~
-Price Premium|
-價格溢價|
-~
-Nil|
-零|
-~
-Land Value|
-土地價值|
-~
-Description of the save game:|
-存檔描述|
-~
-MANAGER OF THIS FIRM|
-這家公司經理|
-~
-I currently manage this firm myself|
-目前我自己管理這家公司|
-~
-I will manage this firm myself (F1)|
-我將自己管理這家公司 (F1)|
-~
-I will manage all of my firms (F1)|
-我將管理我的所有公司 (F1)|
-~
-Let him manage:|
-讓他管理|
-~
-Let her manage:|
-讓她管理|
-~
-All of my firms (F2)|
-我的所有公司 (F2)|
-~
-This firm (F2)|
-這家公司 (F2)|
-~
-All my Retail Stores (F3)|
-我的所有零售店 (F3)|
-~
-All my Factorys (F3)|
-我的所有工廠 (F3)|
-~
-All my Farms (F3)|
-我的所有農場 (F3)|
-~
-All my Mines (F3)|
-我的所有礦場 (F3)|
-~
-All my Warehouses (F3)|
-我的所有倉庫 (F3)|
-~
-All my Newspaper Publishers (F3)|
-我的所有報社 (F3)|
-~
-All my Radio Stations (F3)|
-我的所有電台 (F3)|
-~
-All my TV Stations (F3)|
-我的所有電視台 (F3)|
-~
-All my R&D Centers (F3)|
-我的所有的研發中心 (F3)|
-~
-asked|
-賣方要價|
-~
- for a raise in salary from % to % .|
-加薪從 % 到 % .|
-~
-to|
-到|
-~
-This Seaport supplies consumer goods.|
-這個港口供應消費品.|
-~
-This Seaport supplies industrial goods.|
-這個港口供應工業用品.|
-~
-Do you agree?|
-你同意嗎?|
-~
-Left click to relocate|
-左鍵轉到|
-~
-to relocate this firm.|
-轉到這個公司|
-~
-Batch Switching Supplier|
-批量切換供應商|
-~
-Batch (F9)|
-一批 (F9)|
-~
-Suppliers at your Purchasing Units have been changed as per your request.|
-採購部的供應商已經按照你的要求更換.|
-~
-Firms updated|
-公司更新|
-~
-Purchasing Units updated|
-採購單位更新|
-~
-pair|
-對|
-~
-can|
-罐|
-~
-loaf|
-塊|
-~
-loaves|
-大塊|
-~
-dozen|
-一打|
-~
-quart|
-夸脫|
-~
-quarts|
-夸脫|
-~
-barrel|
-桶|
-~
-barrels|
-桶|
-~
-ton|
-頓|
-~
-oz|
-盎司|
-~
-pack|
-捆|
-~
-packs|
-捆|
-~
-box|
-箱|
-~
-boxes|
-箱|
-~
-lb|
-磅|
-~
-lbs|
-磅|
-~
-Donations|
-捐款|
-~
-R&D Expenses|
-研發費用|
-~
-Demolish Apartment|
-拆除公寓|
-~
-Demolish Commercial Building|
-拆除商業建築|
-~
-Are you sure that you want to demolish this building?|
-你確定要拆除這個建築嗎?|
-~
-Only Demolish This Building|
-僅僅拆除這個建築|
-~
-Demolish This Building and Sell the Land|
-拆除建築并賣掉土地|
-~
-Which product should it produce?|
-應該生產哪些產品?|
-~
-SELECT (F8)|
-選擇（F8）|
-~
-All Cities (F5)|
-所有城市 (F5)|
-~
-Current City (F5)|
-當前城市 (F5)|
-~
-Warehouse Only (F6)|
-僅僅倉庫 (F6)|
-~
-Go to Supplier (F7)|
-轉到供應商 (F7)|
-~
-Current Brand Strategy:|
-目前的品牌戰略：|
-~
-Current Product|
-目前產品|
-~
-City Average|
-全市平均|
-~
-Customer Traffic|
-客戶流量|
-~
-Customer Traffic Index|
-客戶流量指數|
-~
-Div. :|
-Div. :|
-~
-Dividend Payout Ratio|
-派息比率|
-~
-Bank Loans|
-銀行貸款|
-~
-Unemployment Rate|
-失業率|
-~
-Financial|
-財經|
-~
-Firms|
+Corporation|
 公司|
 ~
-Purchasing Power|
-購買力|
+Owned Qty|
+持股數|
 ~
-Firms for sale|
-公司出售|
+Owned %|
+持股比例|
 ~
-Financials|
-財務數據|
+Owned%|
+持股比例|
 ~
-Specialty Store|
-專賣店|
+Stock Value|
+股票價值|
 ~
-Demand Bonus|
-需求獎金|
+Subsidiary|
+子公司|
 ~
-Inflation|
-通脹|
-~
-Inflation Rate|
-通貨膨脹率|
-~
-Population|
-人口|
-~
-Population Growth|
-人口增長|
-~
-Quality of Life Index|
-生活質量指數|
-~
-Persons|
-人物|
-~
-Housing Supply & Demand Index|
-房屋供求信息指數|
-~
-Office Space Supply & Demand Index|
-寫字樓供求信息指數|
-~
-Business Expertise|
-業務專長|
-~
-News Types|
-新聞類型|
-~
-Operations|
-操作|
-~
-(YTD)|
-(YTD)|
-~
-Goal|
-目標|
-~
-Challenge Game|
-挑戰賽|
-~
-CHALLENGE GAME|
-挑戰賽|
-~
-Challenge Game Mode|
-挑戰模式|
-~
-Instructions: How to set up a private challenge game|
-說明:如何建立一場挑戰賽|
-~
-Challenge Game Title|
-挑戰賽標題|
-~
-You have been given a new goal!|
-你已經收到一個新目標!|
-~
-Billionaires 100|
-億萬富豪排行榜|
-~
-GOAL|
-目標|
-~
-Currency Revalued!|
-貨幣重估！|
-~
-% undergoes a 1-10 stock merge, which groups every 10 shares into one share.|
-% 經歷了一個1-10 的股票合併,每10股合併成1股.|
-~
-undergoes a 1-10 stock merge, which groups every 10 shares into one share.|
-經歷了一個1-10的股票合併，這組每10股一股。|
-~
- undergoes a 1-10 stock merge, which groups every 10 shares into one share.|
- 經歷了一個1-10 的股票合併,每10股合併成1股.|
-~
-REVERSE STOCK SPLIT|
-反向股票分割|
-~
-All publicly-traded stocks are required to maintain a minimum bid price of at least $1.00 per share.|
-所有公開交易的股票都必須保持至少每股1.00美元的最低投標價。|
-~
-Your company's stock currently trades at % and therefore a reverse stock split is required.|
-您的公司的股票目前股價%，因此反向股票分割是必需的。|
-~
-A 1-10 reverse stock split will group every 10 shares into one share.|
-1-10反向股票分割意志集團每10股一股。|
-~
-The resulting stock price will be %.|
-由此產生的股價將是%。|
-~
-This is an open-ended game and there are no goals.|
-這是一個開放式的比賽，沒有目標。|
-~
-There are no goals available currently.|
-目前沒有有效的目標.|
+Value|
+值|
 ~
 Financial Figures|
 財務數據|
 ~
 Operating Figures|
-操作圖|
+經營數據|
 ~
 Performance Indices|
-性能指標|
+績效指數|
 ~
-OPERATING PROFIT|
-營業利潤|
+History|
+歷史|
 ~
-OPERATING EXPENSES|
-經營費用|
+News Types:|
+新聞類型：|
 ~
-OPERATING REVENUE|
-營業收入|
+Operations|
+經營|
 ~
-Finansial|
-金融|
-~
-Special|
-特別|
-~
-Preference|
-偏好|
-~
-New advertising budget|
-新的廣告預算|
-~
-Adjust advertising spending based on inflation|
-基於通脹調整廣告支出|
-~
-Increase all advertising spendings monthly based on inflation|
-增加所有的廣告開支每月根據通貨膨脹|
-~
-Regularly adjust prices based on inflation|
-定期調整基於對通脹價格|
-~
-Increase all product prices monthly at the same rate as inflation|
-提高所有產品價格每月以相同的速度隨著通脹|
-~
-Investor relations efforts will help improve your|
-投資者關係的努力將有助於改善你的|
-~
-We are not in need of cash and thus not interested in selling our technology.|
-我們不是需要現金，因此沒有興趣銷售我們的技術。|
-~
-Shareholders|
-股東|
-~
-To win this game, you must achieve the given goals.|
-為了贏得這場比賽，你必須達到特定的目標。|
-~
-Own technology level:|
-自身的技術水平：|
-~
-How much do you offer?|
-多少錢你提供？|
-~
-Not interested, unless you offer % for the technology.|
-不感興趣，除非你提供%，為技術。|
-~
-Forget it|
-算了吧|
-~
-I don't have this much money, forget it.|
-我沒有這麼多錢，算了吧。|
-~
-I will offer this much|
-我會提供這麼多|
-~
-We are not interested in selling this technology to our competitors.|
-我們不是有意出售這項技術給我們的競爭對手。|
-~
-Company to Acquire Tech From|
-公司將收購科技從|
-~
-Pricing policy:|
-定價政策：|
-~
-Maximize Profit Margin|
-最大限度地提高利潤率|
-~
-Balanced|
-平衡|
-~
-Maximize Market Share|
-最大限度地提高市場份額|
-~
-Market Dominance|
-市場主導|
-~
-Market Dominance Goal|
-市場主導目標|
-~
-Market Dominance Goal (Main Goal)|
-市場主導目標 (主要)|
-~
-(Subgoal)|
-(子目標)|
-~
-Set up a factory to produce Cola and launch it onto the market|
-創建一個工廠生產可樂并出售|
-~
-Random Select|
-隨機選擇|
-~
-Select|
-選擇|
-~
-Product Class|
-產品分類|
-~
-Product Type|
-產品型號|
-~
-Highest Difficulty Rating of Game Ever Won|
-贏得遊戲最高難度等級|
-~
-Product Class Mission|
-產品任務|
-~
-Mega Product Class Mission|
-大產品類任務|
-~
-Product Mega Class|
-產品大類|
-~
-Fashion|
-時尚|
-~
-Food and Beverage|
-食品和飲料|
-~
-Healthcare and Beauty|
-保健美容|
-~
-Electronics and Appliances|
-電子家電|
-~
-Luxury Goods|
-奢侈品|
-~
-Total Market Dominance Mission|
-全部市場主導地位任務|
-~
-Total Market Dominance|
-全部市場主導地位|
-~
-(Press the 'G' shortcut key anytime to view the Goal screen)|
-(按下'G'查看任務目標)|
-~
-You posses expertise in the % industry (level: %)|
-你擁有專業知識在 % 行業 (level: %)|
-~
-You posses expertise in the Beverage industry (level: %)|
-你擁有專業知識在飲料行業 (level: %)|
-~
-(level: %)|
-(等級: %)|
-~
-You posses expertise in the Beverage industry|
-你擁有專業知識在飲料行業|
-~
-Market Dominance of the % Industry|
-% 市場主導|
-~
-Market Dominance of the Beverage Industry|
-飲料行業的市場主導|
-~
-View The Goals Now|
-查看目標|
-~
-Score|
-比分|
-~
-Products|
-產品|
-~
-Product Details|
-產品詳細資料|
-~
-Never sell products below costs|
-從不出售低於成本的產品|
-~
-Look for better supplies|
-尋找更好的供應|
-~
-From own firms only|
-只從自己的公司|
-~
-From any firms|
-從任何公司|
-~
-Look for better products to sell in retail stores|
-尋找更好的產品在零售商店出售|
-~
-Prefer ordering from own warehouses over own factories|
-從更喜歡自己的倉庫了自己的工廠訂貨|
-~
-Internal Sale|
-國內銷售|
-~
-Always enable it|
-始終啟用|
-~
-Change it as needed|
-改變它需要|
-~
-Never change it|
-永遠不會改變它|
-~
-Sell factory "internal sale" products at cost|
-出售工廠“內部銷售”產品成本|
-~
-Change Training Budget|
-變化培訓預算|
-~
-Change Advertising Budget|
-更改廣告預算|
-~
-CMO decides which products to advertise|
-CMO決定做廣告哪些產品|
-~
-CMO chooses media firms and decides advertising budgets|
-CMO選擇的媒體公司，並決定廣告預算|
-~
-Prefer own media firms|
-寧願自己的媒體公司|
-~
-Only advertise in own media firms|
-在自己的媒體公司只公告|
-~
-Change R&D Projects|
-改變R＆D項目|
-~
-Organize an Intensive Training Program|
-組織一個密集的訓練計劃|
-~
-Training effect will be instant but|
-培訓效果會即時但是|
-~
-it's cost-effectiveness is 30% lower than normal training.|
-它的成本效益比正常的訓練低30％。|
-~
-How much will you allocate for training per employee?|
-閣下將獲得多少分配給每名員工的培訓？|
+Financial|
+財務|
 ~
 Technology|
-技術|
-~
-Tech|
 科技|
 ~
-Trade|
-貿易|
+Special|
+特殊|
 ~
-This is your subsidiary company. Who should be in charge of setting the dividend?|
-這是你的子公司。誰應該負責設置分紅？|
+Products|
+產品綜合報表|
 ~
-I will set the dividend|
-我將設置分紅|
+Product Details|
+產品明細報表|
 ~
-Let the CEO set the dividend|
-讓CEO設定的分紅|
+Search Product (Tab)|
+查找產品（Tab）|
 ~
-You cannot use a corporation that you control to buy back it's own shares.|
-你不能使用你控制買回它自己的股份公司。|
-~
-Last Year Trade|
-去年貿易|
-~
-Expert Product Class:|
-專家產品類別：|
-~
-Annual Revenue|
-年收入|
-~
-% joins % as the %.|
-% 加入 % 作為 %。|
-~
-the job as the % of %.|
-這個工作作為 % 的 %.|
-~
-asked for a raise in salary from % to % .|
-要求加薪從 % 到 % .|
-~
-If your corporation is using 'Corporate Brand' strategy,|
-如果你的公司正在使用“企業品牌”戰略，|
-~
-PR Effect on Brand Awareness|
-品牌意識PR效果|
-~
-Brand Awareness|
-品牌意識|
-~
-Adjust Training Levels for all your firms|
-調整培訓等級為所有的企業|
-~
-Monthly Spending|
-每月支出|
-~
-Apply|
-應用|
-~
-Apply All|
-適用於所有|
-~
-Apply Selected|
-應用選擇|
-~
-CONSIDER TECH OFFER|
-考慮收購建議|
-~
-st|
-日|
-~
-nd|
-日|
-~
-rd|
-日|
-~
-th|
-日|
-~
-Government|
-政府|
-~
-Operation since|
-操作自|
-~
-This Newspaper Publisher started operation since %.|
-此報社開始運營與 %.|
-~
-This Radio Station started operation since %.|
-此電台開始運營與 %.|
-~
-This TV Station started operation since %.|
-此電視台開始運營與 %.|
-~
-None|
-沒有|
-~
-Very Low|
-非常低|
-~
-Low|
-低|
-~
-Moderate|
-中度|
-~
-High|
-高|
-~
-Very High|
-非常高|
-~
-Never|
-決不|
-~
-Seldom|
-很少|
-~
-Occasional|
-偶爾|
-~
-Frequent|
-頻繁|
-~
-Game Starting Year|
-遊戲開局之年|
-~
-Many|
-很多|
-~
-One|
-一個|
-~
-Technology Disruption|
-科技擾亂|
-~
-DIFFICULTY|
-困難|
-~
-A Fun Gaming Experience for New Players.|
-對新玩家來說一個有趣的遊戲體驗.|
-~
-Normal Difficulty. Enjoyable for Most Players.|
-正常難度,適合大部分玩家.|
-~
-For Experienced Players looking for More Challenge.|
-對於有經驗的玩家更具挑戰.|
-~
-Hard. Only choose this if you have won in easier games.|
-困難.如果你贏過簡單遊戲可以試試這個.|
-~
-For Expert Players Only. Not recommended for normal players.|
-僅供職業玩家.對於普通玩家不推薦.|
-~
-Extremely Difficult! Not recommended for most players.|
-極其困難!對大部分玩家不推薦.|
-~
-Insanely Difficult! Not enjoyable unless you have achieved mastery with this game.|
-瘋狂難度!完全沒法玩除非你是開發人員.|
-~
-A Humanly Impossible Challenge! Do not choose this if you want a winnable game.|
-非人挑戰!如果你想玩遊戲就別選擇這個吧.|
-~
-Off|
-關|
-~
-On|
-開|
-~
-Alternative Stock Sim|
-備選股票模擬|
-~
-Macro Economy Realism|
-宏觀經濟現實主義|
-~
-Inflation Strength|
-通脹實力|
-~
-Inverse|
-逆|
-~
-Reduced|
-減少|
-~
-AI Friendly Merger|
-AI友好合併|
-~
-Reset Goals|
-重設目標|
-~
-Lifetime Shareholder Return|
-一生股東回報|
-~
-to build the firm.|
-建立公司。|
-~
-% changes its corporate strategy from % to %.|
-% 改變公司戰略從 % 到 %.|
-~
-Technology Improvement|
-技術改進|
-~
-New Product Development|
-新產品開發|
-~
-Tech Gain:|
-技術增益：|
-~
-Shopping Convenience|
-購物方便|
-~
-Green and Sports|
-綠色和體育|
-~
-Rent Attractiveness|
-租吸引力|
-~
-Overall Rating|
-總體評級|
-~
-Owner:|
-業主：|
-~
-Owned by Government|
-屬於政府|
-~
-Owned Tech.|
-擁有科技.|
-~
-Owned Technology|
-擁有技術|
-~
-Top Tech.|
-尖端科技.|
-~
-Top Technology|
-頂級科技|
-~
-Graph|
-曲線圖|
-~
-Business Assets|
-企業資產|
-~
-Total Dividend Paid|
-總股息支付|
-~
-Received Dividends|
-收到的股息|
-~
-Loan Interest Rate|
-貸款利率|
-~
-Loan Interest|
-貸款利息|
-~
-Increase in Asset Value|
-增加資產價值|
-~
-NET PROFIT|
-淨利潤|
-~
-OTHER PROFIT|
-其它營利|
-~
-Intangible Asset: Technology|
-無形資產：科技|
-~
-Land and Natural Resources|
-國土資源部|
-~
-Common Stock|
-普通股|
-~
-Total Earnings|
-總收入|
+Graph:|
+圖表：|
 ~
 Quantity Sold|
-銷售量|
-~
-My Staff Only|
-只有我方人員|
-~
-Independent Investor|
-獨立投資者|
-~
-Role|
-角色|
-~
-Building Types|
-建築類型|
-~
-Retail Store|
-零售商店|
-~
-Factory|
-工廠|
-~
-Factory - Small|
-工廠 - 小|
-~
-Factory - Medium|
-工廠 - 中|
-~
-Factory - Large|
-工廠 - 大|
-~
-R&D Center|
-研發中心|
-~
-Farm|
-農場|
-~
-Farm - Medium|
-農場 - 中|
-~
-Farm - Large|
-農場 - 大|
-~
-Warehouse|
-倉庫|
-~
-Warehouse - Medium|
-倉庫 - 中|
-~
-Warehouse - Large|
-倉庫 - 大|
-~
-Natural Resources Firm|
-資源開採|
-~
-Logging Camp|
-伐木場|
-~
-Mine|
-礦場|
-~
-Oil Well|
-油井|
-~
-Media Firm|
-媒體公司|
-~
-TV Station|
-電視台|
-~
-Newspaper Publisher|
-報社|
-~
-Radio Station|
-電台|
-~
-Apartment|
-公寓|
-~
-Headquarters|
-總部|
-~
-Mansion|
-別墅|
-~
-Commercial Building|
-商業大廈|
-~
-Investment Bank|
-投資銀行|
-~
-Bank|
-銀行|
-~
-Stock Exchange|
-證券交易所|
-~
-Information Center|
-咨詢中心|
-~
-Seaport|
-港口|
-~
-Airport|
-機場|
-~
-All Media Firms|
-所有的媒體公司|
-~
-% donates to build a %|
-% 捐贈創建一個 %|
-~
-Built with funds donated by:|
-使用捐贈資金:|
-~
-Ongoing donation|
-正在捐贈|
-~
-Monthly operating funds:|
-每月維護費用:|
-~
-COMMERCIAL BUILDING|
-商業大廈|
-~
-Office Space Supply|
-辦公空間供應|
-~
-Office Space Demand|
-寫字樓的需求|
-~
-Distance to CBD|
-距離CBD|
-~
-Commuting Convenience|
-通勤便利|
-~
-New rent:|
-新租金：|
-~
-Market Rent:|
-市場租金：|
-~
-SUPPLIER: Mine|
-供應商:礦山|
-~
-SUPPLIER: Factory|
-供應商:工廠|
-~
-SUPPLIER: Seaport|
-供應商:港口|
-~
-SUPPLIER: Warehouse|
-供應商:倉庫|
-~
-SUPPLIER: Farm|
-供應商:農場|
-~
-Profit|
-利潤|
-~
-Civic Building|
-公共設施|
-~
-City Hall|
-市政廳|
-~
-Police Station|
-警察局|
-~
-Fire Station|
-消防站|
-~
-Elementary School|
-小學|
-~
-Middle School|
-中學|
-~
-High School|
-高中|
-~
-University|
-大學|
-~
-Library|
-圖書館|
-~
-Museum|
-博物館|
-~
-Hospital|
-醫院|
-~
-Sports Facilities|
-體育設施|
-~
-Tennis Court|
-網球場|
-~
-Soccer Field|
-足球場|
-~
-Golf Course|
-高爾夫|
-~
-Stadium|
-體育館|
-~
-Not enough personal cash|
-沒錢|
-~
-Cost|
-費用|
-~
-Price|
-價格|
-~
-Freight|
-貨運|
-~
-Freight Cost|
-運費|
-~
-Shipment from Supplier to Buyer: %|
-貨物從供應商到買家: %|
-~
-Crops|
-作物|
-~
-Livestock Supply|
-牲畜供應品|
-~
-Process Capacity|
-加工能力|
-~
-Sowing in %|
-播種在 %|
-~
-from|
-從|
-~
-Harvest in %|
-收穫在 %|
-~
-Go to Client (F7)|
-轉到客戶 (F7)|
-~
-MANUFACTURER'S GUIDE|
-製造商指南|
-~
-FARMER'S GUIDE|
-農業指南|
-~
-MANAGER'S GUIDE|
-管理者指南|
-~
-Apparel|
-服裝|
-~
-Automobile|
-機動車|
-~
-Beverage|
-飲料|
-~
-Body Care Products|
-護膚品|
-~
-Communication Devices|
-通訊設備|
-~
-Computer|
-電腦|
-~
-Cosmetics|
-化妝品|
-~
-Drugs|
-藥物|
-~
-Electronic Products|
-電子產品|
-~
-Food|
-食物|
-~
-Footwear|
-鞋類|
-~
-Furniture|
-家具|
-~
-Home Appliances|
-家電|
-~
-Household Products|
-日用品|
-~
-Jewelry|
-珠寶|
-~
-Livestock Products|
-畜產品|
-~
-Plant Products|
-農產品|
-~
-Raw Material|
-原材料|
-~
-Livestock Semi-products|
-牲畜半成品|
-~
-Leather Goods|
-皮具|
-~
-Photography Products|
-攝影材|
-~
-Semi Products|
-半產品|
-~
-Snacks|
-零食|
-~
-Sport Equipment|
-體育用品|
-~
-Tobacco Products|
-煙草|
-~
-Toy|
-玩具|
-~
-Watch|
-手錶|
-~
-Purchasing Unit|
-採購單位|
-~
-Purchasing|
-採購|
-~
-Purchase|
-購買|
-~
-Sales Unit|
-銷售單位|
-~
-Sales|
-銷售|
-~
-Manufacturing Unit|
-製造單位|
-~
-Mft|
-制造|
-~
-Livestock Raising Unit|
-畜牧業股|
-~
-Livestock Raising|
-牲畜飼養|
-~
-Livestock|
-畜牧|
-~
-Livestock Processing|
-牲畜加工|
-~
-Livestock Processing Unit|
-家畜處理單元|
-~
-Process|
-加工|
-~
-Oil Extraction Unit|
-採油單位|
-~
-Oil Extraction|
-原油萃取|
-~
-Extract|
-提取|
-~
-Logging Unit|
-登錄儀|
-~
-Logging|
-登錄|
-~
-Advertising Unit|
-廣告部|
-~
-Advertising|
-廣告|
-~
-Advertise|
-廣告服務|
-~
-R&D|
-R&D|
-~
-Research & Development Unit|
-研究與發展部|
-~
-Research & Development|
-研發|
-~
-Inventory|
-倉庫|
-~
-Inventory Unit|
-庫存單位|
-~
-Warehouse Storage|
-倉庫存儲|
-~
-Warehouse Storage Unit|
-倉庫存儲單元|
-~
-Storage|
-存儲|
-~
-Input Material|
-原料|
-~
-To locate an specific input, type the first letter of its name.|
-定位一個指定的輸入,輸入它的首字母.|
-~
-Warehouse Input|
-倉庫輸入|
-~
-Warehouse Input Unit|
-倉庫輸入單元|
-~
-Input|
-輸入|
-~
-Warehouse Output|
-倉庫輸出|
-~
-Warehouse Output Unit|
-倉庫輸出單元|
-~
-Output|
-輸出|
-~
-Labelling|
-標籤|
-~
-Private Labelling|
-自有品牌|
-~
-Private Labelling Unit|
-私人標籤組|
-~
-Crop|
-種植|
-~
-CROPS|
-農作物|
-~
-LIVESTOCK|
-牲畜|
-~
-Crop Growing|
-作物栽培|
-~
-Crop Growing Unit|
-作物生長單位|
-~
-Mining|
-採礦|
-~
-Mining Unit|
-礦業股|
-~
-MOD Setting|
-MOD設置|
-~
-MOD in use: %|
-MOD使用： %|
-~
-has been loaded successfully.|
-已經被成功加載。|
-~
-Reset successfully. The game now no longer uses any MOD.|
-復位成功。該遊戲現在不再使用任何MOD。|
-~
-MOD|
-MOD|
-~
-Pre-defined Scripts|
-預定義腳本|
-~
-User-created Scripts|
-用戶腳本|
-~
-LOAD SCRIPT|
-負載腳本|
-~
-LOAD A GAME|
-加載遊戲|
-~
-LOAD|
-加載|
-~
-Custom|
-自定義|
-~
-PROFILE|
-簡介|
-~
-Owned %|
-擁有 %|
-~
-Owned|
-擁有|
-~
-ASSETS|
-資產|
-~
-LIABILITIES|
-負債|
-~
-SHAREHOLDER EQUITY|
-股東權益|
-~
-Subsidiary|
-子公司|
-~
-Any|
-任何|
-~
-Shareholder|
-股東|
-~
-Earnings Per Share|
-每股收益|
-~
-Equity Per Share|
-股票每股|
-~
-P/B Ratio|
-P/B比率|
-~
-Stock Value|
-股票價值|
-~
-Retailing|
-零售|
-~
-Manufacturing|
-製造|
-~
-Farming|
-農業|
-~
-Raw Material Production|
-原料生產|
-~
-Consumer|
-消費|
-~
-Tech|
-科技|
-~
-Real Estate|
-房地產|
-~
-Media|
-媒體|
-~
-Investment|
-投資|
-~
-12 months|
-12個月|
-~
-Goal Deadline|
-目標截止日期|
-~
-New Product Launch 1|
-新產品上市 1|
-~
-New Product Launch 2|
-新產品上市 2|
-~
-New Product Launch 3|
-新產品上市 3|
-~
-New Product Launch 4|
-新產品上市 4|
-~
-New Product Launch 5|
-新產品上市 5|
-~
-New Product Launch %|
-新產品上市 %|
-~
-Main Goal|
-主要目標|
-~
-(Main Goal)|
-(主要目標)|
-~
-MAIN GOAL|
-主要目標|
-~
-SUBGOAL|
-次要目標|
-~
-Subgoal|
-次要目標|
-~
-REWARD|
-報酬|
-~
-REWARDS|
-報酬|
-~
-Get the Reward Now|
-現在獲得獎勵|
-~
-Get the Rewards Now|
-現在獲得獎勵|
-~
-Score Bonus (plus early completion bonus)|
-得分獎勵(加上早期完成的獎勵)|
-~
-Unlock all other products|
-解鎖所有產品|
-~
-Corporate Cash Bonus|
-企業現金紅利|
-~
-Personal Cash Bonus|
-私人現金紅利|
+銷售數量|
 ~
 12 Months|
-12月|
+12個月|
+~
+3 Years|
+3年|
 ~
 30 Years|
 30年|
 ~
+Firms|
+企業|
+~
+Firms for sale|
+出售中的企業|
+~
+Operation since|
+始於|
+~
+Customer Traffic|
+客流量|
+~
+Demand Bonus|
+需求加成|
+~
+Not For Sale|
+未出售|
+~
+For Sale|
+出售中|
+~
+Financials|
+財務報表|
+~
+Persons|
+人物|
+~
+Politics|
+政見|
+~
+Properties|
+地產|
+~
+Total Wealth|
+總財富|
+~
 Past 36 Months|
 過去36個月|
-~
-Past 30 Years|
-過去的30年|
 ~
 Past 30 years|
 過去30年|
 ~
-Utilization|
-利用|
+Past 30 Years|
+過去30年|
 ~
-Start|
-開始|
-~
-Stock |
-庫存|
+Career|
+職業|
 ~
 Stock|
 庫存|
 ~
-SELL STOCK|
-銷售股票|
+Property|
+房地產|
 ~
-BUY STOCK|
-買股票|
+Goal|
+任務|
 ~
-The central bank increases the interest rate from % to %.|
-央行上調利息從%至%。|
+GOAL|
+任務|
 ~
-The central bank decreases the interest rate from % to %.|
-央行下調利息從%至%。|
+Main Goal|
+主要任務|
 ~
-The New Central Bank Chairman|
-新央行行長|
+MAIN GOAL|
+主要任務|
 ~
-A new chairman with Inflation Dove (strong) attitude is now at the helm of the central bank.|
-一個新的通貨膨脹鴿派董事長(斯特朗)掌舵央行.|
+Goal Deadline|
+任務截至日期|
 ~
-A new chairman with Inflation Dove (modest) attitude is now at the helm of the central bank.|
-一個新的通貨膨脹鴿派董事長(摩黛絲特)掌舵央行.|
+This is an open-ended game and there are no goals.|
+這是一個開放式遊戲，沒有任務目標。|
 ~
-A new chairman with Neutral attitude is now at the helm of the central bank.|
-一個新的中立派董事長(小強)掌舵央行.|
+Billionaires 100|
+億萬富翁排行榜|
 ~
-A new chairman with Inflation Hawk (modest) attitude is now at the helm of the central bank.|
-一個新的通貨膨脹鷹派董事長(莫德斯特)掌舵央行.|
+Name|
+名字|
 ~
-A new chairman with Inflation Dove (strong) attitude is now at the helm of the central bank.|
-一個新的通貨膨脹鴿派董事長(摩黛絲特)掌舵央行.|
+Wealth ($Billion)|
+財富（十億）|
+~
+Cities|
+城市|
+~
+CITIES|
+城市|
+~
+Lifetime|
+迄今|
+~
+City Graphs|
+城市圖表|
+~
+Population|
+人口|
+~
+Population Growth|
+人口增長率|
+~
+Quality of Life Index|
+生活質量指數|
+~
+Housing Supply & Demand Index|
+房屋供需指數|
+~
+Office Space Supply & Demand Index|
+商務辦公供需指數|
+~
+Financial Actions|
+財務運作|
+~
+Corporation / Subsidiary|
+公司/子公司|
+~
+Controlled Share|
+控股|
+~
+Issue New Shares to the Public|
+向公眾發行新股|
+~
+Set Dividend|
+設置派息率|
+~
+Actual Dividend Yield|
+實際派息率|
+~
+Issuing Price (should be LOWER than market price)|
+發行價格（應該低於市價）|
+~
+Discount|
+折扣|
+~
+Current Stock Price|
+當前股價|
+~
+Number of New Shares|
+新股數量|
+~
+Maximum Number of Shares that can be issued|
+最大可發行股票數量|
+~
+Number of Shares in Existence|
+已存在股數|
+~
+Fund to be Raised|
+募集資金|
+~
+Share Dilution|
+股權稀釋|
+~
+New Shares Issued|
+發行新股|
+~
+Any|
+全部|
+~
+Consumer|
+消費品|
+~
+Tech|
+科技|
+~
+Investment|
+投資|
+~
+P/B Ratio|
+市淨率|
+~
+Lifetime Return|
+迄今回報率|
+~
+Avg Cost|
+平均成本|
+~
+Market Price|
+市價|
+~
+Loss|
+損失|
+~
+Gain/Loss|
+收益/損失|
+~
+Gain/Loss%|
+收益率/損失率|
+~
+Stock News|
+股市新聞|
+~
+Stock Returns|
+股市收益|
+~
+Hotkey: 'C'|
+快捷鍵：'C'|
+~
+Hotkey: 'D'|
+快捷鍵：'D'|
+~
+Hotkey: 'E'|
+快捷鍵：'E'|
+~
+Hotkey: 'F'|
+快捷鍵：'F'|
+~
+Hotkey: 'G'|
+快捷鍵：'G'|
+~
+Hotkey: 'I'|
+快捷鍵：'I'|
+~
+Hotkey: 'P'|
+快捷鍵：'P'|
+~
+Hotkey: 'R'|
+快捷鍵：'R'|
+~
+Hotkey: 'T'|
+快捷鍵：'T'|
+~
+Hotkey: F1|
+快捷鍵：F1|
+~
+Hotkey: F2|
+快捷鍵：F2|
+~
+Hotkey: F3|
+快捷鍵：F3|
+~
+Hotkey: F4|
+快捷鍵：F4|
+~
+Hotkey: F7|
+快捷鍵：F7|
+~
+Hotkey: F11|
+快捷鍵：F11|
+~
+Inflation|
+通貨膨脹|
 ~
 Consumer Price Index|
-消費物價指數|
+居民消費價格指數|
 ~
-Consumer Price Index:|
-消費物價指數：|
+Unemployment Rate|
+失業率|
 ~
 Real Wage Rate|
 實際工資率|
@@ -1943,10 +504,10 @@ Booming|
 蓬勃發展|
 ~
 Expansion|
-擴展|
+擴張|
 ~
 Static|
-靜態|
+靜止|
 ~
 Contraction|
 收縮|
@@ -1958,7 +519,10 @@ Crisis|
 危機|
 ~
 Depression|
-抑鬱症|
+蕭條|
+~
+Loan Interest Rate|
+貸款利率|
 ~
 Central Bank Attitude|
 央行態度|
@@ -1967,16 +531,16 @@ Inflation Dove (strong)|
 弱性通脹（強）|
 ~
 Inflation Dove (modest)|
-弱性通脹（謙虛）|
+弱性通脹（適度）|
 ~
 Neutral|
 中立|
 ~
 Inflation Hawk (modest)|
-强硬通脹（謙虛）|
+強硬通脹（適度）|
 ~
 Inflation Hawk (strong)|
-强硬通脹（強）|
+強硬通脹（強）|
 ~
 Central Bank Policy|
 央行政策|
@@ -2009,1156 +573,13 @@ Ultra Tight|
 超緊|
 ~
 GDP Growth|
-GDP增長|
-~
-City Graphs|
-城市曲線圖|
-~
-City|
-城市|
-~
-Financial Actions|
-財務運作|
-~
-Corporation / Subsidiary|
-公司/子公司|
-~
-Past Year|
-過去一年|
-~
-Name|
-名稱|
-~
-Wealth ($Billion)|
-財富（億元）|
-~
-Controlled Share|
-控制分享|
-~
-Economic Graphs|
-經濟圖|
+GDP增長率|
 ~
 Money Demand|
 貨幣需求|
 ~
 Money Supply|
 貨幣供應|
-~
-Issue New Shares to the Public|
-發行公共新股|
-~
-Issue New Shares to Parent Company|
-發行新股給母公司|
-~
-Issuing Price (should be LOWER than market price)|
-發行價格（應該比市場價格低）|
-~
-Issuing Price (should be HIGHER than market price)|
-發行價格（應該比市場價格更高）|
-~
-Subsidiaries Only|
-只有子公司|
-~
-Parent Company|
-母公司|
-~
-Parent Company Cash|
-母公司現金|
-~
-Parent Company Share Ownership|
-母公司持股|
-~
-Current Stock Price|
-目前股價|
-~
-Number of New Shares|
-新股份數目|
-~
-Maximum Number of Shares that can be issued|
-的可發行股份數量上限|
-~
-Number of Shares in Existence|
-在存在股份數目|
-~
-Fund to be Raised|
-基金籌集|
-~
-Share Dilution|
-分享稀釋|
-~
-New Shares Issued|
-新股發行|
-~
-Set Dividend|
-設置分紅|
-~
-Actual Dividend Yield|
-實際的股息收益率|
-~
-Discount|
-折扣|
-~
-Premium|
-高級|
-~
-Owned Qty|
-擁有數量|
-~
-Avg Cost|
-平均費用|
-~
-Market Price|
-市場價格|
-~
-Purchase Cost|
-進貨成本|
-~
-(CLICK TO SELL)|
-(點擊出售)|
-~
-Do you want to sell this land plot for %?|
-你想出售這個地塊 %|
-~
-sets up a|
-創建一個|
-~
-WARNING: This Plan has no saleable items.|
-警告:此計劃沒有可出售單位.|
-~
-Find Next|
-找到下一個|
-~
-The plan will replace the existing layout of the current firm. Proceed?|
-這個計劃將替代當前佈局,確定?|
-~
-Pre-defined|
-預定義|
-~
-User-defined|
-用戶定義|
-~
-Wildcard Factory Plans|
-通用工廠計劃|
-~
-Wildcard Input 1|
-通用輸入 1|
-~
-Wildcard Input 2|
-通用輸入 2|
-~
-Wildcard Input 3|
-通用輸入 3|
-~
-Layout Plan|
-佈局設計|
-~
-Plan: %|
-設計: %|
-~
-Market Value|
-市值|
-~
-Market Cap|
-市值|
-~
-Market Capitalization|
-市值|
-~
-Number of Game Years|
-遊戲年數|
-~
-year|
-年|
-~
-Ranking Method|
-排名方法|
-~
-Total Revenue|
-總收入|
-~
-Total Profit|
-利潤總額|
-~
-Industry Revenue|
-行業收入|
-~
-Product Revenue|
-產品收益|
-~
-Yes|
-是|
-~
-No|
-否|
-~
-YES|
-是|
-~
-NO|
-否|
-~
-OK|
-OK|
-~
-CANCEL|
-取消|
-~
-Cancel|
-取消|
-~
-Use|
-使用|
-~
-Reset|
-重置|
-~
-Cities|
-城市|
-~
-CITIES|
-城市|
-~
-Training|
-培訓|
-~
-Search Product (Tab)|
-搜索產品（標籤）|
-~
-NEW GAME|
-新遊戲|
-~
-History|
-歷史|
-~
-Back|
-返回|
-~
-Owned Stocks|
-國有股|
-~
-Year-to-date|
-年初至今|
-~
-Display:|
-顯示：|
-~
-Last Year|
-去年|
-~
-Total|
-總計|
-~
-TOTAL|
-總計|
-~
-Total:|
-總計:|
-~
-Stock Returns|
-股票收益|
-~
-Stock News|
-股市新聞|
-~
-Lifetime Return|
-終身返回|
-~
-Lifetime|
-一生|
-~
-Corporation|
-公司|
-~
-Revenue|
-收入|
-~
-REVENUE|
-收入|
-~
-Past 3 Years|
-過去3年|
-~
-Gain/Loss%|
-收益/損失%|
-~
-Gain/Loss|
-收益/損失|
-~
-Gain|
-獲得|
-~
-Owned for|
-擁有了|
-~
-Total Wealth|
-總財富管理|
-~
-Corporations|
-企業|
-~
-CORPORATIONS|
-企業|
-~
-CORPORATIONS (Total: %)|
-企業 (總共: %)|
-~
-Corporate Details|
-企業詳情|
-~
-Cash|
-現金|
-~
-CASH|
-現金|
-~
-Cash %|
-現金 %|
-~
-Stocks|
-股票|
-~
-Properties|
-屬性|
-~
-Housing Supply|
-房屋供應|
-~
-Housing Demand|
-房屋需求|
-~
-Occupancy Rate|
-入住率|
-~
-Community Facilities|
-社區設施|
-~
-APARTMENT|
-公寓|
-~
-years|
-年|
-~
-3 Years|
-3年|
-~
-Blazer|
-西裝外套|
-~
-BLAZER|
-西裝外套|
-~
-Leather Jacket|
-皮夾克|
-~
-LEATHER JACKET|
-皮夾克|
-~
-Jeans|
-牛仔褲|
-~
-JEANS|
-牛仔褲|
-~
-Sweater|
-毛衣|
-~
-SWEATER|
-毛衣|
-~
-Car|
-汽車|
-~
-CAR|
-汽車|
-~
-Car X %|
-汽車 X %|
-~
-Motorcycle|
-摩托車|
-~
-MOTORCYCLE|
-摩托車|
-~
-Bottled Milk|
-瓶裝牛奶|
-~
-BOTTLED MILK|
-瓶裝牛奶|
-~
-Cola|
-可樂|
-~
-COLA|
-可樂|
-~
-Grape Juice|
-葡萄汁|
-~
-GRAPE JUICE|
-葡萄汁|
-~
-Wine|
-紅酒|
-~
-WINE|
-紅酒|
-~
-Bath Lotion|
-沐浴露|
-~
-BATH LOTION|
-沐浴露|
-~
-Shampoo|
-洗髮水|
-~
-SHAMPOO|
-洗髮水|
-~
-Soap|
-香皂|
-~
-SOAP|
-香皂|
-~
-Toothpaste|
-牙膏|
-~
-TOOTHPASTE|
-牙膏|
-~
-Camera Phone|
-拍照手機|
-~
-PHONE|
-手機|
-~
-HUD Glasses|
-HUD眼鏡|
-~
-HUD GLASSES|
-HUD眼鏡|
-~
-Mobile Phone|
-手機|
-~
-MOBILE PHONE|
-手機|
-~
-Smart Phone|
-智能手機|
-~
-SMART PHONE|
-智能手機|
-~
-Desktop Computer|
-台式電腦|
-~
-DESKTOP COMPUTER|
-台式電腦|
-~
-Notebook Computer|
-筆記本|
-~
-NOTEBOOK COMPUTER|
-筆記本|
-~
-Printer|
-打印機|
-~
-PRINTER|
-打印機|
-~
-Tablet Computer|
-平板電腦|
-~
-TABLET COMPUTER|
-平板電腦|
-~
-Eye Shadow|
-眼影|
-~
-EYE SHADOW|
-眼影|
-~
-Hair Color|
-染髮液|
-~
-HAIR COLOR|
-染髮液|
-~
-Lipstick|
-口紅|
-~
-LIPSTICK|
-口紅|
-~
-Perfume|
-香水|
-~
-PERFUME|
-香水|
-~
-Cold Pills|
-感冒藥|
-~
-COLD PILLS|
-感冒藥|
-~
-Cough Syrup|
-止咳糖漿|
-~
-COUGH SYRUP|
-止咳糖漿|
-~
-Headache Pills|
-頭痛藥|
-~
-HEADACHE PILLS|
-頭痛藥|
-~
-Camcorder|
-照相機|
-~
-CAMCORDER|
-照相機|
-~
-Hi-fi System|
-高保真音響|
-~
-HI-FI SYSTEM|
-高保真音響|
-~
-Portable Media Player|
-便攜式媒體播放器|
-~
-PORTABLE MEDIA PLAYER|
-便攜式媒體播放器|
-~
-Television|
-電視|
-~
-TELEVISION|
-電視|
-~
-Bread|
-麵包|
-~
-BREAD|
-麵包|
-~
-Bread X %|
-麵包 X %|
-~
-Cakes|
-蛋糕|
-~
-CAKES|
-蛋糕|
-~
-Canned Corn|
-玉米罐頭|
-~
-CANNED CORN|
-玉米罐頭|
-~
-Canned Soup|
-罐裝湯|
-~
-CANNED SOUP|
-罐裝湯|
-~
-Corn Flakes|
-玉米片|
-~
-CORN FLAKES|
-玉米片|
-~
-Sandals|
-涼鞋|
-~
-SANDALS|
-涼鞋|
-~
-Shoes|
-皮鞋|
-~
-SHOES|
-皮鞋|
-~
-Socks|
-襪子|
-~
-SOCKS|
-襪子|
-~
-Sport Shoes|
-運動鞋|
-~
-SPORT SHOES|
-運動鞋|
-~
-Bed|
-床|
-~
-BED|
-床|
-~
-Chair|
-椅|
-~
-CHAIR|
-椅|
-~
-Sofa|
-沙發|
-~
-SOFA|
-沙發|
-~
-Air Conditioner|
-空調|
-~
-AIR CONDITIONER|
-空調|
-~
-Refrigerator|
-冰箱|
-~
-REFRIGERATOR|
-冰箱|
-~
-Washing Machine|
-洗衣機|
-~
-WASHING MACHINE|
-洗衣機|
-~
-Detergent|
-洗滌劑|
-~
-DETERGENT|
-洗滌劑|
-~
-Tissues|
-紙巾|
-~
-TISSUES|
-紙巾|
-~
-Toilet cleaner|
-廁所清潔劑|
-~
-TOILET CLEANER|
-廁所清潔劑|
-~
-Washing Powder|
-洗衣粉|
-~
-WASHING POWDER|
-洗衣粉|
-~
-Silver Necklace|
-銀項鍊|
-~
-SILVER NECKLACE|
-銀項鍊|
-~
-Silver Necklace X %|
-銀項鍊 X %|
-~
-Gold Ring|
-金戒指|
-~
-GOLD RING|
-金戒指|
-~
-Leather Bag|
-皮包|
-~
-LEATHER BAG|
-皮包|
-~
-Leather Belt|
-皮帶|
-~
-LEATHER BELT|
-皮帶|
-~
-Leather Briefcase|
-皮革公文包|
-~
-LEATHER BRIEFCASE|
-皮革公文包|
-~
-Leather Wallet|
-真皮錢包|
-~
-LEATHER WALLET|
-真皮錢包|
-~
-Eggs|
-雞蛋|
-~
-EGGS|
-雞蛋|
-~
-EGGS % dozen|
-雞蛋 % 打|
-~
-Frozen Beef|
-速凍牛肉|
-~
-FROZEN BEEF|
-速凍牛肉|
-~
-Frozen Chicken|
-速凍雞肉|
-~
-FROZEN CHICKEN|
-速凍雞肉|
-~
-Frozen Pork|
-速凍豬肉|
-~
-FROZEN PORK|
-速凍豬肉|
-~
-Frozen Lamb|
-速凍羊肉|
-~
-FROZEN LAMB|
-速凍羊肉|
-~
-Leather|
-皮革|
-~
-LEATHER|
-皮革|
-~
-Milk|
-牛奶|
-~
-MILK|
-牛奶|
-~
-Wool|
-羊毛|
-~
-WOOL|
-羊毛|
-~
-Cattle|
-牛|
-~
-Chicken|
-雞|
-~
-Pig|
-豬|
-~
-Sheep|
-羊|
-~
-Camera|
-攝像機|
-~
-CAMERA|
-攝像機|
-~
-Compact Camera|
-微型攝像機|
-~
-COMPACT CAMERA|
-微型攝像機|
-~
-Digital Camera|
-數碼相機|
-~
-DIGITAL CAMERA|
-數碼相機|
-~
-Flax|
-亞麻|
-~
-FLAX|
-亞麻|
-~
-Rubber Plant|
-橡膠|
-~
-RUBBER PLANT|
-橡膠|
-~
-Sugar Cane|
-甘蔗|
-~
-SUGAR CANE|
-甘蔗|
-~
-Cocoa|
-可可|
-~
-COCOA|
-可可|
-~
-Coconut|
-椰子|
-~
-COCONUT|
-椰子|
-~
-Corn|
-玉米|
-~
-CORN|
-玉米|
-~
-Cotton|
-棉花|
-~
-COTTON|
-棉花|
-~
-Flax Fiber|
-亞麻纖維|
-~
-FLAX FIBER|
-亞麻纖維|
-~
-Grapes|
-葡萄|
-~
-GRAPES|
-葡萄|
-~
-Lemon|
-檸檬|
-~
-LEMON|
-檸檬|
-~
-Rubber|
-橡膠|
-~
-RUBBER|
-橡膠|
-~
-Strawberry|
-草莓|
-~
-STRAWBERRY|
-草莓|
-~
-Sugar|
-糖|
-~
-SUGAR|
-糖|
-~
-Tobacco|
-煙草|
-~
-TOBACCO|
-煙草|
-~
-Wheat|
-小麥|
-~
-WHEAT|
-小麥|
-~
-Wheat X %|
-小麥 X %|
-~
-Aluminum|
-鋁|
-~
-ALUMINUM|
-鋁|
-~
-Chemical Minerals|
-化工礦產|
-~
-CHEMICAL MINERALS|
-化工礦產|
-~
-Coal|
-煤炭|
-~
-COAL|
-煤炭|
-~
-Gold|
-黃金|
-~
-GOLD|
-黃金|
-~
-Iron Ore|
-鐵礦石|
-~
-IRON ORE|
-鐵礦石|
-~
-Oil|
-油|
-~
-OIL|
-油|
-~
-Silica|
-矽膠|
-~
-SILICA|
-矽膠|
-~
-Silver|
-銀|
-~
-SILVER|
-銀|
-~
-Silver X %|
-銀 X %|
-~
-Timber|
-木材|
-~
-TIMBER|
-木材|
-~
-Citric Acid|
-檸檬酸|
-~
-CITRIC ACID|
-檸檬酸|
-~
-Car Body|
-車身|
-~
-CAR BODY|
-車身|
-~
-Car Body X %|
-車身 X %|
-~
-CCD|
-CCD|
-~
-Coconut Oil|
-椰子油|
-~
-COCONUT OIL|
-椰子油|
-~
-Corn Syrup|
-玉米糖漿|
-~
-CORN SYRUP|
-玉米糖漿|
-~
-CPU|
-CPU|
-~
-Dyestuff|
-染料|
-~
-DYESTUFF|
-染料|
-~
-Electronic Components|
-電子元件|
-~
-ELECTRONIC COMPONENTS|
-電子元件|
-~
-Engine|
-引擎|
-~
-ENGINE|
-引擎|
-~
-Flour|
-麵粉|
-~
-FLOUR|
-麵粉|
-~
-Flour X %|
-麵粉 X %|
-~
-Glass|
-玻璃|
-~
-GLASS|
-玻璃|
-~
-Linen|
-亞麻布|
-~
-LINEN|
-亞麻布|
-~
-Paper|
-紙|
-~
-PAPER|
-紙|
-~
-Plastic|
-塑料|
-~
-PLASTIC|
-塑料|
-~
-Polyester|
-聚酯|
-~
-POLYESTER|
-聚酯|
-~
-Silicon|
-矽|
-~
-SILICON|
-矽|
-~
-Steel|
-鋼|
-~
-STEEL|
-鋼|
-~
-Textiles|
-紡織品|
-~
-TEXTILES|
-紡織品|
-~
-Wheat Germ Oil|
-麥芽油|
-~
-WHEAT GERM OIL|
-麥芽油|
-~
-Wheel & Tire|
-輪胎|
-~
-WHEEL & TIRE|
-輪胎|
-~
-Wheel & Tire X %|
-輪胎 X %|
-~
-Cereal Bar|
-糖果|
-~
-CEREAL BAR|
-糖果|
-~
-Chocolate Bar|
-巧克力|
-~
-CHOCOLATE BAR|
-巧克力|
-~
-Cookies|
-餅乾|
-~
-COOKIES|
-餅乾|
-~
-Chewing Gum|
-口香糖|
-~
-CHEWING GUM|
-口香糖|
-~
-Ice Cream|
-冰淇淋|
-~
-ICE CREAM|
-冰淇淋|
-~
-Yogurt|
-酸奶|
-~
-YOGURT|
-酸奶|
-~
-Back Pack|
-背包|
-~
-BACK PACK|
-背包|
-~
-Golf Clubs|
-高爾夫球桿|
-~
-GOLF CLUBS|
-高爾夫球桿|
-~
-In-line Skates|
-溜冰鞋|
-~
-IN-LINE SKATES|
-溜冰鞋|
-~
-Cigarettes|
-香煙|
-~
-CIGARETTES|
-香煙|
-~
-Cigars|
-雪茄|
-~
-CIGARS|
-雪茄|
-~
-Handheld Game Console|
-掌上遊戲機|
-~
-HANDHELD GAME CONSOLE|
-掌上遊戲機|
-~
-Toy Racing Car|
-玩具車|
-~
-TOY RACING CAR|
-玩具車|
-~
-Toy Doll|
-玩具娃娃|
-~
-TOY DOLL|
-玩具娃娃|
-~
-Video Game Console|
-電子遊戲機|
-~
-VIDEO GAME CONSOLE|
-電子遊戲機|
-~
-Elegant Watch|
-典雅手錶|
-~
-ELEGANT WATCH|
-典雅手錶|
-~
-Silver Watch|
-白銀手錶|
-~
-SILVER WATCH|
-白銀手錶|
-~
-Sports Watch|
-運動手錶|
-~
-SPORTS WATCH|
-運動手錶|
 ~
 Buenos Aires|
 布宜諾斯艾利斯|
@@ -3167,7 +588,7 @@ Adelaide|
 阿德萊德|
 ~
 Brisbane|
-布里斯班|
+布裡斯班|
 ~
 Melbourne|
 墨爾本|
@@ -3230,7 +651,7 @@ Shanghai|
 上海|
 ~
 Shenyang|
-沉陽|
+瀋陽|
 ~
 Tianjin|
 天津|
@@ -3497,7 +918,7 @@ Kingston|
 金士頓|
 ~
 Las Vegas|
-拉斯維加斯|
+拉斯韋加斯|
 ~
 Los Angeles|
 洛杉磯|
@@ -3703,74 +1124,1895 @@ Venezuela|
 Vietnam|
 越南|
 ~
-Lunar Vitality|
-月活力|
+Blazer|
+西裝外套(Blazer)|
 ~
-Ideas Hotbed|
-創意溫床|
+BLAZER|
+西裝外套|
 ~
-Memory Today|
-記住今天|
+Leather Jacket|
+皮夾克(Leather Jacket)|
 ~
-Two Wheels|
-兩個輪子|
+LEATHER JACKET|
+皮夾克|
 ~
-Mankind|
-全人類|
+Jeans|
+牛仔褲(Jeans)|
 ~
-Grid Works|
-電網工程|
+JEANS|
+牛仔褲|
 ~
-Rising Sun Intl|
-旭日國際|
+Sweater|
+毛衣(Sweater)|
 ~
-Mutual Group|
-互助集團|
+SWEATER|
+毛衣|
 ~
-Touch Point|
-接觸點|
+Car|
+汽車(Car)|
 ~
-Smashing Guard|
-粉碎衛隊|
+CAR|
+汽車|
 ~
-Circle Cross|
-圓形十字|
+Car X %|
+汽車 X %|
 ~
-Southern Lines|
-南線|
+Motorcycle|
+摩托車(Motorcycle)|
 ~
-Ion Industries|
-離子產業|
+MOTORCYCLE|
+摩托車|
 ~
-Round Petal|
-圓形花瓣|
+Bottled Milk|
+瓶裝牛奶(Bottled Milk)|
 ~
-Parallel Inc.|
-同時公司|
+BOTTLED MILK|
+瓶裝牛奶|
 ~
-Duopower Darts|
-堕力量飛鏢|
+Cola|
+可樂(Cola)|
 ~
-The last tutorial you have finished is tutorial %|
-你已經完成了最後的教程 %。|
+COLA|
+可樂|
 ~
-You are advised to follow the tutorials in a sequential order.|
-建議您遵循按順序教程。|
+Grape Juice|
+葡萄汁(Grape Juice)|
 ~
-Are you sure that you want to start tutorial % now? This will skip the tutorial in between and you will be missing important information.|
-你確定你想現在就開始教程%？這將跳過之前的教程，你會錯過重要的教程信息。|
+GRAPE JUICE|
+葡萄汁|
 ~
-If this is your first time playing Capitalism Lab, you are advised to start tutorial %.|
-如果這是你第一次玩金融帝國實驗室，建議您開始教程%。|
+Wine|
+紅酒(Wine)|
 ~
-Are you sure that you want to start tutorial % now? This will skip the tutorials prior to it and you will be missing important information.|
-你確定你想現在就開始教程%？這將跳過之前的教程，你會錯過重要的教程信息。|
+WINE|
+紅酒|
 ~
-Tutorials you have finished|
-你完成了教程|
+Bath Lotion|
+沐浴露(Bath Lotion)|
 ~
-Proceed Anyway|
-繼續反正|
+BATH LOTION|
+沐浴露|
+~
+Shampoo|
+洗髮水(Shampoo)|
+~
+SHAMPOO|
+洗髮水|
+~
+Soap|
+香皂(Soap)|
+~
+SOAP|
+香皂|
+~
+Toothpaste|
+牙膏(Toothpaste)|
+~
+TOOTHPASTE|
+牙膏|
+~
+Camera Phone|
+拍照手機(Camera Phone)|
+~
+PHONE|
+手機|
+~
+HUD Glasses|
+HUD眼鏡(HUD Glasses)|
+~
+HUD GLASSES|
+HUD眼鏡|
+~
+Mobile Phone|
+手機(Mobile Phone)|
+~
+MOBILE PHONE|
+手機|
+~
+Smart Phone|
+智能手機(Smart Phone)|
+~
+SMART PHONE|
+智能手機|
+~
+Desktop Computer|
+台式計算機(Desktop Computer)|
+~
+DESKTOP COMPUTER|
+台式計算機|
+~
+Notebook Computer|
+筆記本(Notebook Computer)|
+~
+NOTEBOOK COMPUTER|
+筆記本|
+~
+Printer|
+打印機(Printer)|
+~
+PRINTER|
+打印機|
+~
+Tablet Computer|
+平板計算機(Tablet Computer)|
+~
+TABLET COMPUTER|
+平板計算機|
+~
+Eye Shadow|
+眼影(Eye Shadow)|
+~
+EYE SHADOW|
+眼影|
+~
+Hair Color|
+染髮液(Hair Color)|
+~
+HAIR COLOR|
+染髮液|
+~
+Lipstick|
+口紅(Lipstick)|
+~
+LIPSTICK|
+口紅|
+~
+Perfume|
+香水(Perfume)|
+~
+PERFUME|
+香水|
+~
+Cold Pills|
+感冒藥(Cold Pills)|
+~
+COLD PILLS|
+感冒藥|
+~
+Cough Syrup|
+止咳糖漿(Cough Syrup)|
+~
+COUGH SYRUP|
+止咳糖漿|
+~
+Headache Pills|
+頭痛藥(Headache Pills)|
+~
+HEADACHE PILLS|
+頭痛藥|
+~
+Camcorder|
+攝像機(Camcorder)|
+~
+CAMCORDER|
+攝像機|
+~
+Hi-fi System|
+高保真音響(Hi-fi System)|
+~
+HI-FI SYSTEM|
+高保真音響|
+~
+Portable Media Player|
+便攜式媒體播放器(Portable Media Player)|
+~
+PORTABLE MEDIA PLAYER|
+便攜式媒體播放器|
+~
+Television|
+電視(Television)|
+~
+TELEVISION|
+電視|
+~
+Bread|
+麵包(Bread)|
+~
+BREAD|
+麵包|
+~
+Bread X %|
+麵包 X %|
+~
+Cakes|
+蛋糕(Cakes)|
+~
+CAKES|
+蛋糕|
+~
+Canned Corn|
+玉米罐頭(Canned Corn)|
+~
+CANNED CORN|
+玉米罐頭|
+~
+Canned Soup|
+罐裝湯(Canned Soup)|
+~
+CANNED SOUP|
+罐裝湯|
+~
+Corn Flakes|
+玉米片(Corn Flakes)|
+~
+CORN FLAKES|
+玉米片|
+~
+Sandals|
+涼鞋(Sandals)|
+~
+SANDALS|
+涼鞋|
+~
+Shoes|
+皮鞋(Shoes)|
+~
+SHOES|
+皮鞋|
+~
+Socks|
+襪子(Socks)|
+~
+SOCKS|
+襪子|
+~
+Sport Shoes|
+運動鞋(Sport Shoes)|
+~
+SPORT SHOES|
+運動鞋|
+~
+Bed|
+床(Bed)|
+~
+BED|
+床|
+~
+Chair|
+椅子(Chair)|
+~
+CHAIR|
+椅子|
+~
+Sofa|
+沙發(Sofa)|
+~
+SOFA|
+沙發|
+~
+Air Conditioner|
+空調(Air Conditioner)|
+~
+AIR CONDITIONER|
+空調|
+~
+Refrigerator|
+冰箱(Refrigerator)|
+~
+REFRIGERATOR|
+冰箱|
+~
+Washing Machine|
+洗衣機(Washing Machine)|
+~
+WASHING MACHINE|
+洗衣機|
+~
+Detergent|
+洗滌劑(Detergent)|
+~
+DETERGENT|
+洗滌劑|
+~
+Tissues|
+紙巾(Tissues)|
+~
+TISSUES|
+紙巾|
+~
+Toilet cleaner|
+廁所清潔劑(Toilet cleaner)|
+~
+TOILET CLEANER|
+廁所清潔劑|
+~
+Washing Powder|
+洗衣粉(Washing Powder)|
+~
+WASHING POWDER|
+洗衣粉|
+~
+Silver Necklace|
+銀項鏈(Silver Necklace)|
+~
+SILVER NECKLACE|
+銀項鏈|
+~
+Silver Necklace X %|
+銀項鏈 X %|
+~
+Gold Ring|
+金戒指(Gold Ring)|
+~
+GOLD RING|
+金戒指|
+~
+Leather Bag|
+皮包(Leather Bag)|
+~
+LEATHER BAG|
+皮包|
+~
+Leather Belt|
+皮帶(Leather Belt)|
+~
+LEATHER BELT|
+皮帶|
+~
+Leather Briefcase|
+皮革公文包(Leather Briefcase)|
+~
+LEATHER BRIEFCASE|
+皮革公文包|
+~
+Leather Wallet|
+真皮錢包(Leather Wallet)|
+~
+LEATHER WALLET|
+真皮錢包|
+~
+Eggs|
+雞蛋(Eggs)|
+~
+EGGS|
+雞蛋|
+~
+EGGS   %dozen|
+雞蛋  %每打|
+~
+Frozen Beef|
+速凍牛肉(Frozen Beef)|
+~
+FROZEN BEEF|
+速凍牛肉|
+~
+Frozen Chicken|
+速凍雞肉(Frozen Chicken)|
+~
+FROZEN CHICKEN|
+速凍雞肉|
+~
+Frozen Pork|
+速凍豬肉(Frozen Pork|)|
+~
+FROZEN PORK|
+速凍豬肉|
+~
+Frozen Lamb|
+速凍羊肉(Frozen Lamb)|
+~
+FROZEN LAMB|
+速凍羊肉|
+~
+Leather|
+皮革(Leather)|
+~
+LEATHER|
+皮革|
+~
+Milk|
+牛奶(Milk)|
+~
+MILK|
+牛奶|
+~
+Wool|
+羊毛(Wool)|
+~
+WOOL|
+羊毛|
+~
+Cattle|
+牛|
+~
+Chicken|
+雞|
+~
+Pig|
+豬|
+~
+Sheep|
+羊|
+~
+Camera|
+單反相機(Camera)|
+~
+CAMERA|
+單反相機|
+~
+Compact Camera|
+微型攝像機(Compact Camera)|
+~
+COMPACT CAMERA|
+微型攝像機|
+~
+Digital Camera|
+數碼相機(Digital Camera)|
+~
+DIGITAL CAMERA|
+數碼相機|
+~
+Flax|
+亞麻(Flax)|
+~
+FLAX|
+亞麻|
+~
+Rubber Plant|
+橡膠(Rubber Plant)|
+~
+RUBBER PLANT|
+橡膠|
+~
+Sugar Cane|
+甘蔗(Sugar Cane)|
+~
+SUGAR CANE|
+甘蔗|
+~
+Cocoa|
+可可(Cocoa)|
+~
+COCOA|
+可可|
+~
+Coconut|
+椰子(Coconut)|
+~
+COCONUT|
+椰子|
+~
+Corn|
+玉米(Corn)|
+~
+CORN|
+玉米|
+~
+Cotton|
+棉花(Cotton)|
+~
+COTTON|
+棉花|
+~
+Flax Fiber|
+亞麻纖維(Flax Fiber)|
+~
+FLAX FIBER|
+亞麻纖維|
+~
+Grapes|
+葡萄(Grapes)|
+~
+GRAPES|
+葡萄|
+~
+Lemon|
+檸檬(Lemon)|
+~
+LEMON|
+檸檬|
+~
+Rubber|
+橡膠(Rubber)|
+~
+RUBBER|
+橡膠|
+~
+Strawberry|
+草莓(Strawberry)|
+~
+STRAWBERRY|
+草莓|
+~
+Sugar|
+糖(Sugar)|
+~
+SUGAR|
+糖|
+~
+Tobacco|
+煙草(Tobacco)|
+~
+TOBACCO|
+煙草|
+~
+Wheat|
+小麥(Wheat)|
+~
+WHEAT|
+小麥|
+~
+Wheat X %|
+小麥 X %|
+~
+Aluminum|
+鋁(Aluminum)|
+~
+ALUMINUM|
+鋁|
+~
+Chemical Minerals|
+化工礦物(Chemical Minerals)|
+~
+CHEMICAL MINERALS|
+化工礦物|
+~
+Coal|
+煤炭(Coal)|
+~
+COAL|
+煤炭|
+~
+Gold|
+黃金(Gold)|
+~
+GOLD|
+黃金|
+~
+Iron Ore|
+鐵礦石(Iron Ore)|
+~
+IRON ORE|
+鐵礦石|
+~
+Oil|
+石油(Oil)|
+~
+OIL|
+石油|
+~
+Silica|
+硅礦(Silica)|
+~
+SILICA|
+硅礦|
+~
+Silver|
+銀(Silver)|
+~
+SILVER|
+銀|
+~
+Silver X %|
+銀 X %|
+~
+Timber|
+木材(Timber)|
+~
+TIMBER|
+木材|
+~
+Citric Acid|
+檸檬酸(Citric Acid)|
+~
+CITRIC ACID|
+檸檬酸|
+~
+Car Body|
+車身(Car Body)|
+~
+CAR BODY|
+車身|
+~
+Car Body X %|
+車身 X %|
+~
+Coconut Oil|
+椰子油(Coconut Oil)|
+~
+COCONUT OIL|
+椰子油|
+~
+Corn Syrup|
+玉米漿(Corn Syrup)|
+~
+CORN SYRUP|
+玉米漿|
+~
+Dyestuff|
+染料(Dyestuff)|
+~
+DYESTUFF|
+染料|
+~
+Electronic Components|
+電子組件(Electronic Components)|
+~
+ELECTRONIC COMPONENTS|
+電子組件|
+~
+Engine|
+引擎(Engine)|
+~
+ENGINE|
+引擎|
+~
+Flour|
+麵粉(Flour)|
+~
+FLOUR|
+麵粉|
+~
+Flour X %|
+麵粉 X %|
+~
+Glass|
+玻璃(Glass)|
+~
+GLASS|
+玻璃|
+~
+Linen|
+亞麻布(Linen)|
+~
+LINEN|
+亞麻布|
+~
+Paper|
+紙(Paper)|
+~
+PAPER|
+紙|
+~
+Plastic|
+塑料(Plastic)|
+~
+PLASTIC|
+塑料|
+~
+Polyester|
+聚酯(Polyester)|
+~
+POLYESTER|
+聚酯|
+~
+Silicon|
+硅(Silicon)|
+~
+SILICON|
+硅|
+~
+Steel|
+鋼(Steel)|
+~
+STEEL|
+鋼|
+~
+Textiles|
+紡織品(Textiles)|
+~
+TEXTILES|
+紡織品|
+~
+Wheat Germ Oil|
+麥芽油(Wheat Germ Oil)|
+~
+WHEAT GERM OIL|
+麥芽油|
+~
+Wheel & Tire|
+輪胎(Wheel & Tire)|
+~
+WHEEL & TIRE|
+輪胎|
+~
+Wheel & Tire X %|
+輪胎 X %|
+~
+Cereal Bar|
+穀物棒(Cereal Bar)|
+~
+CEREAL BAR|
+穀物棒|
+~
+Chocolate Bar|
+巧克力(Chocolate Bar)|
+~
+CHOCOLATE BAR|
+巧克力|
+~
+Cookies|
+餅乾(Cookies)|
+~
+COOKIES|
+餅乾|
+~
+Chewing Gum|
+口香糖(Chewing Gum)|
+~
+CHEWING GUM|
+口香糖|
+~
+Ice Cream|
+冰淇淋(Ice Cream)|
+~
+ICE CREAM|
+冰淇淋|
+~
+Yogurt|
+酸奶(Yogurt)|
+~
+YOGURT|
+酸奶|
+~
+Back Pack|
+背包(Back Pack)|
+~
+BACK PACK|
+背包|
+~
+Golf Clubs|
+高爾夫球桿(Golf Clubs)|
+~
+GOLF CLUBS|
+高爾夫球桿|
+~
+In-line Skates|
+溜冰鞋(In-line Skates)|
+~
+IN-LINE SKATES|
+溜冰鞋|
+~
+Cigarettes|
+香煙(Cigarettes)|
+~
+CIGARETTES|
+香煙|
+~
+Cigars|
+雪茄(Cigars)|
+~
+CIGARS|
+雪茄|
+~
+Handheld Game Console|
+掌上遊戲機(Handheld Game Console)|
+~
+HANDHELD GAME CONSOLE|
+掌上遊戲機|
+~
+Toy Racing Car|
+玩具車(Toy Racing Car)|
+~
+TOY RACING CAR|
+玩具車|
+~
+Toy Doll|
+玩具娃娃(Toy Doll)|
+~
+TOY DOLL|
+玩具娃娃|
+~
+Video Game Console|
+電子遊戲機(Video Game Console)|
+~
+VIDEO GAME CONSOLE|
+電子遊戲機|
+~
+Elegant Watch|
+典雅手錶(Elegant Watch)|
+~
+ELEGANT WATCH|
+典雅手錶|
+~
+Silver Watch|
+白銀手錶(Silver Watch)|
+~
+SILVER WATCH|
+白銀手錶|
+~
+Sports Watch|
+運動手錶(Sports Watch)|
+~
+SPORTS WATCH|
+運動手錶|
+~
+PROFILE|
+基本|
+~
+Many|
+多|
+~
+One|
+少|
+~
+Technology Disruption|
+科技破壞|
+~
+Inverse|
+反向|
+~
+Inflation Strength|
+通脹強度|
+~
+Reduced|
+減弱|
+~
+Alternative Stock Sim|
+替換股票模擬|
+~
+None|
+無|
+~
+AI Friendly Merger|
+AI友好合併|
+~
+Start|
+開始|
+~
+Back|
+返回|
+~
+Custom|
+自定義|
+~
+Difficulty Rating|
+困難度|
+~
+Difficulty Level|
+困難度等級|
+~
+Considerably Easier|
+比較容易|
+~
+Less Difficult|
+較小難度|
+~
+Original Difficulty|
+普通難度|
+~
+Harder|
+比較困難|
+~
+Tremendously Harder|
+非常困難|
+~
+DIFFICULTY RATING |
+困難度 |
+~
+Challenge Game|
+挑戰遊戲|
+~
+CHALLENGE GAME|
+挑戰遊戲|
+~
+Challenge Game Mode|
+挑戰遊戲模式|
+~
+Challenge Game Title|
+挑戰遊戲標題|
+~
+Number of Game Years|
+遊戲年限|
+~
+Ranking Method|
+排名方式|
+~
+Score|
+得分|
+~
+Pre-defined Scripts|
+默認腳本|
+~
+User-created Scripts|
+用戶自定義腳本|
+~
+Sort by|
+排序方式|
+~
+Title|
+列表|
+~
+File Name|
+文件名稱|
+~
+File date|
+文件日期|
+~
+Total Revenue|
+總收益|
+~
+Total Profit|
+總利潤|
+~
+Industry Revenue|
+工業收益|
+~
+Product Revenue|
+產品收益|
+~
+Pre-defined|
+預定義|
+~
+User-defined|
+用戶自定義|
+~
+WARNING: This Plan has no saleable items.|
+警告：此規劃沒有可用項目。|
+~
+layout plan found|
+個可用規劃|
+~
+layout plans found|
+個可用規劃|
+~
+Find Next|
+下一個|
+~
+Plan|
+規劃|
+~
+Wildcard Factory Plans|
+通用工廠規劃|
+~
+Retailing|
+零售|
+~
+Manufacturing|
+製造|
+~
+Manufacturing Unit|
+製造部門|
+~
+Farm|
+農場|
+~
+Farming|
+農牧|
+~
+Raw Material Production|
+原材料生產|
+~
+Real Estate|
+房地產|
+~
+Media|
+傳媒|
+~
+Advertise|
+廣告|
+~
+Advertising|
+廣告|
+~
+Advertising Unit|
+廣告部門|
+~
+Crop|
+作物|
+~
+CROPS|
+作物|
+~
+Crop Growing|
+種植作物|
+~
+Sowing in %|
+播種期 %|
+~
+Harvest in %|
+收穫期 %|
+~
+Crop Growing Unit|
+種植作物部門|
+~
+Livestock|
+牲畜|
+~
+LIVESTOCK|
+牲畜|
+~
+Livestock Raising|
+飼養牲畜|
+~
+Livestock Raising Unit|
+飼養牲畜部門|
+~
+Process|
+加工|
+~
+Livestock Processing|
+牲畜加工|
+~
+Livestock Processing Unit|
+牲畜加工部門|
+~
+Livestock Supply|
+牲畜供應|
+~
+Process Capacity|
+加工能力|
+~
+Mft|
+製造|
+~
+Inventory|
+庫存|
+~
+Inventory Unit|
+庫存部門|
+~
+Sales|
+銷售|
+~
+Sales Unit|
+銷售部門|
+~
+Mining|
+採礦|
+~
+Mining Unit|
+採礦部門|
+~
+Purchase|
+採購|
+~
+Purchasing|
+採購|
+~
+Purchasing Power|
+購買力
+~
+Purchasing Unit|
+採購部門|
+~
+Private Labelling|
+貼牌|
+~
+Private Labelling Unit|
+貼牌部門|
+~
+Labelling|
+貼牌|
+~
+Warehouse Storage|
+倉庫存儲|
+~
+Warehouse Storage Unit|
+倉庫存儲部門|
+~
+Storage|
+存儲|
+~
+Warehouse Input|
+倉庫輸入|
+~
+Warehouse Input Unit|
+倉庫輸入部門|
+~
+Input|
+輸入|
+~
+Warehouse Output|
+倉庫輸出|
+~
+Warehouse Output Unit|
+倉庫輸出部門|
+~
+Output|
+輸出|
+~
+Oil Extraction|
+石油開採|
+~
+Oil Extraction Unit|
+石油開採部門|
+~
+Extraction|
+開採|
+~
+Logging|
+伐木|
+~
+Logging Unit|
+伐木部門|
+~
+Research & Development|
+研究開發|
+~
+Research & Development Unit|
+研究開發部門|
+~
+Tech Gain|
+科技增益|
+~
+Technology Improvement|
+科技研發|
+~
+New Product Development|
+新產品開發|
+~
+Buy|
+購買|
+~
+New Tech部門|
+新科技部門|
+~
+Reset Goals|
+重置目標|
+~
+Auto Save in Process...|
+自動保存中...|
+~
+Retail Store|
+零售店|
+~
+Department Store|
+百貨商店|
+~
+Supermarket|
+超市|
+~
+Convenience Store|
+便利店|
+~
+Discount Megastore|
+賣場|
+~
+Drug Store|
+藥店|
+~
+Apparel Store|
+服裝店|
+~
+Automobile Outlet|
+汽車專賣店|
+~
+Electronics Store|
+家用電器電|
+~
+Footwear Store|
+鞋店|
+~
+Jewelry and Watch Shop|
+珠寶店|
+~
+Leather Store|
+皮具店|
+~
+Computer Store|
+電子產品店|
+~
+Cosmetic Store|
+化妝品店|
+~
+Furniture Store|
+傢俱店|
+~
+Sports Store|
+體育用品店|
+~
+Toy Store|
+玩具店|
+~
+Factory|
+工廠|
+~
+Factory - 小|
+工廠 - 小|
+~
+Factory - 中|
+工廠 - 中|
+~
+Factory - 大|
+工廠 - 大|
+~
+R&D Center|
+研發中心|
+~
+Farm|
+農場|
+~
+Farms|
+農場|
+~
+Farm - 中|
+農場 - 中|
+~
+Farm - 大|
+農場 - 大|
+~
+Warehouse|
+倉庫|
+~
+Warehouse - 中|
+倉庫 - 中|
+~
+Warehouse - 大|
+倉庫 - 大|
+~
+Natural Resources Firm|
+資源開採|
+~
+Logging Camp|
+伐木場|
+~
+Mine|
+礦場|
+~
+Oil Well|
+油井|
+~
+Media Firm|
+媒體機構|
+~
+Media Firms|
+媒體機構|
+~
+TV Station|
+電視台|
+~
+This TV Station started operation since %.|
+                此電視台始建於%。|
+~
+Newspaper Publisher|
+報社|
+~
+This Newspaper Publisher started operation since %.|
+                 此報社始建於%。|
+~
+Radio Station|
+電台|
+~
+This Radio Station started operation since %.|
+                 此電台始建於%。|
+~
+Headquarters|
+總部|
+~
+Mansion|
+宅第|
+~
+Apartment|
+公寓|
+~
+APARTMENT|
+公寓|
+~
+Commercial Building|
+商務樓|
+~
+COMMERCIAL BUILDING|
+商務樓|
+~
+Civic Building|
+公共設施|
+~
+City Hall|
+市政廳|
+~
+Police Station|
+警察局|
+~
+Fire Station|
+消防局|
+~
+Grade School|
+小學|
+~
+Middle School|
+中學|
+~
+High School|
+高中|
+~
+University|
+大學|
+~
+Library|
+圖書館|
+~
+Museum|
+博物館|
+~
+Hospital|
+醫院|
+~
+Sports Facilities|
+體育設施|
+~
+Tennis Court|
+網球場|
+~
+Soccer Field|
+足球場|
+~
+Golf Course|
+高爾夫球場|
+~
+Stadium|
+體育館|
+~
+Seaport|
+港口|
+~
+Airport|
+機場|
+~
+Specialty Store|
+專賣店|
+~
+Never|
+從不|
+~
+Seldom|
+很少|
+~
+Occasional|
+偶爾|
+~
+Frequent|
+頻繁|
+~
+Off|
+關|
+~
+On|
+開|
+~
+Very Low|
+非常低|
+~
+Low|
+低|
+~
+Moderate|
+普通|
+~
+High|
+高|
+~
+Very High|
+非常高|
+~
+Apparel|
+服裝|
+~
+Automobile|
+機動車|
+~
+Beverage|
+飲料|
+~
+Body Care Products|
+護膚品|
+~
+Communication Devices|
+通訊設備|
+~
+Computer|
+計算機|
+~
+Cosmetics|
+化妝品|
+~
+Drugs|
+藥物|
+~
+Electronic Products|
+電子產品|
+~
+Food|
+食物|
+~
+Footwear|
+鞋類|
+~
+Furniture|
+傢俱|
+~
+Home Appliances|
+家電|
+~
+Household Products|
+日用品|
+~
+Jewelry|
+珠寶|
+~
+Livestock Products|
+畜產產品|
+~
+Plant Products|
+農產品|
+~
+Raw Material|
+原材料|
+~
+Livestock Semi-products|
+牲畜半成品|
+~
+Leather Goods|
+皮具|
+~
+Photography Products|
+攝影器材|
+~
+Semi Products|
+半成品|
+~
+Snacks|
+零食|
+~
+Sport Equipment|
+體育用品|
+~
+Tobacco Products|
+煙草|
+~
+Toy|
+玩具|
+~
+Watch|
+手錶|
+~
+Owned Technology|
+擁有科技|
+~
+Owned Tech.|
+擁有科技|
+~
+Top Technology|
+最高科技|
+~
+Top Tech.|
+最高科技|
+~
+Go to Client (F7)|
+轉到客戶處（F7）|
+~
+Go to Supplier (F7)|
+轉到供貨商處（F7）|
+~
+SUPPLIER|
+供貨商|
+~
+Price|
+價格|
+~
+Cost+|
+成本+|
+~
+Freight|
+運費|
+~
+Current Product|
+當前產品|
+~
+City Average|
+城市平均|
+~
+My Staff Only|
+只顯示我的僱員|
+~
+Preference|
+偏好|
+~
+Business Expertise|
+業務專長|
+~
+Set a new advertising budget for all your advertising units:|
+為你的廣告單位設置一個新預算|
+~
+New advertising budget|
+新的廣告預算|
+~
+Apply All|
+全部應用|
+~
+Apply Selected|
+選擇應用|
+~
+Pricing policy|
+定價策略|
+~
+Maximize Profit Margin|
+最大限度提高利潤|
+~
+Maximize Market Share|
+最大限度市場份額|
+~
+Balanced|
+均衡|
+~
+Lowest|
+最低
+~
+Highest|
+最高|
+~
+Freight Concern|
+關注運費|
+~
+Never sell products below costs|
+從不低於成本價出售貨物|
+~
+Look for better supplies|
+尋找更好的供貨商|
+~
+From own firms only|
+只從自己的企業內尋找|
+~
+From any firms|
+從任何企業尋找|
+~
+Look for better products to sell in retail stores|
+尋找更好的商品在零售店內出售|
+~
+Prefer ordering from own warehouses over own factories|
+優先選擇從自己的倉庫內給工廠訂貨|
+~
+Internal Sale|
+內銷|
+~
+Always enable it|
+始終開啟|
+~
+Change it as needed|
+需要時開啟|
+~
+Never change it|
+始終關閉|
+~
+Sell factory "internal sale" products at cost|
+「內銷」產品以出成本價出廠|
+~
+Change Training Budget|
+改變培訓預算|
+~
+Change Advertising Budget|
+改變廣告預算|
+~
+CMO decides which products to advertise|
+市場總監決定何種商品需要廣告|
+~
+CMO chooses media firms and decides advertising budgets|
+市場總監選擇媒體機構且決定廣告預算|
+~
+Prefer own media firms|
+優先選擇自己的媒體機構|
+~
+Only advertise in own media firms|
+只用自己的媒體機構廣告|
+~
+Change R&D Projects|
+改變研發項目|
+~
+Adjust Training Levels for all your firms:|
+為你的所有企業調整培訓級別：|
+~
+Dividend Payout Ratio|
+派息率|
+~
+Monthly Spending|
+每月花費|
+~
+Investor relations efforts will help improve your|
+用於投資者關係的力度將影響公司的股票表現。|
+~
+corporation's stock performance.|
+|
+~
+Hire New|
+聘請新|
+~
+Organize an Intensive Training Program|
+組織一次強化培訓|
+~
+Training effect will be instant but|
+培訓效果將立刻體現|
+~
+its cost-effectiveness is 30% lower than normal training.|
+但其效益要比正常培訓低30%。|
+~
+How much will you allocate for training per employee?|
+你打算為每位員工分配多少費用用於培訓？|
+~
+If your corporation is using '%' strategy,|
+如果你的公司採用「%「策略，|
+~
+Current Brand Strategy|
+當前品牌策略|
+~
+Regularly adjust prices based on inflation|
+基於通脹定期調整價格|
+~
+Increase all product prices monthly at the same rate as inflation|
+以通脹速度相同的頻率每月增加所有產品價格|
+~
+Increase all advertising spendings monthly based on inflation|
+以通脹速度相同的頻率每月增加廣告支出|
+~
+Adjust advertising spending based on inflation|
+基於通脹調整廣告支出|
+~
+MANUFACTURER'S GUIDE|
+製造指導|
+~
+MANAGER OF THIS FIRM|
+管理這個企業|
+~
+I currently manage this firm myself|
+當前該企業正由我自己管理|
+~
+I will manage this firm myself (F1)|
+我自己來管理這個企業|
+~
+I will manage all of my firms (F1)|
+我自己來管理所有企業|
+~
+Let he manage:|
+讓他來管理：|
+~
+Let her manage:|
+讓她來管理：|
+~
+This firm (F2)|
+這個企業（F2）|
+~
+All of my firms (F2)|
+所有我的企業（F2）|
+~
+All my Factorys (F3)|
+所有我的工廠（F3）|
+~
+All my Farms (F3)|
+所有我的農場（F3）|
+~
+All my Retail Stores (F3)|
+所有我的零售店（F3）|
+~
+All my Logging Camps (F3)|
+所有我的伐木場（F3）|
+~
+All my Mines (F3)|
+所有我的礦場（F3）|
+~
+All my Oil Wells (F3)|
+所有我的油井（F3）|
+~
+All my TV Stations (F3)|
+所有我的電視台（F3）|
+~
+All my Newspaper Publishers (F3)|
+所有我的報社（F3）|
+~
+All my Radio Stations (F3)|
+所有我的電台（F3）|
+~
+All my Warehouses (F3)|
+所有我的倉庫（F3）|
+~
+All my R&D Centers (F3)|
+所有我的研發中心（F3）|
+~
+barrel|
+桶|
+~
+barrels|
+桶|
+~
+lb|
+磅|
+~
+lbs|
+磅|
+~
+ton|
+噸|
+~
+pair|
+雙|
+~
+oz|
+盎司|
+~
+packs|
+包|
+~
+box|
+箱|
+~
+quart|
+夸脫|
+~
+quarts|
+夸脫|
+~
+can|
+罐|
+~
+loaves|
+條|
+~
+dozen|
+打|
+~
+FARMER'S GUIDE|
+農業指導|
+~
+MANAGER'S GUIDE|
+管理指導|
+~
+Product Class|
+產品類別|
+~
+Product Type|
+產品類型|
+~
+Independent Investor|
+獨立投資者|
+~
+Attitude Towards Current Employer|
+對當前僱主的態度|
+~
+Owner:|
+所有者：|
+~
+Owned by Government|
+國有|
+~
+Government|
+國有|
+~
+Occupancy Rate|
+入住率|
+~
+Revenue|
+收益|
+~
+Profit|
+利潤|
+~
+Market Value|
+市值|
+~
+Community Facilities|
+配套設施|
+~
+Shopping Convenience|
+購物便利|
+~
+Green and Sports|
+綠色和體育|
+~
+Rent Attractiveness|
+租金吸引力|
+~
+Distance to CBD|
+CBD距離|
+~
+Commuting Convenience|
+通勤便利|
+~
+Overall Rating|
+總體評價|
+~
+Housing Supply|
+住房供應|
+~
+Housing Demand|
+住房需求|
+~
+Office Space Supply|
+辦公空間供應|
+~
+Office Space Demand|
+辦公空間需求|
+~
+Gain|
+收益率|
+~
+Gain in value|
+收益率|
+~
+Owned for|
+擁有年數|
+~
+Purchase Cost|
+購置成本|
+~
+LAND PLOT|
+地塊|
+~
+Land Value|
+土地價值|
+~
+CONSIDER TECH OFFER|
+考慮出售科技|
+~
+Natural Resource|
+自然資源|
+~
+Reserve|
+儲量|
+~
+Quality|
+質量|
+~
+Land Cost|
+土地成本|
+~
+Price Premium|
+溢價|
+~
+Nil|
+零|
+~
+Cost|
+成本|
+~
+Utilization|
+利用率|
+~
+Demolish Firm|
+拆除企業|
+~
+Relocate / Demolish Firm|
+搬遷 / 拆除企業|
+~
+Relocate Firm|
+搬遷企業|
+~
+Relocate This Firm|
+搬遷企業|
+~
+Are you sure that you want to demolish this firm?|
+你確定要拆除這個企業？|
+~
+Demolish This Firm Only|
+只拆除企業|
+~
+Demolish This Firm and Sell the Land|
+拆除企業並出售土地|
+~
+Current City (F5)|
+當前城市（F5）|
+~
+Warehouse Only (F6)|
+僅倉庫（F6）|
+~
+SELECT (F8)|
+選擇（F8）|
+~
+Customer Traffic Index|
+客流量|
+~
+% to build the firm.|
+%來建造企業。|
+~
+Hold the [SHIFT] key concurrently to build more|
+按住[SHIFT]鍵可以同時建造多個|
 ~
 Tutorial Goal|
 教程目標|
@@ -3778,135 +3020,257 @@ Tutorial Goal|
 Tutorial Goal (Main Goal)|
 教程目標（主要目標）|
 ~
-Breakthrough in Training|
-突破培訓|
+Information Center|
+信息中心|
 ~
-Aggressive Growth Plan|
-積極的增長計劃|
+REWARD|
+獎勵|
 ~
-Aggressive Growth Plan (Main Goal)|
-積極的增長計劃（主要目標）|
+REWARDS|
+獎勵|
 ~
-With the breakthrough in training, you now have the tool to improve the operating efficiency of your corporation to new heights and deliver truly outstanding financial returns to your shareholders.|
-在訓練的突破，你現在必須提高貴公司的工作效率達到新的高度，並提供真正優秀的財務回報你的股東的工具。|
++$5 million|
++5 百萬美元|
 ~
-Operating Performance Target|
-經營業績目標|
++$10 million|
++10 百萬美元|
 ~
-Operating Performance Target (Subgoal)|
-經營業績目標（子目標）|
++$15 million|
++15 百萬美元|
 ~
-Leverage the new training methodology to improve your corporation's operating profit margin.|
-利用新的訓練方法，以提高貴公司的運營利潤率。|
++$100 million|
++100 百萬美元|
 ~
-Congratulations! You have significantly improved your corporation's operating profit margin.|
-恭喜！你有顯著提高貴公司的運營利潤率。|
+PENALTY|
+懲罰|
 ~
-Growing the Talent Base.|
-越來越多的人才基地。|
+PENALTIES|
+懲罰|
 ~
-Growing the Talent Base. (Subgoal)|
-越來越多的人才基地。 （子目標）|
+Get the Reward Now|
+現在去領取獎勵|
 ~
-Be more aggressive in hiring and look for new talents to join your corporation.|
-在招聘更積極和尋找新的人才加入你的公司。|
+Bank|
+銀行|
 ~
-Congratulations! Your corporation has reached the milestone of having a staff size surpassing 1000 people.|
-恭喜！貴公司已達到其員工規模超過1000人的里程碑。|
+Investment Bank|
+投資銀行|
 ~
-BREAKTHROUGH IN TRAINING|
-突破培訓|
+Stock Exchange|
+股市|
 ~
-Food and Beverage Dominance|
-食品和飲料優勢|
+Download MOD|
+下載MOD|
 ~
-Food and Beverage Dominance (Subgoal)|
-食品和飲料優勢（子目標）|
+LOAD SCRIPT|
+加載腳本|
 ~
-Lead your corporation to achieve market dominance in the food and beverage and deliver outstanding financial returns to your investors. (You are limited to production of beverage, food and snacks until you have achieved this goal.)|
-帶領你的企業取得市場的主導地位，在食品和飲料，並提供卓越的財務回報你的投資者。 （您僅限於生產飲料，食品和小吃，直到你已經實現了這一目標。）|
+Reset|
+重置|
 ~
-Congratulations! You have achieved market dominance in the food and beverage industry and your corporation's market cap has increased substantially. Your board of directors are extremely pleased with your performance and support your plan for entering new markets to drive further revenue growth.|
-恭喜！您在食品和飲料行業取得了市場的主導地位，你的公司的市值已大幅增加。你的董事會非常高興與你的表現，並支持你的計劃進入新的市場，以進一步推動收入的增長。|
+Info|
+信息|
 ~
-Multinational Conglomerate|
-跨國集團|
+Banner|
+橫幅|
 ~
-Multinational Conglomerate (Main Goal)|
-跨國集團（主要目標）|
+Use|
+使用|
 ~
-With your success in the food and beverage industry, your current goal is to diversify your business and further grow your corporation into a multinational conglomerate with a market capitalization of $1 billion and an annual revenue of at least $800 million.|
-隨著食品和飲料行業你的成功，你目前的目標是多元化的業務，並進一步貴公司成長為一家跨國集團有1美元十億市值和年收入至少8百萬美元。|
+has been loaded successfully.|
+已被成功加載。|
 ~
-FOOD AND BEVERAGE|
-餐飲|
+MOD Setting|
+MOD設置|
 ~
-LEGENDARY INVESTOR|
-傳奇投資|
+MOD in use|
+使用中的MOD|
 ~
-Legendary Investor|
-傳說中的投資者|
+Reset successfully. The game now no longer uses any MOD.|
+重置成功。遊戲現在已不再使用任何MOD。|
 ~
-Legendary Investor (Main Goal)|
-傳說中的投資者（主要目標）|
+About|
+關於|
 ~
-You will earn the title of the Legendary Investor when you have snowballed your personal wealth to $1 billion and gained control of 5 public companies either directly or via your holding company!|
-您將獲得傳奇投資者的冠軍時，你已經滾雪球般的個人財富$ 1十億，並獲得5上市公司直接或通過您的控股公司的控制權！|
+Select|
+選擇|
 ~
-Launching a New Brand|
-推出一個新品牌|
+Random Select|
+隨機選擇|
 ~
-Launching a New Brand (Subgoal)|
-推出一個新的品牌（子目標）|
+Load|
+加載|
 ~
-Facing tough competition from established fashion companies, your near term goal is to stay afloat and curve out a niche with your new fashion brand.|
-面對既定時裝公司激烈的競爭，你的近期目標是要維持下去，並曲線與您的新時尚品牌的利基。|
+Guide|
+指導|
 ~
-Congratulations! Your company's performance has impressed investors and led to a new round of investment of $100 million into your company!|
-恭喜！您的公司的業績讓投資者印象深刻，並引發了新一輪1億美元到貴公司的投資！|
+The central bank decreases the interest rate from % to %.|
+央行將貸款利率從%降低至%。|
 ~
-Growing Your Business|
-發展公司業務|
+The central bank increases the interest rate from % to %.|
+央行將貸款利率從%上調至%。|
 ~
-Growing Your Business (Subgoal)|
-發展公司業務（子目標）|
+%changes its corporate strategy from %to %.|
+%將其公司策略由%轉為%。|
 ~
-Having secured a foothold in the market with your brand and strengthened your war chest with the new investment, you can now afford to expand your business aggressively and seize market shares from your competitors.|
-經固定在市場上站穩腳跟與你的品牌和加強你的戰爭的胸部與新的投資，你現在有能力積極拓展業務，並從你的競爭者搶占市場份額。|
+The New Central Bank Chairman|
+新的央行董事長|
 ~
-Excellent! You have developed your company into a force to be reckoned with!|
-好極了！您開發公司建設成為一支不可忽視！|
+A new chairman with Inflation Dove (strong) attitude is now at the helm of the central bank.|
+一位對通貨膨脹持強力贊成態度的董事長掌舵央行。|
 ~
-Market Leadership|
-市場領導者|
+A new chairman with Inflation Dove (modest) attitude is now at the helm of the central bank.|
+一位對通貨膨脹持贊成態度的董事長掌舵央行。|
 ~
-Market Leadership (Subgoal)|
-市場領導者（子目標）|
+A new chairman with Neutral attitude is now at the helm of the central bank.|
+一位對通貨膨脹保持中立態度的董事長掌舵央行。|
 ~
-Thanks to your recent rounds of successful expansions, you are now in a position to take another leap and eventually become the market leader in the apparel industry.|
-感謝您最近幾輪成功的擴展了，你現在是在一個位置，採取另一種飛躍，並最終成為市場的領導者在服裝行業。|
+A new chairman with Inflation Hawk (modest) attitude is now at the helm of the central bank.|
+一位對通貨膨脹持抑制態度的董事長掌舵央行。|
 ~
-Congratulations! You have come a long way since your humble beginning!|
-恭喜！你來了，因為你的卑微開始很長的路要走！|
+A new chairman with Inflation Dove (strong) attitude is now at the helm of the central bank.|
+一位對通貨膨脹持強力抑制態度的董事長掌舵央行。|
 ~
-Fashion Dominance|
-時尚的優勢|
+This Seaport supplies consumer goods.|
+這個港口供應消費品.|
 ~
-Fashion Dominance (Main Goal)|
-時尚的優勢（主要目標）|
+This Seaport supplies industrial goods.|
+這個港口供應工業用品.|
 ~
-The leather product market is highly lucrative, you should leverage your success in the fashion market to broaden your product lines to cover leather products. You win this game when you achieve market dominance in both apparel and leather products.|
-皮革製品市場上是非常豐厚的，你應該充分利用你的成功，在時裝市場，拓寬產品線涵蓋皮革產品。你贏了這場比賽，當你取得市場主導地位的服裝和皮革產品。|
+Market Dominance of the Apparel Industry|
+服裝行業領導者|
 ~
-In this tutorial, you will be introduced to the basics of the game's interface. You will then learn how to build your first retail store, stock it with products from suppliers, and sell them to consumers to generate incomes.|
-在本教程中，你將被引入到遊戲界面的基本知識。然後，您將學習如何建立你的第一個零售商店，與供應商的產品庫存它，並把它們賣給消費者產生收入。|
+Market Dominance of the Real Estate Sector|
+房地產行業領導者|
 ~
-Achieve an annual revenue of $20 million to complete this tutorial.|
-全年實現營業收入2000萬美元，完成本教程。|
+You have been given a new goal!|
+你已經獲得一個新任務！|
 ~
-In this tutorial, you will learn advanced management skills for running a retail store and growing your retail chain by expanding into other cities.|
-在本教程中，您將學習先進的管理技能，運行一個零售商店，並擴大到其他城市越來越多的零售連鎖企業。|
+Lifetime Shareholder Return|
+終身股東回報率|
 ~
-Achieve an annual revenue of $50 million and an annual profit of $5 million to complete this tutorial.|
-全年實現營業收入5000萬美元，年利潤500萬美元，以完成本教程。|
+(Main Goal)|
+（主要任務）|
+~
+(Subgoal)|
+（子目標）|
+~
+SUBGOAL|
+子目標|
+~
+Score Bonus|
+得分獎勵|
+~
+Score Bonus (plus early completion bonus)|
+得分獎勵（加上早期已完成獎勵）|
+~
+Corporate Cash Bonus|
+公司現金獎勵|
+~
+Personal Cash Bonus|
+人物現金獎勵|
+~
+Your COO's Expertise on Manufacturing|
+你的運營總監在製造業的應驗|
+~
+Your CTO's Expertise on Research and development|
+你的技術總監在研發上的應驗|
+~
+Your CMO's Expertise on Marketing|
+你的市場總監在市場營銷上的應驗|
+~
+Your COO will resign|
+你的運營總監將會辭職|
+~
+Your CTO will resign|
+你的技術總監將會辭職|
+~
+Your COO's attitude towards you|
+你的運營總監對你的態度|
+~
+Your CTO's attitude towards you|
+你的技術總監對你的態度|
+~
+COO Salary Modifier|
+運營總監薪水調整|
+~
+CTO Salary Modifier|
+技術總監薪水調整|
+~
+A new chairman with Inflation Dove (strong) attitude is now at the helm of the central bank.|
+一個新的通貨膨脹鴿派董事長(強)掌舵央行.|
+~
+A new chairman with Inflation Dove (modest) attitude is now at the helm of the central bank.|
+一個新的通貨膨脹鴿派董事長(謙虛)掌舵央行.|
+~
+A new chairman with Neutral attitude is now at the helm of the central bank.|
+一個新的中立派董事長掌舵央行.|
+~
+A new chairman with Inflation Hawk (modest) attitude is now at the helm of the central bank.|
+一個新的通貨膨脹鷹派董事長(溫和)掌舵央行.|
+~
+A new chairman with Inflation Hawk (strong) attitude is now at the helm of the central bank.|
+一個新的通貨膨脹鷹派董事長(強勢)掌舵央行.|
+~
+Research on which product?|
+你想要研究什麼？|
+~
+How Long is the Research?|
+你準備研究多久？|
+~
+R&D Duration|
+研究時間|
+~
+Expected Tech Advancement|
+預期科技數值|
+~
+Warehouse Storage Unit|
+倉庫存儲單元|
+~
+Warehouse Output Unit|
+倉庫輸出單元|
+~
+START|
+開始|
+~
+Rankings|
+排位|
+~
+Public Challenge Games|
+公開挑戰賽|
+~
+Private Challenge Games|
+私人挑戰賽|
+~
+Normal Difficulty. Enjoyable for Most Players.|
+正常難道，適合大多數玩家。|
+~
+Hard. Only choose this if you have won in easier games.|
+困難，只有當你贏得簡單遊戲時才選這個|
+~
+For Expert Players Only. Not recommended for normal players.|
+僅供專業玩家。不推薦普通玩家。|
+~
+Extremely Difficult! Not recommended for most players.|
+極度困難。不推薦絕大多數玩家。|
+~
+Insanely Difficult! Not enjoyable unless you have achieved mastery with this game.|
+瘋狂難！極度無趣除非對這個遊戲融會貫通。|
+~
+For Experienced Players looking for More Challenge.|
+為有經驗的玩家尋求更多挑戰|
+~
+A Humanly Impossible Challenge! Do not choose this if you want a winnable game.|
+人類不可能完成的挑戰，不要選擇除非你根本不想贏這個遊戲。|
+~
+Randomly Disable Product Classes|
+隨機禁用產品類別|
+~
+Instructions: How to set up a private challenge game|
+介紹如何開啟一個私人挑戰遊戲|
+~
+//教程部分翻譯//
+//教程1//
+You have graduated with an MBA from a renowned business school. Can you apply what you have learned into running a business in the real world? Now it is your chance to prove your ability!^^Click the flashing Next icon to continue. Alternatively, you may press the ~Enter~ key to continue whenever the Next icon is flashing. |
+你已經從一個著名的商學院畢業了。你能把你所學到的東西應用到現實世界中的商業運作中嗎？現在是你證明你能力的機會！點擊閃爍的下一個圖標繼續。或者，你可以按回車鍵繼續每當下一個圖標閃爍時。|
 ~

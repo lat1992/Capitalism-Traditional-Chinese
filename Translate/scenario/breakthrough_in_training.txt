@@ -1,0 +1,89 @@
+[HEADER]
+Title=培訓突破
+Description=一個由財團支持的商學院經過在培訓方法多年的研究終於產生了驚人的結果。 ^^新的培訓方法能夠增加企業的培訓效率高達100％，現在世界各地的企業正在迅速採用這一新的訓練\n方法。 ^^你的公司也已經加入這個行列，而且你打算利用它來大大提高你的員工的生產效率。
+
+Difficulty Rating=90
+
+[ENVIRONMENT]
+Number of Cities=5
+Your Start-up Capital=High 
+Random Events=Occasional 
+Game Starting Year=1990
+Retail Store Type=Many
+Technology Disruption=On
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Macro Economy Realism=High
+Inflation=Inverse
+Inflation Strength=Normal
+
+[COMPETITORS]
+Number of Competitors=20
+Competitor Start-up Capital=Moderate  
+Competitor Aggressiveness=Moderate  
+Competitor Expertise Level=Moderate
+Show Competitor Trade Secrets=Yes
+AI Friendly Merger=No
+Competence of Local Competitors=Moderate 
+
+[IMPORTS]
+Consumer Goods Seaports=2
+Industrial Goods Seaports=2
+Constant Import Supply=No
+Import Quality=Moderate 
+
+[SPECIAL RULES]
+Training Effect Modifier=200
+
+//-------------------------------------------------------------------//
+
+[MAIN GOAL]
+Goal Title=積極成長計劃 
+Goal Description=隨著培訓的突破，你現在必須改善你的企業的工作效率並達到新的高度，並提供真正優秀的財務狀況回報你的股東。
+
+Number of Game Years=70
+
+[MAIN GOAL VALUES]
+Player Company Annual Revenue=800
+Player Company Annual Profit=100
+Lifetime shareholder return=1000
+
+[MAIN GOAL REWARDS] 
+Score change=200
+
+//-------------------------------------------------------------------//
+
+[SUBGOAL]
+Goal Title=經營業績目標
+Goal Description=利用新的培訓方法，提高公司的營業利潤。
+
+Goal Achieved Text=恭喜！你已經顯著提高了公司的營業利潤。 
+
+[SUBGOAL VALUES]
+Operating Profit Margin=15
+
+[SUBGOAL REWARDS] 
+Score change=100
+Corporate Cash Change=100
+
+//-------------------------------------------------------------------//
+
+[SUBGOAL]
+Goal Title=日漸增多的人才基地 
+Goal Description=更加積極的招聘，尋找更多的人才加入公司。
+
+Goal Achieved Text=恭喜！你的公司已經達到了員工規模超過1000人的里程碑。
+
+[SUBGOAL VALUES]
+Total Number of Employees=1000
+
+[SUBGOAL REWARDS] 
+Score change=100
+Corporate Cash Change=100
+
+//-------------------------------------------------------------------//
+
+[CHALLENGE GAME]
+Number of Game Years=30
+Ranking Method=Score
+

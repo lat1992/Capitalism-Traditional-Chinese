@@ -1,0 +1,94 @@
+[HEADER]
+Title=一個相機製造商的困境
+Description=憑借你二十多年生產世界一流的攝影設備的經驗，你已經贏得了一批投資者的信任和啟動資金。 ^^雖然傳統膠片相機還主導目前的市場，但研發數碼攝影技術已經迫在眉睫。^^你看到一個很好的機會，但它在研究和開發上需要一個長期的投資且在成功之前沒有任產品兌現。^^你應該拿出您的資金從一開始就投入到數碼相機的研發還是留在傳統的膠片相機中？
+
+Difficulty Rating=120
+
+[ENVIRONMENT]
+Number of Cities=5
+Your Start-up Capital=High
+Random Events=Occasional 
+Game Starting Year=1990
+Retail Store Type=Many
+Technology Disruption=On
+Stock Market=Yes
+Alternative Stock Sim=Yes
+Macro Economy Realism=High
+Inflation=Inverse
+Inflation Strength=Normal
+
+[COMPETITORS]
+Number of Competitors=20
+Competitor Start-up Capital=Moderate  
+Competitor Aggressiveness=Moderate  
+Competitor Expertise Level=Moderate
+Show Competitor Trade Secrets=Yes
+AI Friendly Merger=No
+Competence of Local Competitors=Moderate 
+
+[IMPORTS]
+Consumer Goods Seaports=2
+Industrial Goods Seaports=2
+Constant Import Supply=No
+Import Quality=Moderate 
+
+[PLAYER EXPERTISE] 
+Product Expertise=Photography Products, 100
+
+[LOCKS]
+Product=All
+
+[UNLOCKS]
+Product=Photography Products 
+
+//-------------------------------------------------------------------//
+
+[SUBGOAL]
+Goal Title=Market Leader 
+Goal Description=Establish your company a producer of high quality camera products and strive to outperform the competition to become the market leader. (You are limited to production of photography products only until you have achieved this goal.)
+
+Goal Achieved Text=Congratulations! Your company has become the number one manufacturer of cameras. Now you may move on to even bigger goals. 
+
+Number of Game Years=20
+
+
+[SUBGOAL VALUES]
+Player Company Annual Revenue=200
+Player Company Annual Profit=20
+
+[SUBGOAL PRODUCTS]
+Photography Products
+
+[SUBGOAL REWARDS] 
+Score change=150
+Corporate cash change=100
+Unlock product=All
+
+//-------------------------------------------------------------------//
+
+[MAIN GOAL]
+Goal Title=Consumer Electronics Giant 
+Goal Description=With your success in the photography product market, you have the capital and resources to diversify your business into the consumer electronics market and take your corporation to new heights. 
+
+Number of Game Years=40
+
+Parent Goal=Market Leader
+
+[MAIN GOAL VALUES]
+Player Company Annual Revenue=1500
+Player Company Annual Profit=150
+
+[MAIN GOAL PRODUCTS]
+Photography Products
+Electronic Products
+Communication Devices
+
+[MAIN GOAL REWARDS] 
+Score change=300
+
+//-------------------------------------------------------------------//
+
+[CHALLENGE GAME]
+Number of Game Years=30
+Ranking Method=Score
+
